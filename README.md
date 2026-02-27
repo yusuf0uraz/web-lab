@@ -22,7 +22,5 @@ npm install
 ```bash
 npm run dev
 ```
-Tarayicida http://localhost:5173 adresini ac.
 
-## Ekran Goruntusu
-(ekran goruntusunu buraya ekle)
+
