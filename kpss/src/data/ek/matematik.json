@@ -1,0 +1,1593 @@
+{
+ "cards": [
+  {
+   "id": "x-mat-c-001",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "front": "Ardışık sayıların toplamı nasıl bulunur?",
+   "back": "Terim sayısı = (son − ilk) / artış + 1\nToplam = (ilk + son) · terim sayısı / 2\nÖrnek: 1 + 2 + ... + n = n(n + 1)/2"
+  },
+  {
+   "id": "x-mat-c-002",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "front": "Tek ve çift sayılarla işlem kuralları",
+   "back": "T + T = Ç, Ç + Ç = Ç, T + Ç = T\nT · T = T, Ç · (herhangi) = Ç\nTek sayının her kuvveti tek, çift sayının pozitif kuvveti çifttir."
+  },
+  {
+   "id": "x-mat-c-003",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "front": "Asal sayı nedir? Kritik noktalar?",
+   "back": "1'den büyük olup yalnızca 1'e ve kendisine bölünen doğal sayıdır.\n1 asal değildir; en küçük asal 2'dir ve 2 tek çift asaldır.\n2, 3, 5, 7, 11, 13, 17, 19, 23, 29 ..."
+  },
+  {
+   "id": "x-mat-c-004",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "front": "Aralarında asal sayılar",
+   "back": "1'den başka pozitif ortak böleni olmayan sayılardır (EBOB = 1). Asal olmaları gerekmez: 8 ile 9 aralarında asaldır. Ardışık iki sayı daima aralarında asaldır."
+  },
+  {
+   "id": "x-mat-c-005",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "front": "n! içindeki sondaki sıfır sayısı nasıl bulunur?",
+   "back": "n art arda 5'e bölünür, bölümler toplanır.\nÖrnek: 30! → 30/5 = 6, 6/5 = 1 → 6 + 1 = 7 sıfır.\nNot: 0! = 1! = 1"
+  },
+  {
+   "id": "x-mat-c-006",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "front": "Basamak analizi: AB ve ABC sayıları",
+   "back": "AB = 10A + B, ABC = 100A + 10B + C\nAB + BA = 11(A + B)\nAB − BA = 9(A − B)"
+  },
+  {
+   "id": "x-mat-c-007",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "front": "Mutlak değer ve tam sayılarda işaret kuralı",
+   "back": "|x| ≥ 0; |−5| = 5.\n(−) · (−) = (+), (−) · (+) = (−)\nNegatif sayının çift kuvveti pozitif, tek kuvveti negatiftir."
+  },
+  {
+   "id": "x-mat-c-008",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "front": "3 ve 9 ile bölünebilme kuralı",
+   "back": "Rakamları toplamı 3'ün katıysa sayı 3'e, 9'un katıysa 9'a bölünür. Bölümden kalan, rakamlar toplamının 3'e (9'a) bölümünden kalana eşittir."
+  },
+  {
+   "id": "x-mat-c-009",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "front": "2, 4, 5, 8 ve 10 ile bölünebilme",
+   "back": "2: son rakam çift. 4: son iki basamak 4'ün katı. 8: son üç basamak 8'in katı.\n5: son rakam 0 ya da 5. 10: son rakam 0."
+  },
+  {
+   "id": "x-mat-c-010",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "front": "11 ile bölünebilme kuralı",
+   "back": "Rakamlar birler basamağından başlayarak sırayla +, −, +, − ... işaretlenip toplanır; sonuç 11'in katıysa (0 dahil) sayı 11'e bölünür. Örnek: 2717 → 7 − 1 + 7 − 2 = 11 ✓"
+  },
+  {
+   "id": "x-mat-c-011",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "front": "Bölme işleminin temel bağıntısı",
+   "back": "Bölünen = Bölen · Bölüm + Kalan, 0 ≤ Kalan < Bölen.\nKalanlar bölenlerden hep 1 eksikse (ör. 6'ya bölünce 5, 8'e bölünce 7) sayı + 1, bölenlerin EKOK'unun katıdır."
+  },
+  {
+   "id": "x-mat-c-012",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "front": "Pozitif bölen sayısı nasıl bulunur?",
+   "back": "Sayı asal çarpanlarına ayrılır: a^m · b^n · c^k ise pozitif bölen sayısı (m + 1)(n + 1)(k + 1)'dir. Tam sayı bölen sayısı bunun 2 katıdır.\nÖrnek: 72 = 2³ · 3² → 4 · 3 = 12"
+  },
+  {
+   "id": "x-mat-c-013",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "front": "EBOB ile EKOK arasındaki bağıntı",
+   "back": "İki pozitif tam sayı için: EBOB(a, b) · EKOK(a, b) = a · b.\nEBOB, iki sayının da bölenidir; EKOK, iki sayının da katıdır."
+  },
+  {
+   "id": "x-mat-c-014",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "front": "Problemde EBOB mu, EKOK mu?",
+   "back": "Parçalara ayırma, eşit aralıkla dikme, en büyük ölçü → EBOB (küçültme).\nYan yana dizerek kare oluşturma, tekrar birlikte buluşma, en küçük ortak süre → EKOK (büyütme).",
+   "mnemonic": "Böl, küçül: EBOB; birleş, büyü: EKOK"
+  },
+  {
+   "id": "x-mat-c-015",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "front": "Üslü sayılarda temel kurallar",
+   "back": "aᵐ · aⁿ = aᵐ⁺ⁿ\naᵐ / aⁿ = aᵐ⁻ⁿ\n(aᵐ)ⁿ = aᵐ·ⁿ\naⁿ · bⁿ = (a · b)ⁿ"
+  },
+  {
+   "id": "x-mat-c-016",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "front": "Sıfırıncı ve negatif kuvvet; işaret tuzağı",
+   "back": "a⁰ = 1 (a ≠ 0), a⁻ⁿ = 1/aⁿ, (a/b)⁻ⁿ = (b/a)ⁿ\n−2⁴ = −16 ama (−2)⁴ = 16. Negatif tabanın çift kuvveti pozitif, tek kuvveti negatiftir."
+  },
+  {
+   "id": "x-mat-c-017",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "front": "Köklü sayılarda temel kurallar",
+   "back": "√a · √b = √(a·b), √a / √b = √(a/b)\n√(a² · b) = |a|√b (ör. √48 = 4√3)\nToplama yalnızca kök içleri aynıysa yapılır: 2√3 + 5√3 = 7√3"
+  },
+  {
+   "id": "x-mat-c-018",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "front": "Paydayı kökten kurtarma (eşlenik)",
+   "back": "1/√a = √a/a\n1/(√a − √b) = (√a + √b)/(a − b)\n1/(√a + √b) = (√a − √b)/(a − b)"
+  },
+  {
+   "id": "x-mat-c-019",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "front": "Devirli ondalık sayıyı kesre çevirme",
+   "back": "(Virgülsüz sayının tamamı − devretmeyen kısım) / (devreden basamak kadar 9, ardından devretmeyen ondalık basamak kadar 0)\n0,333... = 3/9 = 1/3\n0,1666... = (16 − 1)/90 = 1/6"
+  },
+  {
+   "id": "x-mat-c-020",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "front": "Kesirleri sıralamanın pratik yolları",
+   "back": "Paydaları ya da payları eşitle; olmuyorsa ondalığa çevir.\nPay ile payda arasındaki fark sabit ve kesirler 1'den küçükse, sayıları büyük olan daha büyüktür: 3/4 < 5/6 < 7/8."
+  },
+  {
+   "id": "x-mat-c-021",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "front": "Üslü denklemlerde ortak çarpan parantezi",
+   "back": "3ˣ⁺² − 3ˣ = 3ˣ(9 − 1) = 8 · 3ˣ\nTabanlar eşitlenince üsler eşitlenir: 2ˣ = 2⁵ → x = 5"
+  },
+  {
+   "id": "x-mat-c-022",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "front": "\"Bir sayının a/b'si\" ile \"a/b'si x olan sayı\" farkı",
+   "back": "x'in a/b'si = x · a/b\na/b'si x olan sayı = x · b/a\nÖrnek: 3/5'i 30 olan sayı 30 · 5/3 = 50"
+  },
+  {
+   "id": "x-mat-c-023",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "front": "Yaş problemlerinin altın kuralı",
+   "back": "İki kişi arasındaki yaş farkı hiç değişmez.\nn yıl sonra herkes n yaş büyür; k kişinin yaşları toplamı k · n artar (n yıl önce k · n azalır)."
+  },
+  {
+   "id": "x-mat-c-024",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "front": "Kesir problemlerinde bütünü seçme",
+   "back": "Bütünü, paydaların EKOK'u kadar al (ör. 1/3 ve 1/4 varsa 12x). Böylece kesirsiz çalışılır."
+  },
+  {
+   "id": "x-mat-c-025",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "front": "\"Önce ...'ünü, sonra kalanın ...'ünü\" kalıbı",
+   "back": "Her harcamada kalan oran çarpılır: önce 1/4'ü, sonra kalanın 2/3'ü harcanırsa kalan = x · (3/4) · (1/3) = x/4."
+  },
+  {
+   "id": "x-mat-c-026",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "front": "Ardışık sayılarda ortanca kuralı",
+   "back": "Ardışık (ya da eşit artan) sayıların ortalaması ortanca terime eşittir.\nTek sayıda terim için: toplam = ortanca · terim sayısı. 5 ardışık çift sayının toplamı 110 → ortanca 22."
+  },
+  {
+   "id": "x-mat-c-027",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "front": "Ortalama problemleri",
+   "back": "Toplam = ortalama · kişi sayısı. Yeni kişiler eklenince eski ve yeni toplamları ayrı ayrı yaz, farkını al."
+  },
+  {
+   "id": "x-mat-c-028",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "front": "Yüzde artış ve azalış",
+   "back": "x'in %a fazlası = x · (100 + a)/100\nx'in %a eksiği = x · (100 − a)/100\nÖrnek: 250'nin %20 fazlası 250 · 1,2 = 300"
+  },
+  {
+   "id": "x-mat-c-029",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "front": "Art arda yüzde değişimler",
+   "back": "Çarpanlar çarpılır, toplanmaz. %20 zam + %20 indirim = 1,2 · 0,8 = 0,96 → net %4 azalış.\nZam ve indirim oranları eşitse sonuç her zaman başlangıçtan küçüktür."
+  },
+  {
+   "id": "x-mat-c-030",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "front": "Kâr-zarar temel formülü",
+   "back": "Kâr/zarar yüzdesi aksi söylenmedikçe maliyet (alış) üzerinden hesaplanır.\nSatış = Maliyet · (100 ± k)/100\n%25 kâr → S = 1,25M; %10 zarar → S = 0,9M"
+  },
+  {
+   "id": "x-mat-c-031",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "front": "Etiket fiyatı ve indirim",
+   "back": "İndirim etiket fiyatı üzerinden yapılır: %25 indirimli fiyat = Etiket · 0,75.\nİndirimli fiyattan etiketi bulmak için bölünür: 360 / 0,75 = 480"
+  },
+  {
+   "id": "x-mat-c-032",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "front": "Karışımda su ekleme / buharlaştırma",
+   "back": "Tuz (şeker, alkol) miktarı = karışım · oran. Su eklenir ya da buharlaştırılırsa madde miktarı değişmez, sadece toplam değişir.\nYeni oran = madde / yeni toplam"
+  },
+  {
+   "id": "x-mat-c-033",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "front": "İki karışımı birleştirme",
+   "back": "Yeni oran = (m₁ · y₁ + m₂ · y₂) / (m₁ + m₂)\nOranlar ağırlıklı ortalama gibi davranır; sonuç iki oranın arasındadır ve miktarı çok olana yakındır."
+  },
+  {
+   "id": "x-mat-c-034",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "front": "Basit faiz",
+   "back": "Faiz = Anapara · Yıllık oran · Süre(yıl) / 100\nSüre ay ise /1200, gün ise /36000 ile hesaplanır."
+  },
+  {
+   "id": "x-mat-c-035",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "front": "Hareket problemlerinin temel formülü",
+   "back": "Yol = Hız · Zaman (x = V · t)\nZaman = Yol / Hız"
+  },
+  {
+   "id": "x-mat-c-036",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "front": "Karşılaşma ve yetişme",
+   "back": "Zıt yönde (birbirine doğru): t = x / (V₁ + V₂)\nAynı yönde (arkadaki yetişir): t = x / (V₁ − V₂)"
+  },
+  {
+   "id": "x-mat-c-037",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "front": "Ortalama hız",
+   "back": "Ortalama hız = toplam yol / toplam zaman (hızların aritmetik ortalaması değildir!).\nEşit yollar V₁ ve V₂ hızlarıyla gidilirse: 2V₁V₂ / (V₁ + V₂). 60 ve 40 → 48 km/sa"
+  },
+  {
+   "id": "x-mat-c-038",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "front": "Akıntı problemleri",
+   "back": "Akıntı yönünde hız = V + Vₐ\nAkıntıya karşı hız = V − Vₐ\n(V: durgun sudaki hız, Vₐ: akıntı hızı)"
+  },
+  {
+   "id": "x-mat-c-039",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "front": "Tren ve tünel / köprü",
+   "back": "Trenin tüneli tamamen geçmesi için alacağı yol = tren boyu + tünel boyu.\nkm/sa'yi m/sn'ye çevirmek için 3,6'ya böl: 72 km/sa = 20 m/sn"
+  },
+  {
+   "id": "x-mat-c-040",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "front": "İşçi problemleri",
+   "back": "Bir işi a günde bitiren, 1 günde işin 1/a'sını yapar.\nBirlikte: 1/a + 1/b = 1/t\nİşçi sayısı ile süre ters orantılıdır: 3 işçi 8 gün = 4 işçi 6 gün (toplam 24 işçi-gün)."
+  },
+  {
+   "id": "x-mat-c-041",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "front": "Havuz problemleri",
+   "back": "Dolduran musluk +, boşaltan musluk − alınır: 1/a − 1/b = 1/t\nÖrnek: 6 saatte dolduran ve 9 saatte boşaltan birlikte: 1/6 − 1/9 = 1/18 → 18 saat"
+  },
+  {
+   "id": "x-mat-c-042",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "front": "Alt küme sayısı",
+   "back": "n elemanlı bir kümenin alt küme sayısı 2ⁿ, öz alt küme sayısı 2ⁿ − 1'dir.\nr elemanlı alt küme sayısı C(n, r). Belirli k eleman bulunsun, belirli m eleman bulunmasın: 2ⁿ⁻ᵏ⁻ᵐ"
+  },
+  {
+   "id": "x-mat-c-043",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "front": "Birleşimin eleman sayısı",
+   "back": "s(A ∪ B) = s(A) + s(B) − s(A ∩ B)\ns(A − B) = s(A) − s(A ∩ B)\nHiçbirine ait olmayanlar: toplam − s(A ∪ B)"
+  },
+  {
+   "id": "x-mat-c-044",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "front": "Olasılığın temeli",
+   "back": "P(A) = istenen durum sayısı / tüm durum sayısı, 0 ≤ P(A) ≤ 1\nTümleyen: P(A olmaması) = 1 − P(A). \"En az bir\" sorularında tümleyen kullan."
+  },
+  {
+   "id": "x-mat-c-045",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "front": "Bağımsız ve ayrık olaylar",
+   "back": "Bağımsız (ve): P(A ve B) = P(A) · P(B)\nAyrık (veya): P(A veya B) = P(A) + P(B)\nİadesiz çekilişte ikinci çekilişin payı ve paydası 1 azalır."
+  },
+  {
+   "id": "x-mat-c-046",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "front": "Permütasyon ve kombinasyon",
+   "back": "Sıra önemli → permütasyon: P(n, r) = n! / (n − r)!\nSıra önemsiz (seçim, grup) → kombinasyon: C(n, r) = n! / (r! (n − r)!)\nn kişi bir sıraya n! farklı şekilde dizilir."
+  },
+  {
+   "id": "x-mat-c-047",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "front": "Yan yana olma koşulu",
+   "back": "Yan yana olacak kişiler tek kişi gibi düşünülür, sonra kendi aralarında sıralanır.\n5 kişide belirli 2 kişi yan yana: 4! · 2! = 48"
+  },
+  {
+   "id": "x-mat-c-048",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "front": "Zar ve para atışları",
+   "back": "Bir zar: 6, iki zar: 36, n para: 2ⁿ eşit olası durum.\nİki zarda toplamı 7 olan durum 6 tanedir (en olası toplam); toplam 8 için 5 durum vardır."
+  },
+  {
+   "id": "x-mat-c-049",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "front": "Sayı örüntüsünde ilk adım",
+   "back": "Ardışık terimler arasındaki farklara bak. Farklar sabitse aritmetik dizi, oranlar sabitse geometrik dizi. Farklar da değişiyorsa ikinci farklara bak."
+  },
+  {
+   "id": "x-mat-c-050",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "front": "Aritmetik dizinin genel terimi",
+   "back": "aₙ = a₁ + (n − 1) · d (d: ortak fark)\nİki terim biliniyorsa: d = (aₘ − aₖ) / (m − k)"
+  },
+  {
+   "id": "x-mat-c-051",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "front": "Kare ve küp tabanlı örüntüler",
+   "back": "Farklar 3, 5, 7, 9 ... (ardışık tek) ise terimler n² tabanlıdır: 2, 5, 10, 17, 26 → n² + 1\n1, 8, 27, 64 → n³"
+  },
+  {
+   "id": "x-mat-c-052",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "front": "\"2 katının 1 fazlası\" örüntüsü",
+   "back": "3, 7, 15, 31, 63 ... → her terim öncekinin 2 katının 1 fazlası (2ⁿ⁺¹ − 1). Farklar da 4, 8, 16, 32 diye ikiye katlanır."
+  },
+  {
+   "id": "x-mat-c-053",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "front": "Fibonacci tipi örüntü",
+   "back": "Her terim kendinden önceki iki terimin toplamıdır: 1, 1, 2, 3, 5, 8, 13, 21 ..."
+  },
+  {
+   "id": "x-mat-c-054",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "front": "Yeni tanımlı işlemler (Δ, ⊕, * ...)",
+   "back": "Tanımdaki harflerin yerine verilen sayıları sırasına dikkat ederek koy. Önce parantez içi hesaplanır; işlem değişmeli olmayabilir (a Δ b ≠ b Δ a olabilir)."
+  },
+  {
+   "id": "x-mat-c-055",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "front": "Gün ve saat hesabı (periyot)",
+   "back": "Haftanın günleri 7'şerli tekrar eder: n gün sonrası için n'nin 7'ye bölümünden kalan kadar ileri say.\nSaat için 12 ya da 24'lük periyot kullanılır."
+  },
+  {
+   "id": "x-mat-c-056",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "front": "Sıralama / yerleştirme sorularında strateji",
+   "back": "Önce kesin bilgiyi (\"3. sırada Cem\") yerleştir, sonra blok halindeki koşulları (\"hemen sağında\", \"yan yana\") dene. \"Kesinlikle doğru\" sorularında tüm olası dizilişleri yaz; hepsinde doğru olan şık cevaptır."
+  },
+  {
+   "id": "x-mat-c-057",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "front": "Üçgende açı bağıntıları",
+   "back": "İç açılar toplamı 180°, dış açılar toplamı 360°.\nBir dış açı, kendisine komşu olmayan iki iç açının toplamına eşittir."
+  },
+  {
+   "id": "x-mat-c-058",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "front": "Üçgen eşitsizliği ve açı-kenar ilişkisi",
+   "back": "Bir kenar, diğer iki kenarın farkından büyük, toplamından küçüktür: |b − c| < a < b + c.\nBüyük kenarın karşısında büyük açı bulunur."
+  },
+  {
+   "id": "x-mat-c-059",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "front": "Pisagor bağıntısı ve özel üçlüler",
+   "back": "Dik üçgende a² + b² = c² (c: hipotenüs).\nEzber üçlüler: 3-4-5, 5-12-13, 8-15-17, 7-24-25 ve katları (6-8-10, 9-12-15 ...)",
+   "mnemonic": "3-4-5, 5-12-13, 8-15-17"
+  },
+  {
+   "id": "x-mat-c-060",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "front": "30°-60°-90° ve 45°-45°-90° üçgenleri",
+   "back": "30-60-90: kenarlar 1 : √3 : 2 (30°'nin karşısı hipotenüsün yarısı).\n45-45-90: kenarlar 1 : 1 : √2."
+  },
+  {
+   "id": "x-mat-c-061",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "front": "Üçgenin alanı",
+   "back": "Alan = taban · yükseklik / 2\nDik üçgen: dik kenarların çarpımı / 2\nEşkenar üçgen (kenar a): a²√3 / 4\nDik üçgende hipotenüse ait yükseklik = (dik kenarların çarpımı) / hipotenüs"
+  },
+  {
+   "id": "x-mat-c-062",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "front": "Dik üçgende kenarortay ve ikizkenar üçgen",
+   "back": "Dik üçgende hipotenüse ait kenarortay hipotenüsün yarısıdır.\nİkizkenar üçgende tepeden inen yükseklik, aynı zamanda kenarortay ve açıortaydır."
+  },
+  {
+   "id": "x-mat-c-063",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "front": "Benzer üçgenler",
+   "back": "Açıları eşit üçgenler benzerdir. Benzerlik oranı k ise çevreler oranı k, alanlar oranı k²'dir."
+  },
+  {
+   "id": "x-mat-c-064",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "front": "Çokgenlerde açılar",
+   "back": "n kenarlı çokgenin iç açıları toplamı (n − 2) · 180°, dış açıları toplamı 360°.\nDüzgün n-genin bir dış açısı 360°/n, bir iç açısı 180° − 360°/n."
+  },
+  {
+   "id": "x-mat-c-065",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "front": "Köşegen sayısı",
+   "back": "n kenarlı çokgenin köşegen sayısı n(n − 3)/2.\nBir köşeden çizilebilen köşegen sayısı n − 3."
+  },
+  {
+   "id": "x-mat-c-066",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "front": "Dikdörtgen ve kare",
+   "back": "Dikdörtgen: Alan = a · b, Çevre = 2(a + b), Köşegen = √(a² + b²)\nKare: Alan = a², Köşegen = a√2, Alan = köşegen² / 2\nKısa yol: (a + b)² = a² + b² + 2ab"
+  },
+  {
+   "id": "x-mat-c-067",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "front": "Paralelkenar ve eşkenar dörtgen",
+   "back": "Paralelkenar: Alan = taban · o tabana ait yükseklik; köşegenler birbirini ortalar.\nEşkenar dörtgen: dört kenar eşit, köşegenler dik kesişir; Alan = köşegenlerin çarpımı / 2."
+  },
+  {
+   "id": "x-mat-c-068",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "front": "Yamuk",
+   "back": "Alan = (alt taban + üst taban) · yükseklik / 2\nOrta taban = (alt taban + üst taban) / 2 → Alan = orta taban · yükseklik"
+  },
+  {
+   "id": "x-mat-c-069",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "front": "Çember ve daire formülleri",
+   "back": "Çember çevresi 2πr, daire alanı πr².\nα merkez açılı yay uzunluğu: 2πr · α/360\nα merkez açılı daire dilimi alanı: πr² · α/360"
+  },
+  {
+   "id": "x-mat-c-070",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "front": "Çemberde açılar",
+   "back": "Merkez açının ölçüsü gördüğü yayın ölçüsüne eşittir.\nÇevre açı, gördüğü yayın yarısıdır.\nÇapı gören çevre açı 90°'dir (çember içindeki üçgen dik üçgendir)."
+  }
+ ],
+ "questions": [
+  {
+   "id": "x-mat-q-001",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "text": "2 + 4 + 6 + ... + 40 toplamı kaçtır?",
+   "options": [
+    "380",
+    "400",
+    "410",
+    "420",
+    "440"
+   ],
+   "answer": 3,
+   "explanation": "Terim sayısı (40 − 2)/2 + 1 = 20. Toplam = (2 + 40) · 20 / 2 = 420."
+  },
+  {
+   "id": "x-mat-q-002",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "text": "AB ve BA iki basamaklı sayılardır.\nAB + BA = 121 ve A − B = 3 olduğuna göre AB sayısı kaçtır?",
+   "options": [
+    "47",
+    "56",
+    "65",
+    "74",
+    "83"
+   ],
+   "answer": 3,
+   "explanation": "AB + BA = 11(A + B) = 121 → A + B = 11. A − B = 3 ile A = 7, B = 4 bulunur. AB = 74."
+  },
+  {
+   "id": "x-mat-q-003",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "text": "30! sayısının sonunda kaç tane sıfır vardır?",
+   "options": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "12"
+   ],
+   "answer": 0,
+   "explanation": "30/5 = 6, 6/5 = 1 (tam kısım). 6 + 1 = 7 sıfır vardır."
+  },
+  {
+   "id": "x-mat-q-004",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "text": "x ve y pozitif tam sayılardır.\nx · y = 24 olduğuna göre x + y toplamı en az kaçtır?",
+   "options": [
+    "8",
+    "10",
+    "11",
+    "14",
+    "25"
+   ],
+   "answer": 1,
+   "explanation": "Toplamın en küçük olması için çarpanlar birbirine en yakın seçilir: 4 · 6 = 24 → 4 + 6 = 10."
+  },
+  {
+   "id": "x-mat-q-005",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "text": "a, b ve c ardışık tek sayılardır ve a < b < c'dir.\na + b + c = 63 olduğuna göre c kaçtır?",
+   "options": [
+    "15",
+    "17",
+    "19",
+    "21",
+    "23"
+   ],
+   "answer": 4,
+   "explanation": "Ortanca terim 63/3 = 21'dir. Sayılar 19, 21, 23 → c = 23."
+  },
+  {
+   "id": "x-mat-q-006",
+   "subject": "matematik",
+   "topic": "Temel Kavramlar ve Sayılar",
+   "text": "a tek, b çift sayıdır.\nBuna göre aşağıdakilerden hangileri her zaman tek sayıdır?\nI. a + b\nII. a · b\nIII. a² + b",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "I ve III",
+    "I, II ve III"
+   ],
+   "answer": 3,
+   "explanation": "T + Ç = T olduğundan I tektir. T · Ç = Ç olduğundan II çifttir. a² tek, tek + çift = tek olduğundan III tektir."
+  },
+  {
+   "id": "x-mat-q-007",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "text": "Dört basamaklı 37A2 sayısı 9 ile tam bölünebildiğine göre A rakamı kaçtır?",
+   "options": [
+    "2",
+    "4",
+    "5",
+    "6",
+    "8"
+   ],
+   "answer": 3,
+   "explanation": "Rakamlar toplamı 3 + 7 + A + 2 = 12 + A, 9'un katı olmalı → 12 + A = 18 → A = 6."
+  },
+  {
+   "id": "x-mat-q-008",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "text": "180 sayısının pozitif bölen sayısı kaçtır?",
+   "options": [
+    "9",
+    "12",
+    "15",
+    "16",
+    "18"
+   ],
+   "answer": 4,
+   "explanation": "180 = 2² · 3² · 5 → (2 + 1)(2 + 1)(1 + 1) = 18."
+  },
+  {
+   "id": "x-mat-q-009",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "text": "Bir sayı 6'ya bölündüğünde 5, 8'e bölündüğünde 7 kalanını veriyor.\nBu koşulu sağlayan üç basamaklı en küçük sayı kaçtır?",
+   "options": [
+    "119",
+    "125",
+    "127",
+    "131",
+    "139"
+   ],
+   "answer": 0,
+   "explanation": "Sayının 1 fazlası hem 6'ya hem 8'e bölünür, yani EKOK(6, 8) = 24'ün katıdır. 24k − 1 ≥ 100 için en küçük değer k = 5: 120 − 1 = 119."
+  },
+  {
+   "id": "x-mat-q-010",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "text": "Kenar uzunlukları 84 m ve 60 m olan dikdörtgen biçimindeki bir bahçenin kenarlarına, her köşeye birer ağaç gelmek ve aralıklar eşit olmak koşuluyla ağaç dikilecektir.\nBuna göre en az kaç ağaç gerekir?",
+   "options": [
+    "12",
+    "20",
+    "24",
+    "26",
+    "48"
+   ],
+   "answer": 2,
+   "explanation": "Aralık en büyük olmalı: EBOB(84, 60) = 12 m. Çevre 2(84 + 60) = 288 m. Kapalı şekilde ağaç sayısı = 288/12 = 24."
+  },
+  {
+   "id": "x-mat-q-011",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "text": "Kenarları 12 cm ve 18 cm olan dikdörtgen biçimindeki özdeş kartonlar, aynı yönde ve aralarında boşluk kalmayacak biçimde yan yana dizilerek bir kare oluşturulacaktır.\nBunun için en az kaç karton gerekir?",
+   "options": [
+    "4",
+    "6",
+    "9",
+    "12",
+    "36"
+   ],
+   "answer": 1,
+   "explanation": "Karenin kenarı EKOK(12, 18) = 36 cm olmalı. Karton sayısı (36/12) · (36/18) = 3 · 2 = 6."
+  },
+  {
+   "id": "x-mat-q-012",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "text": "a ve b pozitif tam sayılardır.\nEBOB(a, b) = 6, EKOK(a, b) = 90 ve a = 18 olduğuna göre b kaçtır?",
+   "options": [
+    "12",
+    "15",
+    "24",
+    "30",
+    "45"
+   ],
+   "answer": 3,
+   "explanation": "EBOB · EKOK = a · b → 6 · 90 = 18 · b → b = 30. Kontrol: EBOB(18, 30) = 6, EKOK(18, 30) = 90."
+  },
+  {
+   "id": "x-mat-q-013",
+   "subject": "matematik",
+   "topic": "Bölünebilme, EBOB-EKOK",
+   "text": "Dört basamaklı 5A4B sayısı hem 5 hem de 9 ile tam bölünebilmektedir.\nBuna göre A'nın alabileceği değerlerin toplamı kaçtır?",
+   "options": [
+    "5",
+    "8",
+    "9",
+    "10",
+    "13"
+   ],
+   "answer": 4,
+   "explanation": "B = 0 ya da 5. B = 0 → 9 + A, 9'un katı → A = 0 veya 9. B = 5 → 14 + A, 9'un katı → A = 4. Toplam 0 + 9 + 4 = 13."
+  },
+  {
+   "id": "x-mat-q-014",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "text": "(2⁵ · 8²) / 4⁴ işleminin sonucu kaçtır?",
+   "options": [
+    "1/2",
+    "2",
+    "4",
+    "8",
+    "16"
+   ],
+   "answer": 3,
+   "explanation": "8² = 2⁶, 4⁴ = 2⁸. Sonuç 2⁵ · 2⁶ / 2⁸ = 2³ = 8."
+  },
+  {
+   "id": "x-mat-q-015",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "text": "√12 + √27 − √48 işleminin sonucu kaçtır?",
+   "options": [
+    "−√3",
+    "0",
+    "√3",
+    "2√3",
+    "3√3"
+   ],
+   "answer": 2,
+   "explanation": "√12 = 2√3, √27 = 3√3, √48 = 4√3. 2√3 + 3√3 − 4√3 = √3."
+  },
+  {
+   "id": "x-mat-q-016",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "text": "0,1666... + 1/3 işleminin sonucu kaçtır?",
+   "options": [
+    "1/3",
+    "1/2",
+    "2/3",
+    "5/6",
+    "1"
+   ],
+   "answer": 1,
+   "explanation": "0,1666... = (16 − 1)/90 = 15/90 = 1/6. 1/6 + 1/3 = 1/6 + 2/6 = 1/2."
+  },
+  {
+   "id": "x-mat-q-017",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "text": "a = 5/7, b = 3/4, c = 7/9 olduğuna göre aşağıdaki sıralamalardan hangisi doğrudur?",
+   "options": [
+    "a < b < c",
+    "a < c < b",
+    "b < a < c",
+    "c < a < b",
+    "c < b < a"
+   ],
+   "answer": 0,
+   "explanation": "Pay ile payda farkı hepsinde 2'dir; kesirler 1'den küçük olduğundan sayıları büyük olan daha büyüktür: 5/7 < 6/8 = 3/4 < 7/9. Yani a < b < c."
+  },
+  {
+   "id": "x-mat-q-018",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "text": "4 / (√7 − √3) ifadesinin eşiti aşağıdakilerden hangisidir?",
+   "options": [
+    "√7 + √3",
+    "√7 + 2√3",
+    "2√7 + √3",
+    "2(√7 + √3)",
+    "4(√7 + √3)"
+   ],
+   "answer": 0,
+   "explanation": "Pay ve payda √7 + √3 ile çarpılır: 4(√7 + √3) / (7 − 3) = √7 + √3."
+  },
+  {
+   "id": "x-mat-q-019",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "text": "3ˣ⁺² − 3ˣ = 72 olduğuna göre x kaçtır?",
+   "options": [
+    "−2",
+    "−1",
+    "0",
+    "1",
+    "2"
+   ],
+   "answer": 4,
+   "explanation": "3ˣ · 3² − 3ˣ = 3ˣ(9 − 1) = 8 · 3ˣ = 72 → 3ˣ = 9 = 3² → x = 2."
+  },
+  {
+   "id": "x-mat-q-020",
+   "subject": "matematik",
+   "topic": "Rasyonel Sayılar, Üslü ve Köklü Sayılar",
+   "text": "(−2)³ + (−2)² − 2² + (−1)¹⁵ işleminin sonucu kaçtır?",
+   "options": [
+    "−9",
+    "−7",
+    "−1",
+    "1",
+    "9"
+   ],
+   "answer": 0,
+   "explanation": "(−2)³ = −8, (−2)² = 4, −2² = −4, (−1)¹⁵ = −1. Toplam −8 + 4 − 4 − 1 = −9."
+  },
+  {
+   "id": "x-mat-q-021",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "text": "Bir sayının 3 fazlasının 2 katı, aynı sayının 5 katının 9 eksiğine eşittir.\nBu sayı kaçtır?",
+   "options": [
+    "5",
+    "7",
+    "9",
+    "12",
+    "15"
+   ],
+   "answer": 0,
+   "explanation": "2(x + 3) = 5x − 9 → 2x + 6 = 5x − 9 → 3x = 15 → x = 5."
+  },
+  {
+   "id": "x-mat-q-022",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "text": "Ali parasının önce 1/4'ünü, sonra kalan parasının 2/3'ünü harcadığında geriye 150 TL kalıyor.\nAli'nin başlangıçtaki parası kaç TL'dir?",
+   "options": [
+    "450",
+    "600",
+    "720",
+    "800",
+    "900"
+   ],
+   "answer": 1,
+   "explanation": "Kalan = x · (3/4) · (1/3) = x/4 = 150 → x = 600 TL."
+  },
+  {
+   "id": "x-mat-q-023",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "text": "Bir anne 38, kızı 10 yaşındadır.\nKaç yıl sonra annenin yaşı kızının yaşının 2 katı olur?",
+   "options": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "answer": 3,
+   "explanation": "38 + n = 2(10 + n) → 38 + n = 20 + 2n → n = 18. (Yaş farkı 28 sabit; kız 28 yaşında olunca anne 56 olur.)"
+  },
+  {
+   "id": "x-mat-q-024",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "text": "45 yaşındaki bir babanın üç çocuğunun yaşları toplamı 21'dir.\nKaç yıl sonra babanın yaşı, çocuklarının yaşları toplamına eşit olur?",
+   "options": [
+    "6",
+    "8",
+    "9",
+    "10",
+    "12"
+   ],
+   "answer": 4,
+   "explanation": "n yıl sonra baba 45 + n, çocukların toplamı 21 + 3n olur. 45 + n = 21 + 3n → 2n = 24 → n = 12."
+  },
+  {
+   "id": "x-mat-q-025",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "text": "Bir sınıftaki 20 öğrencinin sınav notu ortalaması 60'tır. Sınava sonradan 5 öğrenci daha girince sınıfın ortalaması 64 oluyor.\nSonradan giren 5 öğrencinin not ortalaması kaçtır?",
+   "options": [
+    "68",
+    "72",
+    "76",
+    "80",
+    "84"
+   ],
+   "answer": 3,
+   "explanation": "İlk toplam 20 · 60 = 1200, yeni toplam 25 · 64 = 1600. Gelenlerin toplamı 400, ortalaması 400/5 = 80."
+  },
+  {
+   "id": "x-mat-q-026",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "text": "Bir kitabın ilk gün 1/3'ü, ikinci gün 1/4'ü okunuyor ve geriye 75 sayfa kalıyor.\nKitap kaç sayfadır?",
+   "options": [
+    "180",
+    "200",
+    "210",
+    "240",
+    "300"
+   ],
+   "answer": 0,
+   "explanation": "Okunan 1/3 + 1/4 = 7/12, kalan 5/12. 5/12'si 75 olan sayı 75 · 12/5 = 180."
+  },
+  {
+   "id": "x-mat-q-027",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "text": "Ardışık beş çift sayının toplamı 110'dur.\nBu sayıların en büyüğü kaçtır?",
+   "options": [
+    "18",
+    "20",
+    "22",
+    "24",
+    "26"
+   ],
+   "answer": 4,
+   "explanation": "Ortanca terim 110/5 = 22. Sayılar 18, 20, 22, 24, 26 → en büyüğü 26."
+  },
+  {
+   "id": "x-mat-q-028",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "text": "Toplamları 48 olan iki sayıdan büyüğü küçüğünün 3 katıdır.\nBüyük sayı kaçtır?",
+   "options": [
+    "24",
+    "30",
+    "32",
+    "36",
+    "40"
+   ],
+   "answer": 3,
+   "explanation": "Küçük sayı x, büyük 3x. x + 3x = 48 → x = 12. Büyük sayı 3 · 12 = 36."
+  },
+  {
+   "id": "x-mat-q-029",
+   "subject": "matematik",
+   "topic": "Sayı, Kesir ve Yaş Problemleri",
+   "text": "Bir otobüsteki yolcuların 2/5'i kadındır. İlk durakta yalnızca 6 kadın yolcu iniyor ve otobüste kalan yolcuların 1/4'ü kadın oluyor.\nBaşlangıçta otobüste kaç kadın yolcu vardır?",
+   "options": [
+    "10",
+    "12",
+    "14",
+    "16",
+    "18"
+   ],
+   "answer": 1,
+   "explanation": "Toplam yolcu 20k alınırsa kadın 8k. (8k − 6) = (20k − 6)/4 → 32k − 24 = 20k − 6 → 12k = 18 → k = 3/2. Toplam 30, kadın 12."
+  },
+  {
+   "id": "x-mat-q-030",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "text": "Fiyatı 500 TL olan bir ürüne önce %20 zam, ardından yeni fiyat üzerinden %10 indirim yapılıyor.\nÜrünün son fiyatı kaç TL'dir?",
+   "options": [
+    "500",
+    "510",
+    "520",
+    "540",
+    "550"
+   ],
+   "answer": 3,
+   "explanation": "500 · 1,2 = 600; 600 · 0,9 = 540 TL."
+  },
+  {
+   "id": "x-mat-q-031",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "text": "Maliyeti 240 TL olan bir ürün %35 kârla satılıyor.\nÜrünün satış fiyatı kaç TL'dir?",
+   "options": [
+    "300",
+    "312",
+    "324",
+    "336",
+    "360"
+   ],
+   "answer": 2,
+   "explanation": "Satış = 240 · 1,35 = 324 TL."
+  },
+  {
+   "id": "x-mat-q-032",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "text": "Bir ürün 270 TL'ye satıldığında %10 zarar ediliyor.\nBu üründen %20 kâr elde etmek için satış fiyatı kaç TL olmalıdır?",
+   "options": [
+    "320",
+    "330",
+    "340",
+    "350",
+    "360"
+   ],
+   "answer": 4,
+   "explanation": "0,9M = 270 → M = 300 TL. %20 kâr için 300 · 1,2 = 360 TL."
+  },
+  {
+   "id": "x-mat-q-033",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "text": "Tuz oranı %20 olan 60 gram tuzlu suya 20 gram saf su ekleniyor.\nYeni karışımın tuz oranı yüzde kaçtır?",
+   "options": [
+    "%15",
+    "%16",
+    "%18",
+    "%20",
+    "%24"
+   ],
+   "answer": 0,
+   "explanation": "Tuz miktarı 60 · 0,2 = 12 g, değişmez. Yeni toplam 80 g. 12/80 = 0,15 → %15."
+  },
+  {
+   "id": "x-mat-q-034",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "text": "Alkol oranı %30 olan 40 litre karışım ile alkol oranı %10 olan 60 litre karışım birleştiriliyor.\nYeni karışımın alkol oranı yüzde kaçtır?",
+   "options": [
+    "%12",
+    "%14",
+    "%15",
+    "%16",
+    "%18"
+   ],
+   "answer": 4,
+   "explanation": "Alkol: 40 · 0,3 + 60 · 0,1 = 12 + 6 = 18 litre. Toplam 100 litre → %18."
+  },
+  {
+   "id": "x-mat-q-035",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "text": "8000 TL, yıllık %15 basit faizle 9 aylığına bankaya yatırılıyor.\nSüre sonunda kaç TL faiz alınır?",
+   "options": [
+    "900",
+    "1080",
+    "1200",
+    "1350",
+    "1800"
+   ],
+   "answer": 0,
+   "explanation": "Faiz = 8000 · 15 · 9 / 1200 = 900 TL."
+  },
+  {
+   "id": "x-mat-q-036",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "text": "Bir sınıftaki öğrencilerin %40'ı kızdır. Sınıfa 6 erkek öğrenci daha katılınca kızların oranı %30'a düşüyor.\nBaşlangıçta sınıfta kaç öğrenci vardır?",
+   "options": [
+    "12",
+    "15",
+    "18",
+    "24",
+    "30"
+   ],
+   "answer": 2,
+   "explanation": "Kız sayısı değişmez: 0,4x = 0,3(x + 6) → 0,1x = 1,8 → x = 18."
+  },
+  {
+   "id": "x-mat-q-037",
+   "subject": "matematik",
+   "topic": "Yüzde, Kâr-Zarar, Karışım",
+   "text": "Etiket fiyatı üzerinden %25 indirimle 360 TL'ye satılan bir ürünün etiket fiyatı kaç TL'dir?",
+   "options": [
+    "420",
+    "450",
+    "480",
+    "500",
+    "540"
+   ],
+   "answer": 2,
+   "explanation": "Etiket · 0,75 = 360 → Etiket = 480 TL. (360'ın %25 fazlası olan 450 tuzak cevaptır.)"
+  },
+  {
+   "id": "x-mat-q-038",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "text": "Aralarında 360 km uzaklık bulunan iki kentten saatteki hızları 50 km ve 70 km olan iki araç aynı anda birbirine doğru hareket ediyor.\nAraçlar kaç saat sonra karşılaşır?",
+   "options": [
+    "2,5",
+    "3",
+    "3,5",
+    "4",
+    "4,5"
+   ],
+   "answer": 1,
+   "explanation": "Zıt yönde hızlar toplanır: t = 360 / (50 + 70) = 3 saat."
+  },
+  {
+   "id": "x-mat-q-039",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "text": "Bir araç A kentinden B kentine saatte 60 km, aynı yoldan geri dönüşte saatte 40 km hızla gidiyor.\nAracın gidiş-dönüş boyunca ortalama hızı saatte kaç km'dir?",
+   "options": [
+    "45",
+    "48",
+    "50",
+    "52",
+    "55"
+   ],
+   "answer": 1,
+   "explanation": "Yol 120 km alınırsa gidiş 2 saat, dönüş 3 saat. Ortalama = 240/5 = 48 km/sa. (Kısa yol: 2 · 60 · 40 / 100 = 48.)"
+  },
+  {
+   "id": "x-mat-q-040",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "text": "Durgun sudaki hızı saatte 18 km olan bir motor, saatteki hızı 3 km olan bir nehirde akıntı yönünde 105 km gidip aynı yolu geri dönüyor.\nMotorun yolculuğu toplam kaç saat sürer?",
+   "options": [
+    "12",
+    "14",
+    "15",
+    "16",
+    "18"
+   ],
+   "answer": 0,
+   "explanation": "Akıntı yönünde 18 + 3 = 21 km/sa → 105/21 = 5 saat. Ters yönde 18 − 3 = 15 km/sa → 105/15 = 7 saat. Toplam 12 saat."
+  },
+  {
+   "id": "x-mat-q-041",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "text": "Bir işi Ali tek başına 10 günde, Veli tek başına 15 günde bitirebiliyor.\nİkisi birlikte bu işi kaç günde bitirir?",
+   "options": [
+    "5",
+    "6",
+    "7,5",
+    "8",
+    "12,5"
+   ],
+   "answer": 1,
+   "explanation": "1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6 → 6 gün."
+  },
+  {
+   "id": "x-mat-q-042",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "text": "Boş bir havuzu A musluğu tek başına 6 saatte doldurabiliyor; B musluğu ise dolu havuzu 9 saatte boşaltabiliyor.\nBoş havuzda iki musluk birlikte açılırsa havuz kaç saatte dolar?",
+   "options": [
+    "6",
+    "9",
+    "12",
+    "15",
+    "18"
+   ],
+   "answer": 4,
+   "explanation": "1 saatte dolan kısım 1/6 − 1/9 = 3/18 − 2/18 = 1/18 → havuz 18 saatte dolar."
+  },
+  {
+   "id": "x-mat-q-043",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "text": "Aralarında 150 km bulunan A ve B kentlerinden saatteki hızları sırasıyla 80 km ve 50 km olan iki araç aynı anda, A'dan B'ye doğru aynı yönde hareket ediyor.\nA'dan çıkan araç diğerine kaç saat sonra yetişir?",
+   "options": [
+    "5",
+    "6",
+    "8",
+    "10",
+    "12"
+   ],
+   "answer": 0,
+   "explanation": "Aynı yönde hızlar çıkarılır: t = 150 / (80 − 50) = 5 saat."
+  },
+  {
+   "id": "x-mat-q-044",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "text": "Bir işi aynı hızda çalışan 3 işçi 8 günde bitirebiliyor.\nAynı işi aynı hızda çalışan 4 işçi kaç günde bitirir?",
+   "options": [
+    "4",
+    "5",
+    "6",
+    "8",
+    "10"
+   ],
+   "answer": 2,
+   "explanation": "İş = 3 · 8 = 24 işçi-gün. 4 işçi ile 24/4 = 6 gün."
+  },
+  {
+   "id": "x-mat-q-045",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "text": "Uzunluğu 180 m olan bir tren saatte 72 km hızla, uzunluğu 220 m olan bir tüneli kaç saniyede tamamen geçer?",
+   "options": [
+    "9",
+    "11",
+    "18",
+    "20",
+    "25"
+   ],
+   "answer": 3,
+   "explanation": "72 km/sa = 72/3,6 = 20 m/sn. Alınacak yol 180 + 220 = 400 m. Süre 400/20 = 20 sn."
+  },
+  {
+   "id": "x-mat-q-046",
+   "subject": "matematik",
+   "topic": "Hareket ve İşçi Problemleri",
+   "text": "Ahmet bir işin yarısını tek başına 4 günde yapıyor. İşin kalanını Mehmet ile birlikte 3 günde bitiriyorlar.\nMehmet bu işin tamamını tek başına kaç günde bitirir?",
+   "options": [
+    "12",
+    "16",
+    "18",
+    "20",
+    "24"
+   ],
+   "answer": 4,
+   "explanation": "Ahmet işin tamamını 8 günde yapar. 3(1/8 + 1/m) = 1/2 → 1/8 + 1/m = 1/6 → 1/m = 1/24 → m = 24 gün."
+  },
+  {
+   "id": "x-mat-q-047",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "text": "A = {1, 2, 3, 4, 5} kümesinin alt kümelerinden kaç tanesinde 1 bulunur ama 3 bulunmaz?",
+   "options": [
+    "4",
+    "8",
+    "12",
+    "16",
+    "24"
+   ],
+   "answer": 1,
+   "explanation": "1 kesin alınır, 3 hiç alınmaz; kalan 3 eleman (2, 4, 5) serbesttir: 2³ = 8."
+  },
+  {
+   "id": "x-mat-q-048",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "text": "30 kişilik bir sınıfta İngilizce bilen 18, Almanca bilen 15 öğrenci vardır. 4 öğrenci bu dillerin hiçbirini bilmemektedir.\nHer iki dili de bilen kaç öğrenci vardır?",
+   "options": [
+    "7",
+    "9",
+    "11",
+    "12",
+    "13"
+   ],
+   "answer": 0,
+   "explanation": "En az bir dil bilen 30 − 4 = 26. 26 = 18 + 15 − x → x = 7."
+  },
+  {
+   "id": "x-mat-q-049",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "text": "İki zar birlikte atılıyor.\nÜst yüze gelen sayıların toplamının 8 olma olasılığı kaçtır?",
+   "options": [
+    "1/9",
+    "5/36",
+    "1/6",
+    "7/36",
+    "1/4"
+   ],
+   "answer": 1,
+   "explanation": "Toplamı 8 olanlar: (2,6), (3,5), (4,4), (5,3), (6,2) → 5 durum. Olasılık 5/36."
+  },
+  {
+   "id": "x-mat-q-050",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "text": "Bir torbada 4 kırmızı ve 6 mavi top vardır. Torbadan geri atılmamak üzere art arda iki top çekiliyor.\nİki topun da kırmızı olma olasılığı kaçtır?",
+   "options": [
+    "1/15",
+    "2/15",
+    "4/25",
+    "1/5",
+    "4/15"
+   ],
+   "answer": 1,
+   "explanation": "4/10 · 3/9 = 12/90 = 2/15. (İadeli çekilişte sonuç 4/25 olurdu; soru iadesizdir.)"
+  },
+  {
+   "id": "x-mat-q-051",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "text": "Aralarında Ayşe ve Berk'in de bulunduğu 5 kişi bir sıraya dizilecektir.\nAyşe ile Berk yan yana olmak koşuluyla kaç farklı sıralama yapılabilir?",
+   "options": [
+    "24",
+    "36",
+    "48",
+    "60",
+    "120"
+   ],
+   "answer": 2,
+   "explanation": "Ayşe ile Berk tek kişi gibi düşünülür: 4 birim 4! = 24 şekilde dizilir, ikisi kendi aralarında 2! = 2 şekilde yer değiştirir. 24 · 2 = 48."
+  },
+  {
+   "id": "x-mat-q-052",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "text": "6 kişilik bir gruptan 3 kişilik bir komisyon seçilecektir.\nGruptaki Can'ın komisyonda mutlaka bulunduğu kaç farklı komisyon oluşturulabilir?",
+   "options": [
+    "5",
+    "6",
+    "10",
+    "15",
+    "20"
+   ],
+   "answer": 2,
+   "explanation": "Can seçilmiş kabul edilir; kalan 5 kişiden 2 kişi seçilir: C(5, 2) = 10."
+  },
+  {
+   "id": "x-mat-q-053",
+   "subject": "matematik",
+   "topic": "Kümeler, Permütasyon, Olasılık",
+   "text": "Hilesiz bir madenî para 3 kez atılıyor.\nEn az bir kez yazı gelme olasılığı kaçtır?",
+   "options": [
+    "3/8",
+    "1/2",
+    "5/8",
+    "3/4",
+    "7/8"
+   ],
+   "answer": 4,
+   "explanation": "Tümleyen: hiç yazı gelmemesi (TTT) olasılığı 1/8. En az bir yazı = 1 − 1/8 = 7/8."
+  },
+  {
+   "id": "x-mat-q-054",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "text": "3, 7, 15, 31, 63, ...\nYukarıdaki sayı dizisinde bir sonraki terim kaçtır?",
+   "options": [
+    "95",
+    "111",
+    "125",
+    "126",
+    "127"
+   ],
+   "answer": 4,
+   "explanation": "Her terim öncekinin 2 katının 1 fazlasıdır: 63 · 2 + 1 = 127."
+  },
+  {
+   "id": "x-mat-q-055",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "text": "2, 5, 10, 17, 26, ...\nYukarıdaki sayı dizisinde bir sonraki terim kaçtır?",
+   "options": [
+    "28",
+    "31",
+    "35",
+    "36",
+    "37"
+   ],
+   "answer": 4,
+   "explanation": "Farklar 3, 5, 7, 9 → sonraki fark 11. 26 + 11 = 37 (terimler n² + 1)."
+  },
+  {
+   "id": "x-mat-q-056",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "text": "a Δ b = a · b − a + b biçiminde tanımlanıyor.\nBuna göre (3 Δ 2) Δ 4 işleminin sonucu kaçtır?",
+   "options": [
+    "13",
+    "15",
+    "17",
+    "19",
+    "23"
+   ],
+   "answer": 3,
+   "explanation": "3 Δ 2 = 6 − 3 + 2 = 5. 5 Δ 4 = 20 − 5 + 4 = 19."
+  },
+  {
+   "id": "x-mat-q-057",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "text": "Bugün günlerden salıdır.\nBugünden 45 gün sonra günlerden hangisi olur?",
+   "options": [
+    "Pazartesi",
+    "Çarşamba",
+    "Perşembe",
+    "Cuma",
+    "Pazar"
+   ],
+   "answer": 3,
+   "explanation": "45 = 7 · 6 + 3. 6 hafta sonra yine salıdır, 3 gün ileri sayılır: salı → çarşamba → perşembe → cuma."
+  },
+  {
+   "id": "x-mat-q-058",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "text": "Bir aritmetik dizinin 5. terimi 17, 9. terimi 33'tür.\nBu dizinin 20. terimi kaçtır?",
+   "options": [
+    "77",
+    "78",
+    "80",
+    "81",
+    "85"
+   ],
+   "answer": 0,
+   "explanation": "Ortak fark (33 − 17)/(9 − 5) = 4. a₂₀ = a₉ + 11 · 4 = 33 + 44 = 77."
+  },
+  {
+   "id": "x-mat-q-059",
+   "subject": "matematik",
+   "topic": "Sayısal Mantık, Tablo ve Grafik",
+   "text": "Ayşe, Burcu, Cem, Deniz ve Ece soldan sağa 1'den 5'e kadar numaralandırılmış, yan yana dizili beş koltuğa birer kişi olacak şekilde oturuyor.\n• Cem 3 numaralı koltukta oturuyor.\n• Ayşe ile Burcu yan yana oturuyor.\n• Deniz 1 numaralı koltukta oturmuyor.\n• Ece, Deniz'in hemen sağındaki koltukta oturuyor.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+   "options": [
+    "Deniz 4 numaralı koltukta oturur.",
+    "Ayşe 1 numaralı koltukta oturur.",
+    "Burcu 2 numaralı koltukta oturur.",
+    "Ece 4 numaralı koltukta oturur.",
+    "Cem, Burcu'nun hemen sağında oturur."
+   ],
+   "answer": 0,
+   "explanation": "Deniz-Ece bloğu 3'ü içeremez ve Deniz 1'de olamaz; bu yüzden Deniz 4, Ece 5'tedir. Ayşe ile Burcu 1 ve 2'ye herhangi sırayla oturur. Kesin olan: Deniz 4 numarada."
+  },
+  {
+   "id": "x-mat-q-060",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "text": "Bir üçgenin iç açılarının ölçüleri 2, 3 ve 4 sayılarıyla orantılıdır.\nBu üçgenin en büyük açısı kaç derecedir?",
+   "options": [
+    "40°",
+    "45°",
+    "60°",
+    "72°",
+    "80°"
+   ],
+   "answer": 4,
+   "explanation": "2k + 3k + 4k = 180° → k = 20°. En büyük açı 4 · 20 = 80°."
+  },
+  {
+   "id": "x-mat-q-061",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "text": "İki kenarının uzunluğu 5 cm ve 9 cm olan bir üçgenin üçüncü kenarının uzunluğu santimetre cinsinden bir tam sayıdır.\nÜçüncü kenar kaç farklı değer alabilir?",
+   "options": [
+    "9",
+    "10",
+    "12",
+    "13",
+    "14"
+   ],
+   "answer": 0,
+   "explanation": "9 − 5 < x < 9 + 5 → 4 < x < 14. x ∈ {5, 6, ..., 13} → 9 farklı değer."
+  },
+  {
+   "id": "x-mat-q-062",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "text": "Dik kenarlarının uzunlukları 6 cm ve 8 cm olan bir dik üçgende hipotenüse ait yüksekliğin uzunluğu kaç cm'dir?",
+   "options": [
+    "4",
+    "4,8",
+    "5",
+    "5,4",
+    "6"
+   ],
+   "answer": 1,
+   "explanation": "Hipotenüs √(36 + 64) = 10 cm. Alan iki yoldan: 6 · 8 / 2 = 10 · h / 2 → h = 48/10 = 4,8 cm."
+  },
+  {
+   "id": "x-mat-q-063",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "text": "Çevresi 24 cm olan bir eşkenar üçgenin alanı kaç cm²'dir?",
+   "options": [
+    "4√3",
+    "6√3",
+    "8√3",
+    "12√3",
+    "16√3"
+   ],
+   "answer": 4,
+   "explanation": "Kenar 24/3 = 8 cm. Alan = 8² · √3 / 4 = 64√3 / 4 = 16√3 cm²."
+  },
+  {
+   "id": "x-mat-q-064",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "text": "ABC üçgeninde m(A) = 40°'dir ve C köşesindeki dış açının ölçüsü 110°'dir.\nBuna göre m(B) kaç derecedir?",
+   "options": [
+    "30°",
+    "50°",
+    "60°",
+    "70°",
+    "80°"
+   ],
+   "answer": 3,
+   "explanation": "C'deki iç açı 180 − 110 = 70°. m(B) = 180 − 40 − 70 = 70°. (Kısa yol: dış açı = m(A) + m(B) → 110 = 40 + m(B).)"
+  },
+  {
+   "id": "x-mat-q-065",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "text": "ABC dik üçgeninde m(B) = 90°, m(C) = 30° ve |AC| = 12 cm'dir.\nBuna göre |BC| kaç cm'dir?",
+   "options": [
+    "6",
+    "8",
+    "6√2",
+    "6√3",
+    "12"
+   ],
+   "answer": 3,
+   "explanation": "30°'nin karşısındaki kenar AB, hipotenüsün yarısıdır: |AB| = 6. 30-60-90 üçgeninde 60°'nin karşısı |BC| = 6√3 cm."
+  },
+  {
+   "id": "x-mat-q-066",
+   "subject": "matematik",
+   "topic": "Açılar ve Üçgenler",
+   "text": "Benzerlik oranı 2/3 olan iki benzer üçgenden küçüğünün alanı 24 cm²'dir.\nBüyük üçgenin alanı kaç cm²'dir?",
+   "options": [
+    "36",
+    "48",
+    "54",
+    "64",
+    "72"
+   ],
+   "answer": 2,
+   "explanation": "Alanlar oranı (2/3)² = 4/9. 24 / A = 4/9 → A = 54 cm²."
+  },
+  {
+   "id": "x-mat-q-067",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "text": "Bir iç açısının ölçüsü 140° olan düzgün çokgen kaç kenarlıdır?",
+   "options": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "answer": 4,
+   "explanation": "Bir dış açı 180 − 140 = 40°. Kenar sayısı 360 / 40 = 9."
+  },
+  {
+   "id": "x-mat-q-068",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "text": "Çevresi 34 cm, köşegen uzunluğu 13 cm olan bir dikdörtgenin alanı kaç cm²'dir?",
+   "options": [
+    "30",
+    "40",
+    "48",
+    "60",
+    "72"
+   ],
+   "answer": 3,
+   "explanation": "a + b = 17 ve a² + b² = 169. (a + b)² = 289 = 169 + 2ab → ab = 60 cm². (Kenarlar 5 ve 12.)"
+  },
+  {
+   "id": "x-mat-q-069",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "text": "Köşegenlerinin uzunlukları 10 cm ve 24 cm olan bir eşkenar dörtgenin çevresi kaç cm'dir?",
+   "options": [
+    "34",
+    "40",
+    "48",
+    "52",
+    "68"
+   ],
+   "answer": 3,
+   "explanation": "Köşegenler birbirini dik ortalar: yarılar 5 ve 12. Kenar √(25 + 144) = 13 cm. Çevre 4 · 13 = 52 cm."
+  },
+  {
+   "id": "x-mat-q-070",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "text": "Paralel kenarlarının uzunlukları 8 cm ve 14 cm, yüksekliği 6 cm olan bir yamuğun alanı kaç cm²'dir?",
+   "options": [
+    "66",
+    "72",
+    "84",
+    "88",
+    "132"
+   ],
+   "answer": 0,
+   "explanation": "Alan = (8 + 14) · 6 / 2 = 22 · 3 = 66 cm²."
+  },
+  {
+   "id": "x-mat-q-071",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "text": "Yarıçapı 6 cm olan bir dairede, merkez açısının ölçüsü 120° olan daire diliminin alanı kaç cm²'dir?",
+   "options": [
+    "4π",
+    "6π",
+    "9π",
+    "12π",
+    "18π"
+   ],
+   "answer": 3,
+   "explanation": "Alan = π · 6² · 120/360 = 36π / 3 = 12π cm²."
+  },
+  {
+   "id": "x-mat-q-072",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "text": "[AB] bir çemberin çapıdır. C noktası çember üzerindedir; |AC| = 6 cm ve |BC| = 8 cm'dir.\nBu çemberin yarıçapı kaç cm'dir?",
+   "options": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "10"
+   ],
+   "answer": 1,
+   "explanation": "Çapı gören çevre açı 90° olduğundan ACB dik üçgendir. |AB| = √(36 + 64) = 10 cm, yarıçap 5 cm."
+  },
+  {
+   "id": "x-mat-q-073",
+   "subject": "matematik",
+   "topic": "Dörtgenler, Çember, Alan",
+   "text": "Bir düzgün onkenin (10 kenarlı çokgen) köşegen sayısı kaçtır?",
+   "options": [
+    "27",
+    "30",
+    "35",
+    "45",
+    "70"
+   ],
+   "answer": 2,
+   "explanation": "Köşegen sayısı n(n − 3)/2 = 10 · 7 / 2 = 35."
+  }
+ ]
+}

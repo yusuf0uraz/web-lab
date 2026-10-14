@@ -1,0 +1,173 @@
+{
+ "cards": [
+  {
+   "id": "x-guncel-c-001",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "Birleşmiş Milletler (BM)",
+   "back": "24 Ekim 1945'te kuruldu (Şart, San Francisco'da imzalandı). Merkezi New York. Türkiye kurucu üyedir."
+  },
+  {
+   "id": "x-guncel-c-002",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "BM'nin ana organları",
+   "back": "Genel Kurul, Güvenlik Konseyi, Ekonomik ve Sosyal Konsey, Vesayet Konseyi (1994'ten beri faaliyeti askıda), Uluslararası Adalet Divanı (Lahey) ve Sekreterlik."
+  },
+  {
+   "id": "x-guncel-c-003",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "BM Güvenlik Konseyi",
+   "back": "15 üye: 5 daimi ve veto yetkili üye (ABD, Rusya, Çin, Birleşik Krallık, Fransa) ve Genel Kurulca 2 yıllığına seçilen 10 geçici üye."
+  },
+  {
+   "id": "x-guncel-c-004",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "BM uzmanlık kuruluşları ve merkezleri",
+   "back": "UNESCO: Paris; Dünya Sağlık Örgütü (WHO) ve Uluslararası Çalışma Örgütü (ILO): Cenevre; FAO: Roma; IMF ve Dünya Bankası: Washington. UNICEF ise New York merkezlidir."
+  },
+  {
+   "id": "x-guncel-c-005",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "NATO",
+   "back": "4 Nisan 1949'da Washington Antlaşması ile kuruldu. Merkezi Brüksel. Türkiye 1952'de (Yunanistan ile birlikte) üye oldu. Antlaşmanın 5. maddesi ortak savunmayı düzenler."
+  },
+  {
+   "id": "x-guncel-c-006",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "Avrupa Konseyi",
+   "back": "1949'da kuruldu; merkezi Strazburg. Türkiye 1949'da üye oldu. Avrupa İnsan Hakları Sözleşmesi (1950) ve Avrupa İnsan Hakları Mahkemesi (Strazburg) bu yapıya bağlıdır. AB organı değildir."
+  },
+  {
+   "id": "x-guncel-c-007",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "Türkiye-AB ilişkilerinin kilometre taşları",
+   "back": "1959 AET'ye ortaklık başvurusu; 1963 Ankara Antlaşması; 1987 tam üyelik başvurusu; 1996 Gümrük Birliği; 1999 Helsinki Zirvesi'nde adaylık; 2005 katılım müzakereleri. AB: 1957 Roma Antlaşması (AET), 1993 Maastricht ile AB; merkez Brüksel."
+  },
+  {
+   "id": "x-guncel-c-008",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "AGİT",
+   "back": "1975 Helsinki Nihai Senedi ile Avrupa Güvenlik ve İşbirliği Konferansı (AGİK) olarak doğdu; 1995'te AGİT adını aldı. Merkezi Viyana. Türkiye kurucu katılımcıdır."
+  },
+  {
+   "id": "x-guncel-c-009",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "İslam İşbirliği Teşkilatı (İİT)",
+   "back": "1969'da Rabat Zirvesi'nde (Mescid-i Aksa yangını sonrası) kuruldu; 2011'e kadarki adı İslam Konferansı Örgütü. Merkezi Cidde. Türkiye kurucu üyedir."
+  },
+  {
+   "id": "x-guncel-c-010",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "Türk Devletleri Teşkilatı (TDT)",
+   "back": "2009 Nahçıvan Anlaşması ile Türk Dili Konuşan Ülkeler İşbirliği Konseyi (Türk Konseyi) olarak kuruldu; 2021 İstanbul Zirvesi'nde TDT adını aldı. Sekretaryası İstanbul'dadır."
+  },
+  {
+   "id": "x-guncel-c-011",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "front": "Diğer bölgesel kuruluşlar",
+   "back": "OECD: 1961, Paris, Türkiye kurucu üye. KEİ (Karadeniz Ekonomik İşbirliği): 1992, merkez İstanbul. EİT (Ekonomik İşbirliği Teşkilatı): 1985, Türkiye-İran-Pakistan, merkez Tahran. D-8: 1997, İstanbul. TÜRKSOY: 1993, merkez Ankara."
+  }
+ ],
+ "questions": [
+  {
+   "id": "x-guncel-q-001",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "text": "Türkiye NATO'ya hangi yıl üye olmuştur?",
+   "options": [
+    "1945",
+    "1949",
+    "1952",
+    "1955",
+    "1963"
+   ],
+   "answer": 2,
+   "explanation": "NATO 1949'da kurulmuş, Türkiye Kore Savaşı'na katılımının ardından 1952'de Yunanistan ile birlikte üye olmuştur."
+  },
+  {
+   "id": "x-guncel-q-002",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "text": "Aşağıdaki kuruluş-merkez eşleştirmelerinden hangisi yanlıştır?",
+   "options": [
+    "AGİT – Viyana",
+    "Avrupa Konseyi – Strazburg",
+    "İslam İşbirliği Teşkilatı – Cidde",
+    "UNESCO – Cenevre",
+    "NATO – Brüksel"
+   ],
+   "answer": 3,
+   "explanation": "UNESCO'nun merkezi Paris'tedir. Cenevre ise Dünya Sağlık Örgütü ve Uluslararası Çalışma Örgütü gibi kuruluşlara ev sahipliği yapar."
+  },
+  {
+   "id": "x-guncel-q-003",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "text": "Aşağıdakilerden hangisi BM Güvenlik Konseyinin daimi üyelerinden biri değildir?",
+   "options": [
+    "ABD",
+    "Çin",
+    "Fransa",
+    "Rusya",
+    "Almanya"
+   ],
+   "answer": 4,
+   "explanation": "Daimi üyeler ABD, Rusya, Çin, Birleşik Krallık ve Fransa'dır; Almanya daimi üye değildir."
+  },
+  {
+   "id": "x-guncel-q-004",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "text": "Türkiye ile Avrupa Ekonomik Topluluğu arasında ortaklık ilişkisi kuran antlaşma aşağıdakilerden hangisidir?",
+   "options": [
+    "Ankara Antlaşması",
+    "Roma Antlaşması",
+    "Maastricht Antlaşması",
+    "Lizbon Antlaşması",
+    "Helsinki Nihai Senedi"
+   ],
+   "answer": 0,
+   "explanation": "1963'te imzalanan Ankara Antlaşması Türkiye-AET ortaklığını kurmuş ve Gümrük Birliği'ne giden süreci başlatmıştır."
+  },
+  {
+   "id": "x-guncel-q-005",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "text": "I. Birleşmiş Milletler\nII. NATO\nIII. İslam İşbirliği Teşkilatı\nTürkiye yukarıdaki kuruluşlardan hangilerinin kurucu üyesidir?",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "I ve III",
+    "II ve III"
+   ],
+   "answer": 3,
+   "explanation": "Türkiye 1945'te BM'nin, 1969'da İslam Konferansı Örgütü'nün (bugünkü İİT) kurucuları arasındadır. NATO'ya ise 1949'daki kuruluşundan sonra, 1952'de katılmıştır."
+  },
+  {
+   "id": "x-guncel-q-006",
+   "subject": "guncel",
+   "topic": "Uluslararası Kuruluşlar",
+   "text": "Türk Devletleri Teşkilatı'nın temelini oluşturan Türk Dili Konuşan Ülkeler İşbirliği Konseyi hangi anlaşmayla kurulmuştur?",
+   "options": [
+    "Bakü Anlaşması",
+    "Nahçıvan Anlaşması",
+    "Astana Anlaşması",
+    "Bişkek Anlaşması",
+    "Semerkant Anlaşması"
+   ],
+   "answer": 1,
+   "explanation": "Türk Konseyi 2009'da imzalanan Nahçıvan Anlaşması ile kurulmuş, 2021 İstanbul Zirvesi'nde Türk Devletleri Teşkilatı adını almıştır."
+  }
+ ]
+}
