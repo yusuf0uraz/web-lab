@@ -1,0 +1,13 @@
+{
+  "name": "KPSS 10 Gün Kampı",
+  "short_name": "KPSS Kamp",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#7c4dff",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

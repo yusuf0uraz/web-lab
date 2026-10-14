@@ -1,0 +1,1525 @@
+{
+ "cards": [
+  {
+   "id": "x-vatandaslik-c-001",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Hukukun asıl (yazılı) kaynakları nelerdir?",
+   "back": "Anayasa, kanunlar, usulüne göre yürürlüğe konulmuş uluslararası antlaşmalar, Cumhurbaşkanlığı kararnameleri, yönetmelikler ve diğer düzenleyici işlemler."
+  },
+  {
+   "id": "x-vatandaslik-c-002",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Hukukun yazısız asıl kaynağı nedir?",
+   "back": "Örf ve adet hukuku. Oluşması için maddi unsur (uzun süre ve sürekli tekrar) ve manevi unsur (uyulması zorunlu olduğu inancı) gerekir."
+  },
+  {
+   "id": "x-vatandaslik-c-003",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Hukukun yardımcı (tali) kaynakları nelerdir?",
+   "back": "Yargı kararları (içtihat) ve bilimsel görüşler (doktrin). Hâkime yol gösterir, kural olarak bağlayıcı değildir."
+  },
+  {
+   "id": "x-vatandaslik-c-004",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Normlar hiyerarşisinde temel sıralama nasıldır?",
+   "back": "Anayasa → Kanun (ve kanun hükmündeki uluslararası antlaşmalar) → Cumhurbaşkanlığı kararnamesi → Yönetmelik → Yönerge/genelge. Alt norm üst norma aykırı olamaz."
+  },
+  {
+   "id": "x-vatandaslik-c-005",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Kamu hukuku dalları ve özel hukuk dalları",
+   "back": "Kamu: anayasa, idare, ceza, vergi, devletler genel hukuku. Özel: medeni hukuk, borçlar, ticaret, devletler özel hukuku. İş hukuku karma nitelik taşır."
+  },
+  {
+   "id": "x-vatandaslik-c-006",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Hukuki yaptırım türleri",
+   "back": "Ceza, cebri icra, tazminat, hükümsüzlük (yokluk, kesin hükümsüzlük, iptal edilebilirlik), iptal ve disiplin yaptırımları."
+  },
+  {
+   "id": "x-vatandaslik-c-007",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Hak ehliyeti ile fiil ehliyeti arasındaki fark",
+   "back": "Hak ehliyeti: haklara ve borçlara sahip olabilme; her insanda vardır. Fiil ehliyeti: kendi fiilleriyle hak edinip borç altına girebilme; ayırt etme gücü, ergin olma ve kısıtlı olmama gerekir (TMK md. 8-10)."
+  },
+  {
+   "id": "x-vatandaslik-c-008",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Kişilik ne zaman başlar ve sona erer?",
+   "back": "Çocuğun sağ olarak tamamıyla doğduğu anda başlar, ölümle sona erer. Cenin, sağ doğmak koşuluyla ana rahmine düştüğü andan itibaren hak ehliyetine sahiptir (TMK md. 28)."
+  },
+  {
+   "id": "x-vatandaslik-c-009",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Erginlik kaç yaşında başlar, hangi yollarla kazanılır?",
+   "back": "18 yaşın doldurulmasıyla. Ayrıca evlenme ergin kılar; 15 yaşını dolduran küçük, kendi isteği ve velisinin rızasıyla mahkeme kararıyla ergin kılınabilir (TMK md. 11-12)."
+  },
+  {
+   "id": "x-vatandaslik-c-010",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "front": "Tüzel kişi türleri (özel hukuk)",
+   "back": "Kişi toplulukları (dernek, şirket) ve mal toplulukları (vakıf)."
+  },
+  {
+   "id": "x-vatandaslik-c-011",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "Sened-i İttifak (1808)",
+   "back": "II. Mahmut ile ayanlar arasında, Alemdar Mustafa Paşa'nın öncülüğünde imzalandı. Padişahın yetkileri ilk kez sınırlandı; anayasal gelişmenin ilk belgesi sayılır."
+  },
+  {
+   "id": "x-vatandaslik-c-012",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "Tanzimat Fermanı (1839)",
+   "back": "Gülhane Hatt-ı Hümayunu; Abdülmecit döneminde Mustafa Reşit Paşa okudu. Can, mal ve namus güvenliği; yargılanmadan ceza verilmemesi; kanun üstünlüğü ilkesine ilk adım."
+  },
+  {
+   "id": "x-vatandaslik-c-013",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "Islahat Fermanı (1856)",
+   "back": "Gayrimüslimlere geniş haklar tanıdı (kamu görevine girme, okul açma vb.). Avrupa devletlerinin etkisiyle, Paris Konferansı öncesinde ilan edildi."
+  },
+  {
+   "id": "x-vatandaslik-c-014",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "Kanun-i Esasi (1876)",
+   "back": "İlk Osmanlı anayasası; II. Abdülhamit döneminde I. Meşrutiyet ilan edildi. Meclis-i Umumi: Heyet-i Ayan (padişahça atanır) + Heyet-i Mebusan (seçilir). Padişaha sürgün yetkisi verdi (md. 113). Meclis 1878'de 93 Harbi gerekçesiyle kapatıldı."
+  },
+  {
+   "id": "x-vatandaslik-c-015",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "1909 Kanun-i Esasi değişiklikleri",
+   "back": "II. Meşrutiyet (1908) sonrasında yapıldı; padişahın yetkileri kısıtlandı, sürgün yetkisi kaldırıldı, hükümet meclise karşı sorumlu oldu (parlamenter sisteme geçiş)."
+  },
+  {
+   "id": "x-vatandaslik-c-016",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "1921 Teşkilat-ı Esasiye Kanunu'nun özellikleri",
+   "back": "Olağanüstü dönemde hazırlandı; egemenlik kayıtsız şartsız milletindir; güçler birliği (meclis hükümeti sistemi); temel hak ve özgürlüklere ve yargıya ilişkin hüküm yoktur. 1923 değişikliğiyle Cumhuriyet ilan edildi."
+  },
+  {
+   "id": "x-vatandaslik-c-017",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "1924 Anayasası'nın özellikleri",
+   "back": "En uzun süre yürürlükte kalan anayasa (1924-1961). Tek meclis; güçler birliği ile kuvvetler ayrılığı arasında karma yapı; anayasa yargısı yok."
+  },
+  {
+   "id": "x-vatandaslik-c-018",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "1924 Anayasası'nda önemli değişiklikler",
+   "back": "1928: 'Devletin dini İslam'dır' ibaresi çıkarıldı. 1934: Kadınlara milletvekili seçme ve seçilme hakkı. 1937: Altı ilke (laiklik dahil) Anayasa'ya girdi."
+  },
+  {
+   "id": "x-vatandaslik-c-019",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "Kadınlara siyasi hakların tanınma sırası",
+   "back": "1930: belediye seçimleri; 1933: muhtarlık seçimleri; 1934: milletvekili seçme ve seçilme hakkı."
+  },
+  {
+   "id": "x-vatandaslik-c-020",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "1961 Anayasası'nın getirdiği yenilikler",
+   "back": "Kurucu Meclis hazırladı, halkoylamasıyla kabul edildi. Çift meclis (Millet Meclisi + Cumhuriyet Senatosu); Anayasa Mahkemesi; Millî Güvenlik Kurulu; sosyal devlet ilkesi; üniversite ve TRT'ye özerklik; kuvvetler ayrılığı."
+  },
+  {
+   "id": "x-vatandaslik-c-021",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "front": "1982 Anayasası nasıl hazırlandı?",
+   "back": "Kurucu Meclis = Danışma Meclisi + Millî Güvenlik Konseyi. 7 Kasım 1982 halkoylamasıyla kabul edildi. Tek meclis, güçlü yürütme. 2017 halkoylamasıyla Cumhurbaşkanlığı Hükümet Sistemi'ne geçildi (2018 seçimleriyle uygulamaya girdi)."
+  },
+  {
+   "id": "x-vatandaslik-c-022",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "1982 Anayasası'nın yapısı ve nitelikleri",
+   "back": "Başlangıç + 177 madde + geçici maddeler. Yazılı, katı (sert) ve ayrıntılı (kazuistik) bir anayasadır. Başlangıç kısmı Anayasa metnine dahildir (md. 176)."
+  },
+  {
+   "id": "x-vatandaslik-c-023",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "Md. 1 ve Md. 2",
+   "back": "Md. 1: Türkiye Devleti bir Cumhuriyettir. Md. 2: Cumhuriyetin nitelikleri; toplumun huzuru, millî dayanışma ve adalet anlayışı içinde insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, demokratik, laik ve sosyal bir hukuk devleti."
+  },
+  {
+   "id": "x-vatandaslik-c-024",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "Md. 3'te neler düzenlenir?",
+   "back": "Devletin ülkesi ve milletiyle bölünmez bütünlüğü, resmî dilin Türkçe olması, bayrak, millî marşın İstiklal Marşı olması ve başkentin Ankara olması."
+  },
+  {
+   "id": "x-vatandaslik-c-025",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "Değiştirilemeyecek hükümler (md. 4)",
+   "back": "İlk üç madde (devletin şekli, Cumhuriyetin nitelikleri, md. 3 hükümleri) değiştirilemez ve değiştirilmesi teklif edilemez. Md. 4'ün kendisi de bu koruma altındadır."
+  },
+  {
+   "id": "x-vatandaslik-c-026",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "Egemenlik (md. 6)",
+   "back": "Egemenlik kayıtsız şartsız Milletindir. Millet egemenliğini Anayasa'nın koyduğu esaslara göre yetkili organlar eliyle kullanır. Egemenliğin kullanılması hiçbir kişiye, zümreye veya sınıfa bırakılamaz; kimse kaynağını Anayasa'dan almayan devlet yetkisi kullanamaz."
+  },
+  {
+   "id": "x-vatandaslik-c-027",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "Kuvvetler ayrılığı (md. 7, 8, 9)",
+   "back": "Yasama: TBMM, devredilemez (md. 7). Yürütme: Cumhurbaşkanı (md. 8). Yargı: Türk Milleti adına bağımsız ve tarafsız mahkemeler (md. 9; 'tarafsız' ibaresi 2017'de eklendi)."
+  },
+  {
+   "id": "x-vatandaslik-c-028",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "Hukuk devletinin başlıca unsurları",
+   "back": "İdarenin her türlü eylem ve işlemine karşı yargı yolunun açık olması (md. 125), kanunların anayasaya uygunluk denetimi, kanun önünde eşitlik, hukuki güvenlik, kanuni hâkim güvencesi, yargı bağımsızlığı."
+  },
+  {
+   "id": "x-vatandaslik-c-029",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "Anayasa değişikliği: teklif ve kabul nisabı (md. 175)",
+   "back": "Teklif: üye tamsayısının en az 1/3'ü (200). Teklif Genel Kurulda iki defa görüşülür. Kabul: üye tamsayısının en az 3/5'i (360), gizli oyla."
+  },
+  {
+   "id": "x-vatandaslik-c-030",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "Anayasa değişikliğinde halkoylaması (md. 175)",
+   "back": "360-399 oyla kabul: Cumhurbaşkanı iade etmezse halkoyuna sunulur. 400 (2/3) ve üzeri: Cumhurbaşkanı yayımlar ya da halkoyuna sunabilir. Cumhurbaşkanı değişikliği yeniden görüşülmek üzere iade edebilir.",
+   "mnemonic": "200 teklif - 360 halkoylaması - 400 doğrudan"
+  },
+  {
+   "id": "x-vatandaslik-c-031",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "front": "Anayasanın üstünlüğü ve kanun önünde eşitlik",
+   "back": "Md. 11: Anayasa hükümleri yasama, yürütme ve yargı organlarını, idare makamlarını ve kişileri bağlar. Md. 10: Herkes dil, ırk, renk, cinsiyet, din, mezhep vb. ayrımı gözetilmeksizin kanun önünde eşittir."
+  },
+  {
+   "id": "x-vatandaslik-c-032",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Temel hakların niteliği (md. 12)",
+   "back": "Herkes kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir. Bu haklar kişinin topluma, ailesine ve diğer kişilere karşı ödev ve sorumluluklarını da içerir."
+  },
+  {
+   "id": "x-vatandaslik-c-033",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Temel hakların sınırlanması (md. 13)",
+   "back": "Yalnızca kanunla, Anayasa'nın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve özlerine dokunmadan sınırlanabilir. Sınırlamalar Anayasa'nın sözüne ve ruhuna, demokratik toplum düzeninin ve laik Cumhuriyetin gereklerine ve ölçülülük ilkesine aykırı olamaz."
+  },
+  {
+   "id": "x-vatandaslik-c-034",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Olağanüstü hallerde bile dokunulamayan çekirdek alan (md. 15)",
+   "back": "Savaş hukukuna uygun fiiller sonucu meydana gelen ölümler dışında yaşama hakkı; maddi ve manevi varlığın bütünlüğü; din, vicdan, düşünce ve kanaatleri açıklamaya zorlanmama; suç ve cezaların geriye yürümemesi; masumiyet karinesi."
+  },
+  {
+   "id": "x-vatandaslik-c-035",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Statü teorisine göre hak türleri",
+   "back": "Negatif statü (koruyucu haklar): devletin karışmaması. Pozitif statü (isteme/sosyal haklar): devletin hizmet sunması. Aktif statü (katılma/siyasi haklar): yönetime katılma.",
+   "mnemonic": "Negatif = dokunma, Pozitif = ver, Aktif = katıl"
+  },
+  {
+   "id": "x-vatandaslik-c-036",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Negatif statü (koruyucu) haklara örnekler",
+   "back": "Kişi dokunulmazlığı, kişi özgürlüğü ve güvenliği, özel hayatın gizliliği, konut dokunulmazlığı, haberleşme özgürlüğü, yerleşme ve seyahat, din ve vicdan, düşünce, dernek kurma, mülkiyet hakkı."
+  },
+  {
+   "id": "x-vatandaslik-c-037",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Pozitif statü (sosyal) haklara örnekler",
+   "back": "Eğitim ve öğrenim hakkı, sağlık hakkı, sosyal güvenlik hakkı, konut hakkı, ailenin korunması, çalışma hakkı."
+  },
+  {
+   "id": "x-vatandaslik-c-038",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Aktif statü (siyasi) haklara örnekler",
+   "back": "Seçme, seçilme ve siyasi faaliyette bulunma; siyasi parti kurma ve partiye üye olma; dilekçe hakkı; kamu hizmetine girme; vatan hizmeti (hak ve ödev)."
+  },
+  {
+   "id": "x-vatandaslik-c-039",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Yakalanan kişinin hâkim önüne çıkarılma süresi (md. 19)",
+   "back": "Tutulma yerine en yakın mahkemeye gönderilme süresi hariç en geç 48 saat; toplu olarak işlenen suçlarda en çok 4 gün."
+  },
+  {
+   "id": "x-vatandaslik-c-040",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Suç ve cezalara ilişkin esaslar (md. 38)",
+   "back": "Kanunsuz suç ve ceza olmaz; ceza sorumluluğu şahsidir; ölüm cezası ve genel müsadere cezası verilemez; kimse kendini veya kanunda gösterilen yakınlarını suçlayan beyanda bulunmaya zorlanamaz."
+  },
+  {
+   "id": "x-vatandaslik-c-041",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Siyasi partilere üye olamayanlar (md. 68)",
+   "back": "Hâkimler ve savcılar, Sayıştay dahil yüksek yargı organı mensupları, memurlar ve işçi niteliği taşımayan diğer kamu görevlileri, Silahlı Kuvvetler mensupları ve yükseköğretim öncesi öğrenciler. Partiye üye olma yaşı 18'dir."
+  },
+  {
+   "id": "x-vatandaslik-c-042",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Seçimlerin temel ilkeleri (md. 67)",
+   "back": "Serbest, eşit, gizli, tek dereceli, genel oy; açık sayım ve döküm; yargı yönetim ve denetimi (YSK). Seçme ve seçilme yaşı 18'dir."
+  },
+  {
+   "id": "x-vatandaslik-c-043",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "front": "Cumhurbaşkanlığı kararnamesi ve temel haklar (md. 104)",
+   "back": "Temel haklar, kişi hakları ve ödevleri ile siyasi haklar ve ödevler CBK ile düzenlenemez. Sosyal ve ekonomik haklar bu yasak kapsamında değildir."
+  },
+  {
+   "id": "x-vatandaslik-c-044",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "TBMM kaç milletvekilinden oluşur? (md. 75)",
+   "back": "600 milletvekili (2017 değişikliğiyle 550'den 600'e çıkarıldı)."
+  },
+  {
+   "id": "x-vatandaslik-c-045",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "Milletvekili seçilme yeterliliği (md. 76)",
+   "back": "18 yaşını dolduran her Türk seçilebilir (2017 öncesi 25). En az ilkokul mezunu olmayanlar, kısıtlılar ve yükümlü olduğu askerlik hizmetini yapmamış olanlar gibi Anayasa'da sayılanlar seçilemez."
+  },
+  {
+   "id": "x-vatandaslik-c-046",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "TBMM seçim dönemi (md. 77)",
+   "back": "5 yıl (2017 öncesi 4 yıl). TBMM ve Cumhurbaşkanı seçimleri aynı günde yapılır."
+  },
+  {
+   "id": "x-vatandaslik-c-047",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "Seçimlerin yenilenmesi (md. 116)",
+   "back": "TBMM üye tamsayısının 3/5'i (360) ile ya da Cumhurbaşkanı kararıyla. Her iki halde TBMM ve Cumhurbaşkanı seçimleri birlikte yapılır."
+  },
+  {
+   "id": "x-vatandaslik-c-048",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "Ara seçim kuralları (md. 78)",
+   "back": "Her seçim döneminde bir kez yapılır; genel seçimden 30 ay geçmeden yapılamaz; genel seçime 1 yıl kala yapılamaz. Boşalan üyelikler üye tamsayısının %5'ini (30) bulursa 3 ay içinde ara seçime karar verilir."
+  },
+  {
+   "id": "x-vatandaslik-c-049",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "Yasama sorumsuzluğu ve yasama dokunulmazlığı (md. 83)",
+   "back": "Sorumsuzluk: Meclis çalışmalarındaki oy, söz ve düşüncelerden dolayı sorumlu tutulamama; mutlak ve süreklidir. Dokunulmazlık: Meclis kararı olmadan tutulamama, sorguya çekilememe, tutuklanamama, yargılanamama; geçicidir (ağır cezalık suçüstü hali gibi istisnaları vardır)."
+  },
+  {
+   "id": "x-vatandaslik-c-050",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "Toplantı ve karar yeter sayısı (md. 96)",
+   "back": "Toplantı: üye tamsayısının en az 1/3'ü (200). Karar: toplantıya katılanların salt çoğunluğu; ancak hiçbir durumda üye tamsayısının dörtte birinin bir fazlasından (151) az olamaz.",
+   "mnemonic": "200 toplantı - 151 karar"
+  },
+  {
+   "id": "x-vatandaslik-c-051",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "TBMM'nin görev ve yetkileri (md. 87)",
+   "back": "Kanun koymak, değiştirmek, kaldırmak; bütçe ve kesin hesap kanun tekliflerini kabul etmek; para basılmasına ve savaş ilanına karar vermek; uluslararası antlaşmaların onaylanmasını uygun bulmak; üye tamsayısının 3/5'iyle genel ve özel af ilanına karar vermek."
+  },
+  {
+   "id": "x-vatandaslik-c-052",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "Kanun teklif etme yetkisi (md. 88)",
+   "back": "2017 sonrası yalnızca milletvekilleri kanun teklif edebilir (Bakanlar Kurulunun 'kanun tasarısı' kaldırıldı). Bütçe kanun teklifini ise Cumhurbaşkanı sunar."
+  },
+  {
+   "id": "x-vatandaslik-c-053",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "Kanunların yayımlanması ve iadesi (md. 89)",
+   "back": "Cumhurbaşkanı kanunları 15 gün içinde yayımlar veya yeniden görüşülmek üzere iade eder (bütçe kanunları iade edilemez). TBMM iade edilen kanunu üye tamsayısının salt çoğunluğuyla (301) aynen kabul ederse Cumhurbaşkanı yayımlar."
+  },
+  {
+   "id": "x-vatandaslik-c-054",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "TBMM'nin denetim yolları (md. 98, 2017 sonrası)",
+   "back": "Meclis araştırması, genel görüşme, Meclis soruşturması ve yazılı soru. Gensoru ve sözlü soru 2017'de kaldırıldı. Yazılı soru, Cumhurbaşkanı yardımcıları ve bakanlara yöneltilir; en geç 15 gün içinde cevaplanır."
+  },
+  {
+   "id": "x-vatandaslik-c-055",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "Bütçe süreci (md. 161)",
+   "back": "Cumhurbaşkanı bütçe kanun teklifini mali yıl başından en az 75 gün önce TBMM'ye sunar; Plan ve Bütçe Komisyonu 55 gün içinde kabul eder. Bütçe yürürlüğe giremezse geçici bütçe, o da yoksa önceki yıl bütçesi yeniden değerleme oranıyla artırılarak uygulanır."
+  },
+  {
+   "id": "x-vatandaslik-c-056",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "TBMM Başkanının seçimi (md. 94)",
+   "back": "İki dönem için seçilir (ilk 2 yıl, sonraki 3 yıl). İlk iki turda üye tamsayısının 2/3'ü, üçüncü turda salt çoğunluk aranır; dördüncü turda üçüncü turda en çok oy alan iki aday yarışır, en çok oyu alan seçilir."
+  },
+  {
+   "id": "x-vatandaslik-c-057",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "front": "Seçim kanunlarındaki değişiklikler (md. 67)",
+   "back": "Seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren 1 yıl içinde yapılacak seçimlerde uygulanmaz."
+  },
+  {
+   "id": "x-vatandaslik-c-058",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Cumhurbaşkanı adaylık şartları (md. 101)",
+   "back": "40 yaşını doldurmuş, yükseköğrenim yapmış, milletvekili seçilme yeterliliğine sahip Türk vatandaşı."
+  },
+  {
+   "id": "x-vatandaslik-c-059",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Cumhurbaşkanının görev süresi ve seçimi",
+   "back": "Görev süresi 5 yıl; bir kişi en fazla iki defa seçilebilir. Halk tarafından seçilir; geçerli oyların salt çoğunluğu gerekir. Sağlanamazsa ilk oylamayı izleyen ikinci pazar günü en çok oy alan iki aday arasında ikinci tur yapılır."
+  },
+  {
+   "id": "x-vatandaslik-c-060",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Cumhurbaşkanı adayını kimler gösterebilir? (md. 101)",
+   "back": "Siyasi parti grupları; son milletvekili genel seçiminde tek başına veya birlikte geçerli oyların en az %5'ini alan siyasi partiler; en az 100.000 seçmen."
+  },
+  {
+   "id": "x-vatandaslik-c-061",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Cumhurbaşkanlığının boşalması ve vekâlet (md. 106)",
+   "back": "Cumhurbaşkanı yardımcısı vekâlet eder. Cumhurbaşkanlığı boşalırsa 45 gün içinde Cumhurbaşkanı seçimi yapılır."
+  },
+  {
+   "id": "x-vatandaslik-c-062",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Cumhurbaşkanı yardımcıları ve bakanlar (md. 106)",
+   "back": "Milletvekili seçilme yeterliliğine sahip olanlar arasından Cumhurbaşkanınca atanır ve görevden alınır. Milletvekili atanırsa milletvekilliği sona erer. Cumhurbaşkanına karşı sorumludurlar; TBMM önünde andiçerler."
+  },
+  {
+   "id": "x-vatandaslik-c-063",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Cumhurbaşkanlığı kararnamesi (CBK) sınırları (md. 104)",
+   "back": "Yürütme yetkisine ilişkin konularda çıkarılır. Anayasa'da münhasıran kanunla düzenlenmesi öngörülen ve kanunda açıkça düzenlenen konularda çıkarılamaz. CBK ile kanun çatışırsa kanun uygulanır; TBMM aynı konuda kanun çıkarırsa CBK hükümsüz kalır."
+  },
+  {
+   "id": "x-vatandaslik-c-064",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Cumhurbaşkanının cezai sorumluluğu (md. 105)",
+   "back": "Soruşturma önergesi: üye tamsayısının salt çoğunluğu (301). Soruşturma açılması: 3/5 (360) gizli oy. 15 kişilik komisyon. Yüce Divan'a sevk: 2/3 (400) gizli oy.",
+   "mnemonic": "301 önerge - 360 soruşturma - 400 Yüce Divan"
+  },
+  {
+   "id": "x-vatandaslik-c-065",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Olağanüstü hal (md. 119)",
+   "back": "Cumhurbaşkanı, ülkenin tamamında veya bir bölgesinde, süresi 6 ayı geçmemek üzere ilan eder. Karar aynı gün Resmî Gazete'de yayımlanır ve TBMM onayına sunulur. TBMM süreyi kısaltabilir, her defasında en çok 4 ay uzatabilir veya kaldırabilir."
+  },
+  {
+   "id": "x-vatandaslik-c-066",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Olağanüstü hal Cumhurbaşkanlığı kararnameleri",
+   "back": "OHAL süresince kanun hükmünde CBK çıkarılabilir; Resmî Gazete'de yayımlandığı gün TBMM'ye sunulur, 3 ay içinde görüşülmezse kendiliğinden yürürlükten kalkar. Temel hakları md. 15 sınırları içinde düzenleyebilir."
+  },
+  {
+   "id": "x-vatandaslik-c-067",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Millî Güvenlik Kurulu (md. 118)",
+   "back": "Başkanı Cumhurbaşkanıdır. Üyeler: Cumhurbaşkanı yardımcıları; Adalet, Millî Savunma, İçişleri ve Dışişleri bakanları; Genelkurmay Başkanı; Kara, Deniz ve Hava Kuvvetleri komutanları. Kararları tavsiye niteliğindedir."
+  },
+  {
+   "id": "x-vatandaslik-c-068",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Devlet Denetleme Kurulu (md. 108)",
+   "back": "Cumhurbaşkanlığına bağlıdır; idarenin hukuka uygunluğunu ve verimliliğini denetler. Türk Silahlı Kuvvetleri ve yargı organları görev alanı dışındadır."
+  },
+  {
+   "id": "x-vatandaslik-c-069",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "front": "Cumhurbaşkanlığı Hükümet Sistemi ile kaldırılan kurumlar (2017)",
+   "back": "Başbakanlık ve Bakanlar Kurulu, olağan dönem kanun hükmünde kararname, tüzük, gensoru ve sözlü soru, Askerî Yargıtay ve Askerî Yüksek İdare Mahkemesi."
+  },
+  {
+   "id": "x-vatandaslik-c-070",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Hâkimlik ve savcılık teminatı (md. 139)",
+   "back": "Hâkimler ve savcılar azlolunamaz; kendileri istemedikçe Anayasa'da gösterilen yaştan önce emekliye ayrılamaz; mahkemenin veya kadronun kaldırılması sebebiyle de olsa aylık ve haklarından yoksun kılınamaz."
+  },
+  {
+   "id": "x-vatandaslik-c-071",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Anayasa'daki yüksek mahkemeler (güncel)",
+   "back": "Anayasa Mahkemesi, Yargıtay, Danıştay ve Uyuşmazlık Mahkemesi. Askerî Yargıtay ve Askerî Yüksek İdare Mahkemesi 2017'de kaldırıldı. Sayıştay yüksek mahkeme olarak sayılmaz; 'mali hükümler' bölümünde düzenlenir."
+  },
+  {
+   "id": "x-vatandaslik-c-072",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Anayasa Mahkemesinin yapısı (md. 146)",
+   "back": "15 üye: 3'ünü TBMM (2'si Sayıştay, 1'i baro başkanlarının gösterdiği adaylardan), 12'sini Cumhurbaşkanı seçer. Görev süresi 12 yıl, ikinci kez seçilemez; 65 yaşında emekli olur. Başkan ve iki başkanvekili 4 yıl için seçilir."
+  },
+  {
+   "id": "x-vatandaslik-c-073",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Anayasa Mahkemesinin denetlediği normlar (md. 148)",
+   "back": "Kanunlar, Cumhurbaşkanlığı kararnameleri ve TBMM İçtüzüğü: şekil ve esas bakımından. Anayasa değişiklikleri: yalnızca şekil bakımından."
+  },
+  {
+   "id": "x-vatandaslik-c-074",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "İptal davası (soyut norm denetimi, md. 150-151)",
+   "back": "Açabilecekler: Cumhurbaşkanı, TBMM'de en fazla üyesi bulunan iki siyasi parti grubu ve üye tamsayısının en az beşte biri (120) milletvekili. Süre: Resmî Gazete'de yayımdan itibaren 60 gün (Anayasa değişikliklerinde 10 gün)."
+  },
+  {
+   "id": "x-vatandaslik-c-075",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "İtiraz yolu (somut norm denetimi, md. 152)",
+   "back": "Davaya bakan mahkeme uygulanacak hükmü Anayasa'ya aykırı görürse AYM'ye başvurur. AYM 5 ay içinde karar verir; verilmezse mahkeme davayı yürürlükteki hükümlere göre sonuçlandırır. Esastan red kararından sonra 10 yıl aynı iddiayla başvurulamaz."
+  },
+  {
+   "id": "x-vatandaslik-c-076",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Anayasa Mahkemesi kararlarının niteliği (md. 153)",
+   "back": "Kesindir; iptal kararları gerekçesi yazılmadan açıklanamaz ve geriye yürümez. AYM iptal kararının yürürlüğe gireceği tarihi, yayımdan itibaren 1 yılı geçmemek üzere ileriye bırakabilir."
+  },
+  {
+   "id": "x-vatandaslik-c-077",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Bireysel başvuru (md. 148)",
+   "back": "2010 değişikliğiyle getirildi (2012'den itibaren uygulanıyor). Herkes, Anayasa'daki temel haklarından Avrupa İnsan Hakları Sözleşmesi kapsamındakilerin kamu gücünce ihlal edildiği iddiasıyla, olağan kanun yollarını tükettikten sonra AYM'ye başvurabilir."
+  },
+  {
+   "id": "x-vatandaslik-c-078",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Yüce Divan",
+   "back": "Anayasa Mahkemesi Yüce Divan sıfatıyla Cumhurbaşkanı, TBMM Başkanı, Cumhurbaşkanı yardımcıları, bakanlar ve yüksek yargı organlarının başkan ve üyeleri gibi kişileri görevleriyle ilgili suçlardan yargılar. Kararları kesindir."
+  },
+  {
+   "id": "x-vatandaslik-c-079",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Hâkimler ve Savcılar Kurulu (HSK, md. 159)",
+   "back": "13 üye, 2 daire. Başkanı Adalet Bakanıdır; Adalet Bakanlığından bir üst yönetici tabii üyedir. 4 üyeyi Cumhurbaşkanı, 7 üyeyi TBMM seçer. Üyelerin görev süresi 4 yıldır."
+  },
+  {
+   "id": "x-vatandaslik-c-080",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Yargıtay (md. 154)",
+   "back": "Adli yargı mahkemelerinin karar ve hükümlerinin son inceleme merciidir. Üyeleri HSK seçer. Yargıtay Cumhuriyet Başsavcısını, Yargıtay Genel Kurulunun gösterdiği beş aday arasından Cumhurbaşkanı 4 yıl için seçer."
+  },
+  {
+   "id": "x-vatandaslik-c-081",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Danıştay (md. 155)",
+   "back": "İdari yargının son inceleme merciidir. Üyelerinin dörtte üçünü HSK, dörtte birini Cumhurbaşkanı seçer. Kamu hizmetleriyle ilgili imtiyaz şartlaşma ve sözleşmeleri hakkında 2 ay içinde düşüncesini bildirir."
+  },
+  {
+   "id": "x-vatandaslik-c-082",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "front": "Uyuşmazlık Mahkemesi ve Sayıştay",
+   "back": "Uyuşmazlık Mahkemesi: adli ve idari yargı arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözer; başkanlığını AYM'nin görevlendirdiği üye yapar (md. 158). Sayıştay: TBMM adına kamu idarelerinin gelir, gider ve mallarını denetler (md. 160)."
+  },
+  {
+   "id": "x-vatandaslik-c-083",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "İdarenin bütünlüğü (md. 123)",
+   "back": "İdare kuruluş ve görevleriyle bir bütündür ve kanunla düzenlenir. Kuruluş ve görevleri merkezden yönetim ve yerinden yönetim esasına dayanır. Kamu tüzel kişiliği ancak kanunla veya Cumhurbaşkanlığı kararnamesiyle kurulur."
+  },
+  {
+   "id": "x-vatandaslik-c-084",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "Merkezî idarenin teşkilatı",
+   "back": "Başkent teşkilatı (Cumhurbaşkanlığı, bakanlıklar ve bağlı kuruluşlar) ve taşra teşkilatı (il ve ilçe). İllerin idaresi yetki genişliği esasına dayanır (md. 126)."
+  },
+  {
+   "id": "x-vatandaslik-c-085",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "Hiyerarşi ve idari vesayet farkı",
+   "back": "Hiyerarşi: merkezî idare içinde üstün asta karşı genel ve sürekli denetimi. İdari vesayet: merkezî idarenin yerinden yönetim kuruluşları üzerindeki, istisnai ve kanunla öngörülen denetimi."
+  },
+  {
+   "id": "x-vatandaslik-c-086",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "Yer yönünden yerinden yönetim (mahalli idareler, md. 127)",
+   "back": "İl özel idaresi, belediye ve köy. Organları seçimle gelir; seçimler 5 yılda bir yapılır. Organ niteliğini kaybetme ancak yargı kararıyla olur; İçişleri Bakanı soruşturma açılan organları geçici tedbir olarak görevden uzaklaştırabilir."
+  },
+  {
+   "id": "x-vatandaslik-c-087",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "Hizmet yönünden yerinden yönetim kuruluşları",
+   "back": "Belirli bir kamu hizmetini yürütmek üzere kurulan, özerk kamu tüzel kişileri: üniversiteler, TRT, kamu iktisadi teşebbüsleri, kamu kurumu niteliğindeki meslek kuruluşları (barolar, tabip odaları vb.)."
+  },
+  {
+   "id": "x-vatandaslik-c-088",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "Mahalli idarelerin organları",
+   "back": "Belediye: belediye meclisi, belediye encümeni, belediye başkanı. İl özel idaresi: il genel meclisi, il encümeni, vali. Köy: köy derneği, ihtiyar heyeti, muhtar."
+  },
+  {
+   "id": "x-vatandaslik-c-089",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "İdari işlemin unsurları",
+   "back": "Yetki, şekil, sebep, konu ve amaç. Bu unsurlardan birindeki hukuka aykırılık iptal sebebidir."
+  },
+  {
+   "id": "x-vatandaslik-c-090",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "657 sayılı Kanun'daki disiplin cezaları (ağırlık sırasıyla)",
+   "back": "Uyarma, kınama, aylıktan kesme, kademe ilerlemesinin durdurulması, devlet memurluğundan çıkarma. Disiplin kararlarına karşı yargı yolu açıktır (md. 129).",
+   "mnemonic": "Uyardım, kınadım, aylığını kestim, kademesini durdurdum, devletten çıkardım."
+  },
+  {
+   "id": "x-vatandaslik-c-091",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "İdari dava türleri ve dava açma süreleri",
+   "back": "İptal davası ve tam yargı davası. Dava açma süresi Danıştay ve idare mahkemelerinde 60 gün, vergi mahkemelerinde 30 gündür (2577 sayılı İYUK md. 7)."
+  },
+  {
+   "id": "x-vatandaslik-c-092",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "front": "Kamu Denetçiliği Kurumu (md. 74)",
+   "back": "TBMM Başkanlığına bağlıdır; idarenin işleyişiyle ilgili şikâyetleri inceler (ombudsman). Kamu Başdenetçisi TBMM tarafından gizli oyla 4 yıl için seçilir."
+  }
+ ],
+ "questions": [
+  {
+   "id": "x-vatandaslik-q-001",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "text": "Aşağıdakilerden hangisi kamu hukuku dallarından biri değildir?",
+   "options": [
+    "Ticaret hukuku",
+    "Anayasa hukuku",
+    "İdare hukuku",
+    "Ceza hukuku",
+    "Vergi hukuku"
+   ],
+   "answer": 0,
+   "explanation": "Ticaret hukuku, kişiler arasındaki ilişkileri düzenleyen özel hukuk dallarındandır; diğerleri devletin taraf olduğu ilişkileri düzenleyen kamu hukuku dallarıdır."
+  },
+  {
+   "id": "x-vatandaslik-q-002",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "text": "Türk Medeni Kanunu'na göre fiil ehliyetine sahip olmak için;\nI. ayırt etme gücüne sahip olmak,\nII. ergin olmak,\nIII. Türk vatandaşı olmak\nkoşullarından hangilerinin bulunması gerekir?",
+   "options": [
+    "Yalnız I",
+    "I ve II",
+    "I ve III",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 1,
+   "explanation": "TMK md. 10'a göre ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişinin fiil ehliyeti vardır. Vatandaşlık fiil ehliyetinin koşulu değildir."
+  },
+  {
+   "id": "x-vatandaslik-q-003",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "text": "Aşağıdakilerden hangisi hukukun yardımcı kaynaklarındandır?",
+   "options": [
+    "Bilimsel görüşler (doktrin)",
+    "Kanunlar",
+    "Yönetmelikler",
+    "Örf ve adet hukuku",
+    "Uluslararası antlaşmalar"
+   ],
+   "answer": 0,
+   "explanation": "Yargı kararları ve bilimsel görüşler hukukun yardımcı kaynaklarıdır. Örf ve adet hukuku yazısız asıl kaynaktır; diğerleri yazılı asıl kaynaklardır."
+  },
+  {
+   "id": "x-vatandaslik-q-004",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "text": "Türk Medeni Kanunu'na göre bir küçüğün mahkeme kararıyla ergin kılınabilmesi için en az kaç yaşını doldurmuş olması gerekir?",
+   "options": [
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+   ],
+   "answer": 1,
+   "explanation": "TMK md. 12'ye göre on beş yaşını dolduran küçük, kendi isteği ve velisinin rızasıyla mahkeme kararıyla ergin kılınabilir."
+  },
+  {
+   "id": "x-vatandaslik-q-005",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "text": "Kanunun emredici hükmüne aykırı olarak yapılan bir sözleşmenin baştan itibaren geçersiz sayılması hangi yaptırım türüne örnektir?",
+   "options": [
+    "Cebri icra",
+    "Tazminat",
+    "Ceza",
+    "Disiplin cezası",
+    "Kesin hükümsüzlük (mutlak butlan)"
+   ],
+   "answer": 4,
+   "explanation": "Emredici hükümlere aykırı sözleşmeler kesin hükümsüzdür; bu yaptırım işlemi baştan itibaren geçersiz kılar."
+  },
+  {
+   "id": "x-vatandaslik-q-006",
+   "subject": "vatandaslik",
+   "topic": "Hukuka Giriş",
+   "text": "Türk Medeni Kanunu'na göre kişilik hangi anda başlar?",
+   "options": [
+    "Çocuğun sağ olarak tamamıyla doğduğu anda",
+    "Nüfus kütüğüne kaydedildiği anda",
+    "Ayırt etme gücüne sahip olduğunda",
+    "18 yaşını doldurduğunda",
+    "Ad konulduğu anda"
+   ],
+   "answer": 0,
+   "explanation": "TMK md. 28'e göre kişilik, çocuğun sağ olarak tamamıyla doğduğu anda başlar. Cenin ise sağ doğmak koşuluyla ana rahmine düştüğü andan itibaren hak ehliyetine sahiptir."
+  },
+  {
+   "id": "x-vatandaslik-q-007",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "text": "Osmanlı Devleti'nde padişahın yetkilerini ilk kez sınırlandıran belge aşağıdakilerden hangisidir?",
+   "options": [
+    "Tanzimat Fermanı",
+    "Islahat Fermanı",
+    "Kanun-i Esasi",
+    "Mecelle",
+    "Sened-i İttifak"
+   ],
+   "answer": 4,
+   "explanation": "1808'de ayanlarla imzalanan Sened-i İttifak, padişahın kendi dışındaki bir güçle yetkilerini paylaşmayı ilk kez kabul ettiği belgedir."
+  },
+  {
+   "id": "x-vatandaslik-q-008",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "text": "1961 Anayasası ile;\nI. Anayasa Mahkemesinin kurulması,\nII. çift meclisli yasama yapısına geçilmesi,\nIII. kadınlara milletvekili seçme ve seçilme hakkının tanınması\ngelişmelerinden hangileri gerçekleşmiştir?",
+   "options": [
+    "Yalnız I",
+    "Yalnız III",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 2,
+   "explanation": "Anayasa Mahkemesi ve çift meclis (Millet Meclisi ve Cumhuriyet Senatosu) 1961 Anayasası ile gelmiştir. Kadınlara milletvekili seçme ve seçilme hakkı 1934'te, 1924 Anayasası döneminde tanınmıştır."
+  },
+  {
+   "id": "x-vatandaslik-q-009",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "text": "1921 Teşkilat-ı Esasiye Kanunu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+   "options": [
+    "Temel hak ve özgürlüklere ayrıntılı biçimde yer vermiştir.",
+    "Egemenliğin kayıtsız şartsız millete ait olduğunu belirtmiştir.",
+    "Güçler birliği ilkesini benimsemiştir.",
+    "Yargı ile ilgili bir düzenleme içermez.",
+    "Olağanüstü bir dönemde hazırlanmıştır."
+   ],
+   "answer": 0,
+   "explanation": "1921 Anayasası kısa bir metin olup temel hak ve özgürlüklere hiç yer vermemiştir."
+  },
+  {
+   "id": "x-vatandaslik-q-010",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "text": "Türk kadınına milletvekili seçme ve seçilme hakkı hangi yıl tanınmıştır?",
+   "options": [
+    "1930",
+    "1933",
+    "1934",
+    "1946",
+    "1961"
+   ],
+   "answer": 2,
+   "explanation": "Kadınlar 1930'da belediye, 1933'te muhtarlık seçimlerinde, 1934'te yapılan anayasa değişikliğiyle de milletvekili seçimlerinde seçme ve seçilme hakkı kazanmıştır."
+  },
+  {
+   "id": "x-vatandaslik-q-011",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "text": "Laiklik ilkesi Türk anayasasına hangi yıl girmiştir?",
+   "options": [
+    "1924",
+    "1928",
+    "1934",
+    "1937",
+    "1961"
+   ],
+   "answer": 3,
+   "explanation": "1928'de 'Devletin dini İslam'dır' ibaresi çıkarılmış, laiklik ilkesi ise 1937'de altı ilkeyle birlikte Anayasa'ya girmiştir."
+  },
+  {
+   "id": "x-vatandaslik-q-012",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "text": "Aşağıdakilerden hangisinde halkoylamasıyla kabul edilen anayasalar birlikte verilmiştir?",
+   "options": [
+    "1876 ve 1921",
+    "1921 ve 1924",
+    "1924 ve 1961",
+    "1961 ve 1982",
+    "1876 ve 1982"
+   ],
+   "answer": 3,
+   "explanation": "1961 ve 1982 Anayasaları kurucu meclislerce hazırlanıp halkoylamasıyla kabul edilmiştir. 1921 ve 1924 Anayasalarını TBMM kabul etmiş, Kanun-i Esasi ise padişah tarafından ilan edilmiştir."
+  },
+  {
+   "id": "x-vatandaslik-q-013",
+   "subject": "vatandaslik",
+   "topic": "Anayasa Tarihi",
+   "text": "1876 Kanun-i Esasi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+   "options": [
+    "Osmanlı Devleti'nin ilk anayasasıdır.",
+    "Padişaha sürgün yetkisi tanımıştır.",
+    "Meclis-i Umumi iki kanatlı bir yapıdadır.",
+    "I. Meşrutiyet'in ilanıyla yürürlüğe girmiştir.",
+    "Heyet-i Ayan üyeleri halk tarafından seçilirdi."
+   ],
+   "answer": 4,
+   "explanation": "Meclis-i Umumi'nin Heyet-i Ayan kanadının üyeleri padişah tarafından atanırdı; seçimle gelen kanat Heyet-i Mebusan'dır."
+  },
+  {
+   "id": "x-vatandaslik-q-014",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "text": "1982 Anayasası'nın 3. maddesinde aşağıdakilerden hangisi düzenlenmemiştir?",
+   "options": [
+    "Türkiye Devleti'nin şeklinin Cumhuriyet olması",
+    "Resmî dilin Türkçe olması",
+    "Başkentin Ankara olması",
+    "Millî marşın İstiklal Marşı olması",
+    "Devletin ülkesi ve milletiyle bölünmez bütünlüğü"
+   ],
+   "answer": 0,
+   "explanation": "Devletin şeklinin Cumhuriyet olduğu 1. maddede düzenlenmiştir. Diğerleri 3. maddenin konusudur."
+  },
+  {
+   "id": "x-vatandaslik-q-015",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "text": "1982 Anayasası'na göre Anayasa değişikliği, TBMM üye tamsayısının en az kaç üyesi tarafından yazıyla teklif edilebilir?",
+   "options": [
+    "120",
+    "151",
+    "200",
+    "301",
+    "360"
+   ],
+   "answer": 2,
+   "explanation": "Md. 175'e göre Anayasa değişikliği üye tamsayısının en az üçte biri (600'ün üçte biri = 200) tarafından teklif edilebilir."
+  },
+  {
+   "id": "x-vatandaslik-q-016",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "text": "Bir Anayasa değişikliği TBMM'de 380 oyla kabul edilmiş ve Cumhurbaşkanı tarafından Meclise iade edilmemiştir.\nBu değişiklikle ilgili aşağıdakilerden hangisi doğrudur?",
+   "options": [
+    "Doğrudan yürürlüğe girer.",
+    "Halkoyuna sunulmak üzere Resmî Gazete'de yayımlanır.",
+    "Reddedilmiş sayılır.",
+    "Anayasa Mahkemesinin ön denetiminden geçmesi zorunludur.",
+    "Cumhurbaşkanı onaylamak zorundadır."
+   ],
+   "answer": 1,
+   "explanation": "Md. 175'e göre üye tamsayısının beşte üçü (360) ile üçte ikisi (400) arasında kabul edilen ve iade edilmeyen değişiklikler halkoyuna sunulmak üzere yayımlanır."
+  },
+  {
+   "id": "x-vatandaslik-q-017",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "text": "Aşağıdakilerden hangisi 1982 Anayasası'nın 2. maddesinde sayılan Cumhuriyetin niteliklerinden biri değildir?",
+   "options": [
+    "Demokratik devlet",
+    "Laik devlet",
+    "Sosyal hukuk devleti",
+    "Atatürk milliyetçiliğine bağlılık",
+    "Federal yapıda olma"
+   ],
+   "answer": 4,
+   "explanation": "Türkiye üniter bir devlettir; federal yapı Cumhuriyetin nitelikleri arasında yer almaz ve md. 3'teki bölünmez bütünlük ilkesiyle bağdaşmaz."
+  },
+  {
+   "id": "x-vatandaslik-q-018",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "text": "'Hiçbir kimse veya organ kaynağını Anayasadan almayan bir devlet yetkisi kullanamaz.' hükmü 1982 Anayasası'nın hangi maddesinde yer alır?",
+   "options": [
+    "Egemenlik",
+    "Laiklik",
+    "Sosyal devlet",
+    "Kanun önünde eşitlik",
+    "Yargı yetkisi"
+   ],
+   "answer": 0,
+   "explanation": "Bu hüküm Anayasa'nın 6. maddesi olan 'Egemenlik' maddesinde yer alır."
+  },
+  {
+   "id": "x-vatandaslik-q-019",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "text": "Aşağıdakilerden hangileri hukuk devleti ilkesinin gereklerindendir?\nI. İdarenin eylem ve işlemlerine karşı yargı yolunun açık olması\nII. Kanunların Anayasaya uygunluğunun yargısal denetimi\nIII. Devletin herkese sosyal güvenlik hakkı sağlaması",
+   "options": [
+    "Yalnız I",
+    "Yalnız III",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 2,
+   "explanation": "Yargı denetimi ve anayasa yargısı hukuk devletinin unsurlarıdır. Sosyal güvenlik hakkının sağlanması ise sosyal devlet ilkesinin gereğidir."
+  },
+  {
+   "id": "x-vatandaslik-q-020",
+   "subject": "vatandaslik",
+   "topic": "1982 Anayasası Temel İlkeleri",
+   "text": "1982 Anayasası'na göre Anayasa değişikliğinin TBMM'de kabul edilebilmesi için en az kaç milletvekilinin gizli oyla kabul oyu vermesi gerekir?",
+   "options": [
+    "301",
+    "330",
+    "360",
+    "400",
+    "450"
+   ],
+   "answer": 2,
+   "explanation": "Md. 175'e göre değişiklik teklifinin kabulü, üye tamsayısının beşte üç (360) çoğunluğunun gizli oyuna bağlıdır."
+  },
+  {
+   "id": "x-vatandaslik-q-021",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "text": "1982 Anayasası'na göre savaş, seferberlik veya olağanüstü hallerde bile aşağıdakilerden hangisine dokunulamaz?",
+   "options": [
+    "Yerleşme ve seyahat özgürlüğü",
+    "Kişinin maddi ve manevi varlığının bütünlüğü",
+    "Toplantı ve gösteri yürüyüşü hakkı",
+    "Haberleşme özgürlüğü",
+    "Basın özgürlüğü"
+   ],
+   "answer": 1,
+   "explanation": "Md. 15'e göre olağanüstü durumlarda da yaşama hakkı (savaş hukukuna uygun ölümler hariç), maddi ve manevi varlığın bütünlüğü, din-vicdan özgürlüğünün çekirdeği, suç ve cezaların geriye yürümemesi ve masumiyet karinesi korunur."
+  },
+  {
+   "id": "x-vatandaslik-q-022",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "text": "Aşağıdakilerden hangisi pozitif statü (isteme) haklarından biridir?",
+   "options": [
+    "Konut dokunulmazlığı",
+    "Seçme ve seçilme hakkı",
+    "Dilekçe hakkı",
+    "Haberleşme özgürlüğü",
+    "Eğitim ve öğrenim hakkı"
+   ],
+   "answer": 4,
+   "explanation": "Eğitim hakkı devletten olumlu bir edim istemeyi gerektiren sosyal bir haktır. Konut dokunulmazlığı ve haberleşme negatif, seçme-seçilme ve dilekçe aktif statü haklarıdır."
+  },
+  {
+   "id": "x-vatandaslik-q-023",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "text": "1982 Anayasası'na göre yakalanan veya tutuklanan kişi, toplu olarak işlenen suçlar dışında, en geç kaç saat içinde hâkim önüne çıkarılır?",
+   "options": [
+    "24",
+    "36",
+    "48",
+    "72",
+    "96"
+   ],
+   "answer": 2,
+   "explanation": "Md. 19'a göre süre, en yakın mahkemeye gönderilme süresi hariç en geç 48 saattir; toplu suçlarda en çok 4 gündür."
+  },
+  {
+   "id": "x-vatandaslik-q-024",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "text": "1982 Anayasası'na göre;\nI. hâkimler ve savcılar,\nII. Silahlı Kuvvetler mensupları,\nIII. yükseköğretim öğrencileri\nverilenlerden hangileri siyasi partilere üye olamaz?",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 2,
+   "explanation": "Md. 68 yalnızca yükseköğretim öncesi öğrencilerin üyeliğini yasaklar; üniversite öğrencileri partiye üye olabilir. Hâkim ve savcılar ile Silahlı Kuvvetler mensupları üye olamaz."
+  },
+  {
+   "id": "x-vatandaslik-q-025",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "text": "1982 Anayasası'nın 13. maddesine göre temel hak ve özgürlüklerin sınırlanmasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+   "options": [
+    "Temel haklar Cumhurbaşkanlığı kararnamesiyle de sınırlanabilir.",
+    "Sınırlama ancak kanunla yapılabilir.",
+    "Sınırlama hakkın özüne dokunamaz.",
+    "Sınırlama ölçülülük ilkesine aykırı olamaz.",
+    "Sınırlama demokratik toplum düzeninin gereklerine aykırı olamaz."
+   ],
+   "answer": 0,
+   "explanation": "Md. 13 sınırlamanın yalnızca kanunla yapılabileceğini öngörür; md. 104 de temel hakların CBK ile düzenlenmesini yasaklar."
+  },
+  {
+   "id": "x-vatandaslik-q-026",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "text": "Aşağıdakilerden hangisi aktif statü haklarındandır?",
+   "options": [
+    "Mülkiyet hakkı",
+    "Seçme ve seçilme hakkı",
+    "Sağlık hakkı",
+    "Özel hayatın gizliliği",
+    "Sosyal güvenlik hakkı"
+   ],
+   "answer": 1,
+   "explanation": "Aktif statü hakları bireyin devlet yönetimine katılmasını sağlayan siyasi haklardır; seçme ve seçilme bunun tipik örneğidir."
+  },
+  {
+   "id": "x-vatandaslik-q-027",
+   "subject": "vatandaslik",
+   "topic": "Temel Haklar",
+   "text": "1982 Anayasası'nın 38. maddesine göre aşağıdakilerden hangisi yanlıştır?",
+   "options": [
+    "Ceza sorumluluğu şahsidir.",
+    "Ölüm cezası verilemez.",
+    "Kimse kendisini suçlayan bir beyanda bulunmaya zorlanamaz.",
+    "Kanunun suç saymadığı bir fiilden dolayı kimse cezalandırılamaz.",
+    "Kanunla belirlenen ağır suçlar için genel müsadere cezası verilebilir."
+   ],
+   "answer": 4,
+   "explanation": "Md. 38'e göre ölüm cezası ve genel müsadere cezası hiçbir suç için verilemez."
+  },
+  {
+   "id": "x-vatandaslik-q-028",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "text": "TBMM'nin toplanabilmesi için en az kaç milletvekilinin hazır bulunması gerekir?",
+   "options": [
+    "151",
+    "200",
+    "301",
+    "360",
+    "400"
+   ],
+   "answer": 1,
+   "explanation": "Md. 96'ya göre TBMM üye tamsayısının en az üçte biri (200) ile toplanır."
+  },
+  {
+   "id": "x-vatandaslik-q-029",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "text": "TBMM'de karar yeter sayısı, hiçbir şekilde aşağıdaki sayılardan hangisinin altına düşemez?",
+   "options": [
+    "120",
+    "151",
+    "200",
+    "301",
+    "360"
+   ],
+   "answer": 1,
+   "explanation": "Md. 96'ya göre karar yeter sayısı toplantıya katılanların salt çoğunluğudur; ancak bu sayı üye tamsayısının dörtte birinin bir fazlasından (151) az olamaz."
+  },
+  {
+   "id": "x-vatandaslik-q-030",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "text": "2017 Anayasa değişikliğinden sonra aşağıdakilerden hangisi TBMM'nin bilgi edinme ve denetim yollarından biri değildir?",
+   "options": [
+    "Gensoru",
+    "Meclis araştırması",
+    "Genel görüşme",
+    "Meclis soruşturması",
+    "Yazılı soru"
+   ],
+   "answer": 0,
+   "explanation": "Cumhurbaşkanlığı Hükümet Sistemi'ne geçişle gensoru ve sözlü soru kaldırılmıştır; md. 98 diğer dört yolu düzenler."
+  },
+  {
+   "id": "x-vatandaslik-q-031",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "text": "1982 Anayasası'na göre ara seçimle ilgili aşağıdakilerden hangisi yanlıştır?",
+   "options": [
+    "Her seçim döneminde bir defa yapılır.",
+    "Cumhurbaşkanı kararıyla her yasama yılında yapılabilir.",
+    "Genel seçimden otuz ay geçmedikçe yapılamaz.",
+    "Genel seçimlere bir yıl kala yapılamaz.",
+    "Boşalan üyelikler üye tamsayısının yüzde beşini bulursa üç ay içinde yapılmasına karar verilir."
+   ],
+   "answer": 1,
+   "explanation": "Md. 78'e göre ara seçim kural olarak her seçim döneminde yalnızca bir kez yapılabilir."
+  },
+  {
+   "id": "x-vatandaslik-q-032",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "text": "Cumhurbaşkanınca yeniden görüşülmek üzere geri gönderilen bir kanunun TBMM tarafından aynen kabul edilebilmesi için gerekli oy sayısı aşağıdakilerden hangisidir?",
+   "options": [
+    "Toplantıya katılanların salt çoğunluğu",
+    "151",
+    "301",
+    "360",
+    "400"
+   ],
+   "answer": 2,
+   "explanation": "2017 sonrası md. 89'a göre geri gönderilen kanunun aynen kabulü için üye tamsayısının salt çoğunluğu (301) gerekir."
+  },
+  {
+   "id": "x-vatandaslik-q-033",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "text": "1982 Anayasası'na göre;\nI. para basılmasına karar vermek,\nII. genel ve özel af ilanına karar vermek,\nIII. bütçe ve kesin hesap kanun tekliflerini görüşmek ve kabul etmek\ngörevlerinden hangileri TBMM'ye aittir?",
+   "options": [
+    "Yalnız I",
+    "Yalnız III",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 4,
+   "explanation": "Üçü de md. 87'de TBMM'nin görev ve yetkileri arasında sayılmıştır. Genel ve özel af için üye tamsayısının beşte üç çoğunluğu gerekir."
+  },
+  {
+   "id": "x-vatandaslik-q-034",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "text": "Milletvekillerinin Meclis çalışmalarındaki oy ve sözlerinden dolayı sorumlu tutulamamasına ne ad verilir?",
+   "options": [
+    "Yasama dokunulmazlığı",
+    "Meclis soruşturması",
+    "Milletvekilliğinin düşmesi",
+    "Kanuni hâkim güvencesi",
+    "Yasama sorumsuzluğu"
+   ],
+   "answer": 4,
+   "explanation": "Md. 83'e göre bu güvence yasama sorumsuzluğudur; süresizdir ve kaldırılamaz. Dokunulmazlık ise yargılanamama ile ilgilidir."
+  },
+  {
+   "id": "x-vatandaslik-q-035",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "text": "1982 Anayasası'na göre Cumhurbaşkanı, merkezî yönetim bütçe kanun teklifini mali yıl başından en az kaç gün önce TBMM'ye sunar?",
+   "options": [
+    "45",
+    "55",
+    "60",
+    "75",
+    "90"
+   ],
+   "answer": 3,
+   "explanation": "Md. 161'e göre bütçe kanun teklifi mali yıl başından en az 75 gün önce sunulur; Plan ve Bütçe Komisyonu 55 gün içinde kabul eder."
+  },
+  {
+   "id": "x-vatandaslik-q-036",
+   "subject": "vatandaslik",
+   "topic": "Yasama",
+   "text": "1982 Anayasası'na göre seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren ne kadar süre içinde yapılacak seçimlerde uygulanmaz?",
+   "options": [
+    "3 ay",
+    "6 ay",
+    "1 yıl",
+    "2 yıl",
+    "30 ay"
+   ],
+   "answer": 2,
+   "explanation": "Md. 67'ye göre seçim kanunlarındaki değişiklikler yürürlükten itibaren bir yıl içinde yapılacak seçimlerde uygulanmaz."
+  },
+  {
+   "id": "x-vatandaslik-q-037",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "text": "1982 Anayasası'na göre Cumhurbaşkanı adayı olabilmek için en az kaç yaşını doldurmuş olmak gerekir?",
+   "options": [
+    "25",
+    "30",
+    "35",
+    "40",
+    "45"
+   ],
+   "answer": 3,
+   "explanation": "Md. 101'e göre Cumhurbaşkanı, kırk yaşını doldurmuş ve yükseköğrenim yapmış, milletvekili seçilme yeterliliğine sahip Türk vatandaşları arasından seçilir."
+  },
+  {
+   "id": "x-vatandaslik-q-038",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "text": "Cumhurbaşkanı hakkında TBMM'de soruşturma açılmasına karar verilebilmesi için üye tamsayısının hangi çoğunluğu gerekir?",
+   "options": [
+    "Üçte biri",
+    "Salt çoğunluğu",
+    "Beşte üçü",
+    "Üçte ikisi",
+    "Dörtte üçü"
+   ],
+   "answer": 2,
+   "explanation": "Md. 105'e göre önerge salt çoğunlukla verilir, soruşturma açılmasına beşte üç (360) gizli oyla karar verilir, Yüce Divan'a sevk için üçte iki (400) gerekir."
+  },
+  {
+   "id": "x-vatandaslik-q-039",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "text": "Cumhurbaşkanlığı kararnameleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+   "options": [
+    "Kanun ile CBK arasında farklı hüküm bulunması hâlinde CBK hükümleri uygulanır.",
+    "Kanunda açıkça düzenlenen konularda CBK çıkarılamaz.",
+    "TBMM'nin aynı konuda kanun çıkarması hâlinde CBK hükümsüz hâle gelir.",
+    "Anayasa'da münhasıran kanunla düzenlenmesi öngörülen konularda CBK çıkarılamaz.",
+    "Anayasa Mahkemesinin denetimine tabidir."
+   ],
+   "answer": 0,
+   "explanation": "Md. 104'e göre CBK ile kanun arasında farklı hükümler bulunması hâlinde kanun hükümleri uygulanır."
+  },
+  {
+   "id": "x-vatandaslik-q-040",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "text": "1982 Anayasası'na göre;\nI. kişinin hakları ve ödevleri,\nII. siyasi haklar ve ödevler,\nIII. sosyal ve ekonomik haklar ve ödevler\nkonularından hangileri olağan dönemde Cumhurbaşkanlığı kararnamesiyle düzenlenemez?",
+   "options": [
+    "Yalnız I",
+    "Yalnız III",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 2,
+   "explanation": "Md. 104'e göre temel haklar, kişi hakları ve ödevleri ile siyasi haklar ve ödevler CBK ile düzenlenemez; sosyal ve ekonomik haklar bu yasağın dışındadır."
+  },
+  {
+   "id": "x-vatandaslik-q-041",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "text": "1982 Anayasası'na göre Cumhurbaşkanı olağanüstü hali ilk ilanında en fazla ne kadar süreyle ilan edebilir?",
+   "options": [
+    "1 ay",
+    "3 ay",
+    "4 ay",
+    "6 ay",
+    "1 yıl"
+   ],
+   "answer": 3,
+   "explanation": "Md. 119'a göre olağanüstü hal altı ayı geçmemek üzere ilan edilir; TBMM her defasında en çok dört ay uzatabilir."
+  },
+  {
+   "id": "x-vatandaslik-q-042",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "text": "1982 Anayasası'nın güncel hâline göre aşağıdakilerden hangisi Cumhurbaşkanı adayı gösterebilecekler arasında yer almaz?",
+   "options": [
+    "Siyasi parti grupları",
+    "En az yirmi milletvekili",
+    "Son genel seçimde geçerli oyların en az yüzde beşini alan siyasi partiler",
+    "Son genel seçimde birlikte geçerli oyların en az yüzde beşini alan siyasi partiler",
+    "En az yüz bin seçmen"
+   ],
+   "answer": 1,
+   "explanation": "Md. 101'e göre siyasi parti grupları, tek başına veya birlikte yüzde beş oy alan partiler ve en az yüz bin seçmen aday gösterebilir. Yirmi milletvekilinin yazılı teklifiyle adaylık 2017 öncesi düzenlemeye aittir."
+  },
+  {
+   "id": "x-vatandaslik-q-043",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "text": "Aşağıdakilerden hangisi Millî Güvenlik Kurulunun üyelerinden biri değildir?",
+   "options": [
+    "Cumhurbaşkanı yardımcıları",
+    "Adalet Bakanı",
+    "Genelkurmay Başkanı",
+    "Dışişleri Bakanı",
+    "Sağlık Bakanı"
+   ],
+   "answer": 4,
+   "explanation": "Md. 118'e göre MGK'da Adalet, Millî Savunma, İçişleri ve Dışişleri bakanları yer alır; Sağlık Bakanı kurulun üyesi değildir."
+  },
+  {
+   "id": "x-vatandaslik-q-044",
+   "subject": "vatandaslik",
+   "topic": "Yürütme",
+   "text": "1982 Anayasası'na göre Cumhurbaşkanlığının herhangi bir sebeple boşalması hâlinde kaç gün içinde Cumhurbaşkanı seçimi yapılır?",
+   "options": [
+    "15",
+    "30",
+    "45",
+    "60",
+    "90"
+   ],
+   "answer": 2,
+   "explanation": "Md. 106'ya göre Cumhurbaşkanlığı boşaldığında kırk beş gün içinde seçim yapılır; bu sürede Cumhurbaşkanı yardımcısı vekâlet eder."
+  },
+  {
+   "id": "x-vatandaslik-q-045",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "text": "1982 Anayasası'nın güncel hâline göre Anayasa Mahkemesi kaç üyeden oluşur?",
+   "options": [
+    "11",
+    "13",
+    "15",
+    "17",
+    "22"
+   ],
+   "answer": 2,
+   "explanation": "Md. 146'ya göre AYM on beş üyeden oluşur; 2017 öncesinde askerî yargıdan gelen iki üyeyle birlikte on yedi üyeliydi."
+  },
+  {
+   "id": "x-vatandaslik-q-046",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "text": "Aşağıdakilerden hangisi kanunların iptali istemiyle doğrudan Anayasa Mahkemesinde iptal davası açabilir?",
+   "options": [
+    "TBMM üye tamsayısının en az beşte biri tutarındaki milletvekilleri",
+    "Yargıtay Cumhuriyet Başsavcısı",
+    "Danıştay Başkanı",
+    "Kamu Başdenetçisi",
+    "Türkiye Barolar Birliği Başkanı"
+   ],
+   "answer": 0,
+   "explanation": "Md. 150'ye göre iptal davasını Cumhurbaşkanı, TBMM'de en fazla üyesi bulunan iki siyasi parti grubu ve üye tamsayısının en az beşte biri tutarındaki milletvekilleri açabilir."
+  },
+  {
+   "id": "x-vatandaslik-q-047",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "text": "İtiraz yoluyla yapılan başvuruda Anayasa Mahkemesi, işi aldığı tarihten itibaren kaç ay içinde kararını verir?",
+   "options": [
+    "2 ay",
+    "3 ay",
+    "4 ay",
+    "5 ay",
+    "6 ay"
+   ],
+   "answer": 3,
+   "explanation": "Md. 152'ye göre AYM beş ay içinde karar verir; bu süre içinde karar verilmezse mahkeme davayı yürürlükteki hükümlere göre sonuçlandırır."
+  },
+  {
+   "id": "x-vatandaslik-q-048",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "text": "Hâkimler ve Savcılar Kurulu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+   "options": [
+    "On üç üyeden oluşur.",
+    "Üyelerinin dördü Yargıtay Genel Kurulunca seçilir.",
+    "Başkanı Adalet Bakanıdır.",
+    "Yedi üyesini TBMM seçer.",
+    "Üyelerin görev süresi dört yıldır."
+   ],
+   "answer": 1,
+   "explanation": "Md. 159'a göre HSK'nın dört üyesini Cumhurbaşkanı, yedi üyesini TBMM seçer; iki üye tabii üyedir. Yargıtay Genel Kurulunun seçtiği üye yoktur."
+  },
+  {
+   "id": "x-vatandaslik-q-049",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "text": "Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözmeye yetkili yüksek mahkeme hangisidir?",
+   "options": [
+    "Anayasa Mahkemesi",
+    "Yargıtay",
+    "Danıştay",
+    "Sayıştay",
+    "Uyuşmazlık Mahkemesi"
+   ],
+   "answer": 4,
+   "explanation": "Md. 158'e göre bu görev Uyuşmazlık Mahkemesine aittir."
+  },
+  {
+   "id": "x-vatandaslik-q-050",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "text": "1982 Anayasası'nın güncel hâline göre;\nI. Danıştay,\nII. Askerî Yargıtay,\nIII. Uyuşmazlık Mahkemesi\nkurumlarından hangileri yüksek mahkemeler arasında yer alır?",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "I ve III",
+    "I, II ve III"
+   ],
+   "answer": 3,
+   "explanation": "Askerî Yargıtay ve Askerî Yüksek İdare Mahkemesi 2017 değişikliğiyle kaldırılmıştır. Danıştay ve Uyuşmazlık Mahkemesi yüksek mahkemelerdendir."
+  },
+  {
+   "id": "x-vatandaslik-q-051",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "text": "Anayasa Mahkemesi Anayasa değişikliklerini hangi bakımdan denetleyebilir?",
+   "options": [
+    "Yalnızca şekil bakımından",
+    "Yalnızca esas bakımından",
+    "Hem şekil hem esas bakımından",
+    "Yalnızca yerindelik bakımından",
+    "Hiçbir şekilde denetleyemez"
+   ],
+   "answer": 0,
+   "explanation": "Md. 148'e göre Anayasa değişiklikleri yalnızca şekil bakımından incelenir; kanunlar, CBK'lar ve İçtüzük ise şekil ve esas bakımından denetlenir."
+  },
+  {
+   "id": "x-vatandaslik-q-052",
+   "subject": "vatandaslik",
+   "topic": "Yargı",
+   "text": "Anayasa Mahkemesi üyelerinin görev süresi kaç yıldır?",
+   "options": [
+    "4",
+    "7",
+    "9",
+    "12",
+    "15"
+   ],
+   "answer": 3,
+   "explanation": "Md. 147'ye göre AYM üyeleri on iki yıl için seçilir ve bir kişi iki defa üye seçilemez."
+  },
+  {
+   "id": "x-vatandaslik-q-053",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "text": "Merkezî idarenin, yerinden yönetim kuruluşları üzerinde kanunla öngörülen istisnai denetim yetkisine ne ad verilir?",
+   "options": [
+    "Hiyerarşi",
+    "İdari vesayet",
+    "Yetki genişliği",
+    "Yetki devri",
+    "Yargısal denetim"
+   ],
+   "answer": 1,
+   "explanation": "Hiyerarşi merkezî idare içindeki üst-ast ilişkisidir; merkezî idarenin özerk kuruluşlar üzerindeki sınırlı denetimi idari vesayettir."
+  },
+  {
+   "id": "x-vatandaslik-q-054",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "text": "Aşağıdakilerden hangisi hizmet yönünden yerinden yönetim kuruluşudur?",
+   "options": [
+    "Belediye",
+    "İl özel idaresi",
+    "Köy",
+    "Valilik",
+    "Üniversite"
+   ],
+   "answer": 4,
+   "explanation": "Üniversiteler belirli bir kamu hizmetini yürüten özerk kuruluşlardır. Belediye, il özel idaresi ve köy yer yönünden yerinden yönetim kuruluşudur; valilik merkezî idarenin taşra teşkilatıdır."
+  },
+  {
+   "id": "x-vatandaslik-q-055",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "text": "657 sayılı Devlet Memurları Kanunu'na göre aşağıdakilerden hangisi disiplin cezalarından biri değildir?",
+   "options": [
+    "Görevden uzaklaştırma",
+    "Uyarma",
+    "Kınama",
+    "Aylıktan kesme",
+    "Devlet memurluğundan çıkarma"
+   ],
+   "answer": 0,
+   "explanation": "Görevden uzaklaştırma bir disiplin cezası değil, geçici bir tedbirdir. Diğerleri 657 sayılı Kanun'un 125. maddesinde sayılan disiplin cezalarıdır."
+  },
+  {
+   "id": "x-vatandaslik-q-056",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "text": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre, özel kanunlarda ayrı süre gösterilmeyen durumlarda idare mahkemelerinde dava açma süresi kaç gündür?",
+   "options": [
+    "15",
+    "30",
+    "45",
+    "60",
+    "90"
+   ],
+   "answer": 3,
+   "explanation": "İYUK md. 7'ye göre dava açma süresi Danıştay ve idare mahkemelerinde 60, vergi mahkemelerinde 30 gündür."
+  },
+  {
+   "id": "x-vatandaslik-q-057",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "text": "I. Belediye\nII. Valilik\nIII. Köy\nYukarıdakilerden hangileri mahalli idarelerdendir?",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "I ve III",
+    "II ve III"
+   ],
+   "answer": 3,
+   "explanation": "Md. 127'ye göre mahalli idareler il özel idaresi, belediye ve köydür. Valilik merkezî idarenin taşra teşkilatıdır."
+  },
+  {
+   "id": "x-vatandaslik-q-058",
+   "subject": "vatandaslik",
+   "topic": "İdare",
+   "text": "Aşağıdakilerden hangisi idari işlemin unsurlarından biri değildir?",
+   "options": [
+    "Yetki",
+    "Kesinlik",
+    "Şekil",
+    "Sebep",
+    "Amaç"
+   ],
+   "answer": 1,
+   "explanation": "İdari işlemin unsurları yetki, şekil, sebep, konu ve amaçtır. Kesinlik, idari işlemin bir özelliğidir; unsuru değildir."
+  }
+ ]
+}

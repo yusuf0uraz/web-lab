@@ -1,0 +1,1918 @@
+{
+ "cards": [
+  {
+   "id": "x-cografya-c-001",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye hangi enlem ve boylamlar arasında yer alır?",
+   "back": "36°-42° kuzey enlemleri ile 26°-45° doğu boylamları arasında."
+  },
+  {
+   "id": "x-cografya-c-002",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'nin kuzey ve güney uçları arasındaki kuş uçuşu mesafe yaklaşık ne kadardır?",
+   "back": "6 enlem × 111 km ≈ 666 km."
+  },
+  {
+   "id": "x-cografya-c-003",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'nin doğu ve batı uçları arasındaki yerel saat farkı ne kadardır?",
+   "back": "19 boylam × 4 dakika = 76 dakika. Bu nedenle güneş Iğdır'da Gökçeada'dan yaklaşık 76 dakika önce doğar."
+  },
+  {
+   "id": "x-cografya-c-004",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'nin en kuzey ve en güney noktaları neresidir?",
+   "back": "En kuzey: Sinop İnceburun. En güney: Hatay (Yayladağı)."
+  },
+  {
+   "id": "x-cografya-c-005",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'nin en doğu ve en batı noktaları neresidir?",
+   "back": "En doğu: Iğdır (Aralık ilçesi). En batı: Çanakkale, Gökçeada (Avlaka Burnu)."
+  },
+  {
+   "id": "x-cografya-c-006",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'nin kara sınırı komşuları hangileridir?",
+   "back": "Yunanistan, Bulgaristan, Gürcistan, Ermenistan, Azerbaycan (Nahçıvan), İran, Irak ve Suriye (8 ülke)."
+  },
+  {
+   "id": "x-cografya-c-007",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'nin en uzun ve en kısa kara sınırı hangi ülkelerledir?",
+   "back": "En uzun: Suriye. En kısa: Azerbaycan (Nahçıvan)."
+  },
+  {
+   "id": "x-cografya-c-008",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'nin kuzey yarım kürede ve orta kuşakta olmasının başlıca sonuçları nelerdir?",
+   "back": "Dört mevsim belirgin yaşanır, güneye bakan yamaçlar daha çok ısınır, kuzeye gidildikçe sıcaklık azalır ve gece-gündüz süre farkı artar; öğle güneşi hiçbir zaman tam tepeye gelmez."
+  },
+  {
+   "id": "x-cografya-c-009",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Matematik konum ile özel konum arasındaki fark nedir?",
+   "back": "Matematik konum enlem-boylamla belirlenen yerdir; özel konum ise yer şekilleri, denizler, komşular, kıtalar arası köprü olma gibi o yere özgü özelliklerdir."
+  },
+  {
+   "id": "x-cografya-c-010",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'nin özel konumuna örnekler veriniz.",
+   "back": "Asya ile Avrupa arasında köprü olması, üç tarafının denizlerle çevrili olması, boğazlara sahip olması, ortalama yükseltinin fazla olup doğudan batıya azalması, Orta Doğu enerji kaynaklarına yakınlık."
+  },
+  {
+   "id": "x-cografya-c-011",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'de kısa mesafelerde iklim ve bitki örtüsünün değişmesi hangi konum özelliğiyle açıklanır?",
+   "back": "Özel konumla: yer şekillerinin çeşitliliği, yükselti farkları ve dağların uzanış doğrultusu."
+  },
+  {
+   "id": "x-cografya-c-012",
+   "subject": "cografya",
+   "topic": "Konum",
+   "front": "Türkiye'nin yüzölçümü yaklaşık ne kadardır?",
+   "back": "Göller dahil yaklaşık 783.500 km²."
+  },
+  {
+   "id": "x-cografya-c-013",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Türkiye'nin en yüksek dağı hangisidir?",
+   "back": "Ağrı Dağı (5137 m), volkanik bir dağdır."
+  },
+  {
+   "id": "x-cografya-c-014",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Türkiye'deki başlıca volkanik dağlar hangileridir?",
+   "back": "Ağrı, Tendürek, Süphan, Nemrut, Erciyes, Hasan, Melendiz, Karacadağ ve Kula volkanları."
+  },
+  {
+   "id": "x-cografya-c-015",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Kuzey Anadolu Dağları ve Toroslar oluşum bakımından hangi dağ türüdür?",
+   "back": "Kıvrım dağları (Alp-Himalaya kıvrım kuşağı, III. jeolojik zaman)."
+  },
+  {
+   "id": "x-cografya-c-016",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Ege'de horst ve graben yapısına örnekler nelerdir?",
+   "back": "Horst (kırık dağ): Kaz, Madra, Yunt, Bozdağlar, Aydın Dağları. Graben (çöküntü ovası): Bakırçay, Gediz, Küçük Menderes, Büyük Menderes ovaları."
+  },
+  {
+   "id": "x-cografya-c-017",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Ege kıyılarında dağların kıyıya dik uzanmasının sonuçları nelerdir?",
+   "back": "Enine kıyı tipi, girintili-çıkıntılı uzun kıyılar, doğal limanlar, deniz etkisinin iç kesimlere sokulması ve kıyıdan içeriye kolay ulaşım."
+  },
+  {
+   "id": "x-cografya-c-018",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Boyuna ve enine kıyı tipleri Türkiye'de nerelerde görülür?",
+   "back": "Boyuna kıyı: Karadeniz ve Akdeniz (dağlar kıyıya paralel). Enine kıyı: Ege (dağlar kıyıya dik)."
+  },
+  {
+   "id": "x-cografya-c-019",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Ria tipi kıyıya Türkiye'den bir örnek veriniz.",
+   "back": "İstanbul Haliç (akarsu vadisinin deniz suları altında kalmasıyla oluşmuştur)."
+  },
+  {
+   "id": "x-cografya-c-020",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Heyelan set gölleri hangileridir?",
+   "back": "Tortum, Abant, Yedigöller, Sera, Zinav."
+  },
+  {
+   "id": "x-cografya-c-021",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Volkanik set ve krater gölleri hangileridir?",
+   "back": "Volkanik set: Van, Nazik, Haçlı, Çıldır. Krater: Nemrut. Maar: Meke ve Acıgöl (Nevşehir)."
+  },
+  {
+   "id": "x-cografya-c-022",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Tektonik göllere örnekler nelerdir?",
+   "back": "Tuz Gölü, Burdur, Acıgöl (Denizli), Sapanca, İznik, Manyas (Kuş), Uluabat, Hazar."
+  },
+  {
+   "id": "x-cografya-c-023",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Karstik göllere ve alüvyal set göllerine örnekler nelerdir?",
+   "back": "Karstik: Salda, Avlan, Kestel. Alüvyal set: Köyceğiz, Eymir, Mogan, Bafa, Marmara Gölü (Manisa)."
+  },
+  {
+   "id": "x-cografya-c-024",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Kıyı set gölleri (lagün) hangileridir?",
+   "back": "Küçükçekmece, Büyükçekmece, Terkos, Akyatan, Paradeniz."
+  },
+  {
+   "id": "x-cografya-c-025",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Karstik (çözünme) yer şekilleri nelerdir?",
+   "back": "Aşınım: lapya, dolin, uvala, polye, obruk, mağara. Birikim: sarkıt, dikit, sütun, traverten (Pamukkale)."
+  },
+  {
+   "id": "x-cografya-c-026",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Peri bacaları nasıl oluşmuştur?",
+   "back": "Volkanik tüflerin yağmur ve sel sularıyla aşınmasıyla (Nevşehir, Kapadokya)."
+  },
+  {
+   "id": "x-cografya-c-027",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Başlıca delta ovaları ve oluşturan akarsular hangileridir?",
+   "back": "Bafra (Kızılırmak), Çarşamba (Yeşilırmak), Çukurova (Seyhan-Ceyhan), Silifke (Göksu)."
+  },
+  {
+   "id": "x-cografya-c-028",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Türkiye akarsularının genel özellikleri nelerdir?",
+   "back": "Rejimleri düzensizdir, akış hızları ve hidroelektrik potansiyelleri yüksektir, ulaşıma elverişli değildir."
+  },
+  {
+   "id": "x-cografya-c-029",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "front": "Tamamı Türkiye topraklarında doğup Türkiye'de denize dökülen en uzun akarsu hangisidir?",
+   "back": "Kızılırmak (Karadeniz'e dökülür)."
+  },
+  {
+   "id": "x-cografya-c-030",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Akdeniz ikliminin özellikleri ve doğal bitki örtüsü nedir?",
+   "back": "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı; bitki örtüsü maki, yükseklerde kızılçam ormanları."
+  },
+  {
+   "id": "x-cografya-c-031",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Karadeniz ikliminin özellikleri ve doğal bitki örtüsü nedir?",
+   "back": "Her mevsim yağışlı, yazlar serin, kışlar ılık; bitki örtüsü ormandır (kayın, gürgen, kestane, ladin, köknar)."
+  },
+  {
+   "id": "x-cografya-c-032",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Karasal iklimin özellikleri ve doğal bitki örtüsü nedir?",
+   "back": "Yazlar sıcak-kurak, kışlar soğuk ve kar yağışlı; sıcaklık farkı büyük. İç Anadolu'da bozkır (step), Doğu Anadolu'nun yüksek kesimlerinde dağ çayırları."
+  },
+  {
+   "id": "x-cografya-c-033",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Maki nedir?",
+   "back": "Akdeniz ikliminde ormanların tahrip edildiği alanlarda yetişen, yaz kuraklığına dayanıklı, her mevsim yeşil bodur çalılar (mersin, defne, keçiboynuzu, kocayemiş, zeytin)."
+  },
+  {
+   "id": "x-cografya-c-034",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Bozkır (step) nedir?",
+   "back": "İlkbahar yağışlarıyla yeşerip yazın kuruyan otlardan oluşan, karasal iklime ait bitki örtüsü."
+  },
+  {
+   "id": "x-cografya-c-035",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Marmara Bölgesi'nde neden maki, orman ve bozkır bir arada görülür?",
+   "back": "Akdeniz, Karadeniz ve karasal iklimler arasında geçiş ikliminin görülmesi nedeniyle."
+  },
+  {
+   "id": "x-cografya-c-036",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Türkiye'de en çok yağış alan yer neresidir?",
+   "back": "Doğu Karadeniz kıyıları (Rize)."
+  },
+  {
+   "id": "x-cografya-c-037",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Yamaç (orografik) yağışları en çok nerelerde görülür?",
+   "back": "Dağların kıyıya paralel uzandığı Karadeniz ve Akdeniz kıyılarının denize bakan yamaçlarında."
+  },
+  {
+   "id": "x-cografya-c-038",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Kırkikindi yağmurları hangi yağış tipine girer ve nerede görülür?",
+   "back": "Konveksiyonel (yükselim) yağışı; özellikle İç Anadolu'da ilkbahar sonu ve yaz başında."
+  },
+  {
+   "id": "x-cografya-c-039",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Yağışın en çok düştüğü mevsim: Akdeniz, Karadeniz, İç Anadolu?",
+   "back": "Akdeniz: kış. Karadeniz: sonbahar. İç Anadolu: ilkbahar."
+  },
+  {
+   "id": "x-cografya-c-040",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Lodos ve poyraz hangi yönlerden eser?",
+   "back": "Lodos: güneybatıdan, ılık ve nemli. Poyraz: kuzeydoğudan, soğuk."
+  },
+  {
+   "id": "x-cografya-c-041",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Fön (föhn) rüzgârı nedir?",
+   "back": "Dağ yamacından alçalarak inen, ısınan ve kuruyan rüzgâr; kar erimesine ve çığa yol açabilir (ör. Doğu Karadeniz)."
+  },
+  {
+   "id": "x-cografya-c-042",
+   "subject": "cografya",
+   "topic": "İklim",
+   "front": "Türkiye'de kış sıcaklıklarının en düşük olduğu yer neresidir?",
+   "back": "Doğu Anadolu'nun kuzeydoğusu (Erzurum-Kars Platosu, Ardahan); yükselti ve karasallık nedeniyle."
+  },
+  {
+   "id": "x-cografya-c-043",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Cumhuriyet döneminin ilk nüfus sayımı hangi yıl yapılmıştır?",
+   "back": "1927."
+  },
+  {
+   "id": "x-cografya-c-044",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Türkiye'de 1935-1990 arasında nüfus sayımları kaç yılda bir yapıldı?",
+   "back": "5 yılda bir. Ardından 2000 yılında yapılan sayım, son geleneksel genel nüfus sayımı olmuştur."
+  },
+  {
+   "id": "x-cografya-c-045",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS) ne zaman başladı?",
+   "back": "2007; bu sistemle nüfus her yıl belirlenir."
+  },
+  {
+   "id": "x-cografya-c-046",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Nüfus artış hızının en düşük olduğu dönem ve nedeni nedir?",
+   "back": "1940-1945; II. Dünya Savaşı sırasında erkek nüfusun uzun süre silah altında tutulması."
+  },
+  {
+   "id": "x-cografya-c-047",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Aritmetik, tarımsal ve fizyolojik nüfus yoğunluğu nasıl hesaplanır?",
+   "back": "Aritmetik: toplam nüfus / yüzölçümü. Tarımsal: tarımla uğraşan nüfus / tarım alanı. Fizyolojik: toplam nüfus / tarım alanı."
+  },
+  {
+   "id": "x-cografya-c-048",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Nüfus yoğunluğunun en fazla ve en az olduğu bölgeler hangileridir?",
+   "back": "En fazla: Marmara. En az: Doğu Anadolu."
+  },
+  {
+   "id": "x-cografya-c-049",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Doğu Anadolu'da nüfusun seyrek olmasının nedenleri nelerdir?",
+   "back": "Yükseltinin fazla, arazinin engebeli, kışların çok uzun ve sert olması; tarım alanlarının ve sanayinin sınırlı olması."
+  },
+  {
+   "id": "x-cografya-c-050",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Karadeniz'de dağınık yerleşmenin nedenleri nelerdir?",
+   "back": "Arazinin engebeli olması, tarım alanlarının küçük ve dağınık olması, su kaynaklarının her yerde bulunması."
+  },
+  {
+   "id": "x-cografya-c-051",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "İç Anadolu'da toplu yerleşmenin nedeni nedir?",
+   "back": "Su kaynaklarının az olması nedeniyle yerleşmelerin su kaynakları çevresinde toplanması; arazinin düz olması."
+  },
+  {
+   "id": "x-cografya-c-052",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Kom, yayla ve dalyan nedir?",
+   "back": "Kom: Doğu ve Güneydoğu Anadolu'da hayvancılığa bağlı geçici yerleşme. Yayla: yaz aylarında hayvancılık için çıkılan yüksek yerleşme. Dalyan: balıkçılık yapılan yerleşme."
+  },
+  {
+   "id": "x-cografya-c-053",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Türkiye'de kırdan kente göç hangi dönemde hızlandı ve temel nedeni nedir?",
+   "back": "1950'lerden sonra; tarımda makineleşme, kentlerde sanayi ve iş olanaklarının artması (ekonomik nedenler)."
+  },
+  {
+   "id": "x-cografya-c-054",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Türkiye'den Avrupa'ya işçi göçünü başlatan ilk anlaşma hangi ülkeyle yapıldı?",
+   "back": "Federal Almanya ile 1961 yılında."
+  },
+  {
+   "id": "x-cografya-c-055",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "front": "Fonksiyonlarına göre şehir örnekleri veriniz.",
+   "back": "Madencilik: Zonguldak. Ağır sanayi: Karabük. Turizm: Antalya. Liman-ticaret: Mersin, İzmir."
+  },
+  {
+   "id": "x-cografya-c-056",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Fındık üretiminde Türkiye'nin yeri ve başlıca üretim alanı nedir?",
+   "back": "Türkiye dünyada birinci; Karadeniz kıyıları (Ordu, Giresun başta)."
+  },
+  {
+   "id": "x-cografya-c-057",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Çay en çok hangi ilde yetiştirilir?",
+   "back": "Rize (Doğu Karadeniz: Rize, Trabzon, Artvin)."
+  },
+  {
+   "id": "x-cografya-c-058",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Pamuk üretiminde öne çıkan il ve bölgeler hangileridir?",
+   "back": "Şanlıurfa (GAP sulamalarıyla) ilk sırada; ayrıca Ege (Aydın) ve Çukurova."
+  },
+  {
+   "id": "x-cografya-c-059",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Şeker pancarı ve buğday üretiminde ilk sıradaki il hangisidir?",
+   "back": "Konya (İç Anadolu)."
+  },
+  {
+   "id": "x-cografya-c-060",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Ayçiçeği en çok nerede yetiştirilir?",
+   "back": "Trakya'da (Tekirdağ, Edirne, Kırklareli)."
+  },
+  {
+   "id": "x-cografya-c-061",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Zeytin, incir ve çekirdeksiz kuru üzüm denince hangi bölge ve iller öne çıkar?",
+   "back": "Ege Bölgesi; incirde Aydın, çekirdeksiz üzümde Manisa."
+  },
+  {
+   "id": "x-cografya-c-062",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Muz ve turunçgiller nerede yetiştirilir?",
+   "back": "Akdeniz kıyıları; muz Anamur ve Alanya, turunçgiller Mersin, Adana, Antalya, Hatay."
+  },
+  {
+   "id": "x-cografya-c-063",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Haşhaş, gül ve kayısı denince hangi iller akla gelir?",
+   "back": "Haşhaş: Afyonkarahisar (kontrollü ekim). Gül (gül yağı): Isparta. Kayısı: Malatya."
+  },
+  {
+   "id": "x-cografya-c-064",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Çeltik (pirinç) en çok nerede yetiştirilir?",
+   "back": "Edirne (Meriç ovası) başta; Samsun, Çorum, Balıkesir."
+  },
+  {
+   "id": "x-cografya-c-065",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Kırmızı mercimek ve Antep fıstığı hangi bölgede yoğunlaşır?",
+   "back": "Güneydoğu Anadolu (Şanlıurfa, Gaziantep, Siirt çevresi)."
+  },
+  {
+   "id": "x-cografya-c-066",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Nadas nedir ve neden uygulanır?",
+   "back": "Toprağın bir yıl ekilmeyerek dinlendirilmesi; yağışın az olduğu yerlerde (İç Anadolu) toprakta nem biriktirmek için."
+  },
+  {
+   "id": "x-cografya-c-067",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Seracılık en çok nerede yapılır ve neden?",
+   "back": "Akdeniz kıyılarında (Antalya başta); kışların ılık geçmesi ve güneşlenmenin fazla olması."
+  },
+  {
+   "id": "x-cografya-c-068",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Doğu Anadolu'da büyükbaş hayvancılık neden gelişmiştir?",
+   "back": "Yaz yağışlarıyla yeşeren gür dağ çayırları (Erzurum-Kars Platosu) nedeniyle."
+  },
+  {
+   "id": "x-cografya-c-069",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Kıl keçisi ve Ankara (tiftik) keçisi nerelerde yetiştirilir?",
+   "back": "Kıl keçisi: Akdeniz (Toroslar), maki ve engebeli arazi nedeniyle. Ankara keçisi: Ankara ve çevresi."
+  },
+  {
+   "id": "x-cografya-c-070",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "front": "Türkiye'de balıkçılık en çok hangi denizde yapılır ve en çok avlanan balık nedir?",
+   "back": "Karadeniz; hamsi."
+  },
+  {
+   "id": "x-cografya-c-071",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Bor çıkarılan başlıca yerler nerelerdir?",
+   "back": "Balıkesir (Bigadiç), Kütahya (Emet), Eskişehir (Kırka), Bursa (Kestelek). Türkiye dünya bor rezervlerinin büyük bölümüne sahiptir.",
+   "mnemonic": "Bor yolu: Bigadiç - Emet - Kırka - Kestelek"
+  },
+  {
+   "id": "x-cografya-c-072",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Demir cevheri çıkarılan başlıca yerler nerelerdir?",
+   "back": "Sivas (Divriği), Malatya (Hekimhan, Hasançelebi)."
+  },
+  {
+   "id": "x-cografya-c-073",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Demir-çelik fabrikaları nerelerde kurulmuştur?",
+   "back": "Karabük (Cumhuriyet'in ilk demir-çelik fabrikası), Ereğli (Zonguldak), İskenderun (Hatay)."
+  },
+  {
+   "id": "x-cografya-c-074",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Bakır çıkarılan başlıca yerler nerelerdir?",
+   "back": "Artvin (Murgul), Kastamonu (Küre), Elazığ (Maden), Rize (Çayeli)."
+  },
+  {
+   "id": "x-cografya-c-075",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Krom çıkarılan başlıca yerler nerelerdir?",
+   "back": "Elazığ (Guleman), Muğla (Fethiye), Bursa (Orhaneli), Eskişehir."
+  },
+  {
+   "id": "x-cografya-c-076",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Boksit (alüminyum) nerede çıkarılır ve işlenir?",
+   "back": "Konya (Seydişehir) ve Antalya (Akseki); alüminyum tesisi Seydişehir'dedir."
+  },
+  {
+   "id": "x-cografya-c-077",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Taşkömürü Türkiye'de nerede çıkarılır?",
+   "back": "Yalnızca Zonguldak havzasında (Zonguldak, Bartın-Amasra)."
+  },
+  {
+   "id": "x-cografya-c-078",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Linyit rezervi en büyük saha ve diğer önemli linyit yatakları nerelerdir?",
+   "back": "En büyük: Afşin-Elbistan (Kahramanmaraş). Diğer: Soma (Manisa), Tunçbilek ve Seyitömer (Kütahya), Yatağan (Muğla), Çan (Çanakkale)."
+  },
+  {
+   "id": "x-cografya-c-079",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Türkiye'de ilk petrol nerede ve ne zaman bulundu?",
+   "back": "1940'ta Batman'daki Raman Dağı'nda."
+  },
+  {
+   "id": "x-cografya-c-080",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Başlıca petrol rafinerileri nerelerdedir?",
+   "back": "Batman, İzmit (Kocaeli), Aliağa (İzmir), Kırıkkale."
+  },
+  {
+   "id": "x-cografya-c-081",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Türkiye'nin ilk jeotermal elektrik santrali nerededir?",
+   "back": "Denizli, Sarayköy-Kızıldere (1984). Jeotermalde Ege (Denizli, Aydın) öne çıkar."
+  },
+  {
+   "id": "x-cografya-c-082",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Fırat ve Dicle üzerindeki büyük barajlar hangileridir?",
+   "back": "Fırat: Keban, Karakaya, Atatürk, Birecik. Dicle: Ilısu. En büyük baraj ve HES Atatürk Barajı'dır."
+  },
+  {
+   "id": "x-cografya-c-083",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Türkiye'nin ilk nükleer santrali nerede inşa edilmektedir?",
+   "back": "Mersin, Akkuyu."
+  },
+  {
+   "id": "x-cografya-c-084",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Fosfat, kükürt, lületaşı ve zımpara taşı nerelerde çıkarılır?",
+   "back": "Fosfat: Mardin (Mazıdağı). Kükürt: Isparta (Keçiborlu). Lületaşı: Eskişehir. Zımpara taşı: Aydın ve İzmir."
+  },
+  {
+   "id": "x-cografya-c-085",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "front": "Rüzgâr enerjisi potansiyeli en yüksek alanlar nerelerdir?",
+   "back": "Ege ve Marmara kıyıları (İzmir, Balıkesir, Çanakkale)."
+  },
+  {
+   "id": "x-cografya-c-086",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "front": "Cumhuriyet'in ilk şeker fabrikaları nerede ve ne zaman kuruldu?",
+   "back": "1926'da Uşak ve Alpullu'da (Kırklareli)."
+  },
+  {
+   "id": "x-cografya-c-087",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "front": "I. Beş Yıllık Sanayi Planı hangi yıl uygulamaya kondu?",
+   "back": "1934."
+  },
+  {
+   "id": "x-cografya-c-088",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "front": "Türkiye'nin ilk çay fabrikası nerede açıldı?",
+   "back": "Rize (1947)."
+  },
+  {
+   "id": "x-cografya-c-089",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "front": "Sanayinin en gelişmiş olduğu bölge ve nedenleri nedir?",
+   "back": "Marmara (İstanbul-Kocaeli): sermaye, nitelikli işgücü, büyük pazar, liman ve ulaşım kolaylığı."
+  },
+  {
+   "id": "x-cografya-c-090",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "front": "Otomotiv sanayisinin yoğunlaştığı iller hangileridir?",
+   "back": "Bursa, Kocaeli, Sakarya (Marmara)."
+  },
+  {
+   "id": "x-cografya-c-091",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "front": "Türkiye'de ilk demiryolu hangi hattır?",
+   "back": "İzmir-Aydın hattı (1856'da yapımına başlanmıştır)."
+  },
+  {
+   "id": "x-cografya-c-092",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "front": "Türkiye'nin ilk yüksek hızlı tren hattı hangisidir?",
+   "back": "Ankara-Eskişehir (2009)."
+  },
+  {
+   "id": "x-cografya-c-093",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "front": "İstanbul Boğazı üzerindeki köprüler hangileridir?",
+   "back": "15 Temmuz Şehitler (Boğaziçi, 1973), Fatih Sultan Mehmet (1988), Yavuz Sultan Selim (2016)."
+  },
+  {
+   "id": "x-cografya-c-094",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "front": "Boğazları ve körfezleri geçen diğer büyük ulaşım yapıları nelerdir?",
+   "back": "Marmaray (2013), Avrasya Tüneli (2016), Osmangazi Köprüsü (İzmit Körfezi, 2016), 1915 Çanakkale Köprüsü (2022)."
+  },
+  {
+   "id": "x-cografya-c-095",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "front": "Toroslar ve Kuzey Anadolu Dağları üzerindeki önemli geçitler hangileridir?",
+   "back": "Toroslar: Gülek (Çukurova-İç Anadolu), Sertavul. Amanoslar: Belen. Kuzey Anadolu Dağları: Zigana (Trabzon-Gümüşhane), Kop (Bayburt-Erzurum)."
+  },
+  {
+   "id": "x-cografya-c-096",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "front": "Kış turizmi merkezlerine örnekler veriniz.",
+   "back": "Uludağ (Bursa), Palandöken (Erzurum), Erciyes (Kayseri), Kartalkaya (Bolu), Sarıkamış (Kars)."
+  },
+  {
+   "id": "x-cografya-c-097",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "front": "Termal turizmde öne çıkan yerlere örnekler veriniz.",
+   "back": "Pamukkale (Denizli), Afyonkarahisar, Bursa, Yalova (Termal)."
+  },
+  {
+   "id": "x-cografya-c-098",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "front": "UNESCO Dünya Mirası Listesi'ne 1985'te giren ilk Türk varlıkları hangileridir?",
+   "back": "İstanbul'un tarihi alanları, Göreme Milli Parkı ve Kapadokya, Divriği Ulu Camii ve Darüşşifası."
+  },
+  {
+   "id": "x-cografya-c-099",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Türkiye'nin coğrafi bölgeleri ne zaman ve nerede belirlendi?",
+   "back": "1941'de Ankara'da toplanan Birinci Coğrafya Kongresi'nde; 7 bölge ve 21 bölüm."
+  },
+  {
+   "id": "x-cografya-c-100",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Yüzölçümüne göre bölgeler büyükten küçüğe nasıl sıralanır?",
+   "back": "Doğu Anadolu > İç Anadolu > Karadeniz > Akdeniz > Ege > Marmara > Güneydoğu Anadolu.",
+   "mnemonic": "En büyük Doğu, en küçük Güneydoğu"
+  },
+  {
+   "id": "x-cografya-c-101",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Marmara Bölgesi'nin bölümleri nelerdir?",
+   "back": "Çatalca-Kocaeli, Ergene, Yıldız Dağları, Güney Marmara."
+  },
+  {
+   "id": "x-cografya-c-102",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Ege, Akdeniz ve Güneydoğu Anadolu bölgelerinin bölümleri nelerdir?",
+   "back": "Ege: Ege (kıyı) ve İç Batı Anadolu. Akdeniz: Antalya ve Adana. Güneydoğu Anadolu: Orta Fırat ve Dicle."
+  },
+  {
+   "id": "x-cografya-c-103",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "İç Anadolu Bölgesi'nin bölümleri nelerdir?",
+   "back": "Konya, Yukarı Sakarya, Orta Kızılırmak, Yukarı Kızılırmak."
+  },
+  {
+   "id": "x-cografya-c-104",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Karadeniz ve Doğu Anadolu bölgelerinin bölümleri nelerdir?",
+   "back": "Karadeniz: Batı, Orta, Doğu Karadeniz. Doğu Anadolu: Yukarı Fırat, Erzurum-Kars, Yukarı Murat-Van, Hakkari."
+  },
+  {
+   "id": "x-cografya-c-105",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Marmara Bölgesi'nin öne çıkan özellikleri nelerdir?",
+   "back": "Nüfusu ve sanayisi en fazla bölge; geçiş iklimi; ayçiçeği (Trakya), çeltik (Edirne); boğazlar."
+  },
+  {
+   "id": "x-cografya-c-106",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Ege Bölgesi'nin öne çıkan özellikleri nelerdir?",
+   "back": "Horst-graben yapısı, enine kıyılar; zeytin, incir, üzüm, tütün, pamuk; jeotermal enerji; zımpara taşı, mermer."
+  },
+  {
+   "id": "x-cografya-c-107",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Akdeniz Bölgesi'nin öne çıkan özellikleri nelerdir?",
+   "back": "Boyuna kıyılar, Toroslar; seracılık, muz, turunçgil, pamuk (Çukurova); turizm; Göller Yöresi ve karstik Teke-Taşeli platoları."
+  },
+  {
+   "id": "x-cografya-c-108",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Karadeniz Bölgesi'nin öne çıkan özellikleri nelerdir?",
+   "back": "En çok yağış alan bölge, dağınık yerleşme, heyelan; fındık, çay; taşkömürü (Zonguldak), bakır (Murgul, Küre); hamsi."
+  },
+  {
+   "id": "x-cografya-c-109",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "İç Anadolu Bölgesi'nin öne çıkan özellikleri nelerdir?",
+   "back": "Karasal iklim ve bozkır; buğday, şeker pancarı; koyun ve Ankara keçisi; Tuz Gölü; lületaşı (Eskişehir); toplu yerleşme."
+  },
+  {
+   "id": "x-cografya-c-110",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Doğu Anadolu Bölgesi'nin öne çıkan özellikleri nelerdir?",
+   "back": "Yüzölçümü ve ortalama yükseltisi en fazla, en soğuk ve en seyrek nüfuslu bölge; büyükbaş hayvancılık; Van Gölü; Ağrı Dağı."
+  },
+  {
+   "id": "x-cografya-c-111",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "Güneydoğu Anadolu Bölgesi'nin öne çıkan özellikleri nelerdir?",
+   "back": "En küçük bölge; yazları en sıcak bölge; nüfus artış hızı yüksek; petrol (Batman, Adıyaman), fosfat; pamuk, kırmızı mercimek, Antep fıstığı; GAP."
+  },
+  {
+   "id": "x-cografya-c-112",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "front": "GAP (Güneydoğu Anadolu Projesi) hangi illeri kapsar?",
+   "back": "9 il: Adıyaman, Batman, Diyarbakır, Gaziantep, Kilis, Mardin, Siirt, Şanlıurfa, Şırnak."
+  },
+  {
+   "id": "x-cografya-c-113",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Türkiye'de depremlerin sık görülmesinin nedeni nedir?",
+   "back": "Alp-Himalaya deprem kuşağında yer alması ve genç oluşumlu, aktif fay hatlarına sahip olması."
+  },
+  {
+   "id": "x-cografya-c-114",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Türkiye'nin başlıca fay hatları hangileridir?",
+   "back": "Kuzey Anadolu Fay Hattı, Doğu Anadolu Fay Hattı ve Batı Anadolu (Ege) fay sistemleri."
+  },
+  {
+   "id": "x-cografya-c-115",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "17 Ağustos 1999 ve 6 Şubat 2023 depremleri hangi fay hatlarıyla ilgilidir?",
+   "back": "1999 Gölcük (Marmara) depremi: Kuzey Anadolu Fayı. 2023 Kahramanmaraş (Pazarcık ve Elbistan) depremleri: Doğu Anadolu Fayı."
+  },
+  {
+   "id": "x-cografya-c-116",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Heyelan en çok nerede görülür ve nedenleri nelerdir?",
+   "back": "Karadeniz Bölgesi (özellikle Doğu Karadeniz); eğimin fazla olması, bol yağış ve killi toprak yapısı. En çok kar erimeleriyle ilkbaharda görülür."
+  },
+  {
+   "id": "x-cografya-c-117",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Çığ en çok nerelerde görülür?",
+   "back": "Kar yağışının fazla ve eğimin yüksek olduğu Doğu Anadolu ve Doğu Karadeniz'in yüksek kesimlerinde."
+  },
+  {
+   "id": "x-cografya-c-118",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Erozyonun başlıca nedenleri nelerdir?",
+   "back": "Eğimin fazla olması, bitki örtüsünün tahrip edilmesi, eğime paralel sürüm, aşırı otlatma, kuraklık ve sağanak yağışlar."
+  },
+  {
+   "id": "x-cografya-c-119",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Erozyonu önleme yöntemleri nelerdir?",
+   "back": "Ağaçlandırma, taraçalama (sekilendirme), eğime dik sürüm, mera ıslahı, nadas alanlarının azaltılması, rüzgâr perdeleri."
+  },
+  {
+   "id": "x-cografya-c-120",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Orman yangınları en çok nerede ve neden görülür?",
+   "back": "Akdeniz ve Ege kıyılarında; yaz kuraklığı, yüksek sıcaklık ve reçineli kızılçam ormanları nedeniyle."
+  },
+  {
+   "id": "x-cografya-c-121",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Konya-Karapınar çevresinde obrukların artmasının nedeni nedir?",
+   "back": "Karstik arazide yer altı suyunun aşırı çekilmesi sonucu tavanın çökmesi."
+  },
+  {
+   "id": "x-cografya-c-122",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "AFAD hangi yıl kuruldu?",
+   "back": "2009 (Afet ve Acil Durum Yönetimi Başkanlığı)."
+  },
+  {
+   "id": "x-cografya-c-123",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Türkiye'nin ilk milli parkı hangisidir?",
+   "back": "Yozgat Çamlığı Milli Parkı (1958)."
+  },
+  {
+   "id": "x-cografya-c-124",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Hava kirliliğinin başlıca nedenleri nelerdir?",
+   "back": "Kalitesiz kömürle ısınma, sanayi ve trafik; çukur alanlarda kurulmuş şehirlerde sıcaklık terselmesi (inversiyon) kirliliği artırır."
+  },
+  {
+   "id": "x-cografya-c-125",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "front": "Caretta caretta kaplumbağalarının yumurtlama alanlarına örnekler veriniz.",
+   "back": "Dalyan-İztuzu (Muğla), Belek (Antalya), Patara."
+  }
+ ],
+ "questions": [
+  {
+   "id": "x-cografya-q-001",
+   "subject": "cografya",
+   "topic": "Konum",
+   "text": "Türkiye'nin 26°-45° doğu boylamları arasında yer almasının doğrudan sonucu aşağıdakilerden hangisidir?",
+   "options": [
+    "Güneye bakan yamaçların kuzeye bakan yamaçlardan daha sıcak olması",
+    "Doğu ve batı uçları arasında 76 dakikalık yerel saat farkı bulunması",
+    "Dört mevsimin belirgin biçimde yaşanması",
+    "Kuzeye gidildikçe ortalama sıcaklığın azalması",
+    "Güneş ışınlarının yıl boyunca hiçbir yere dik açıyla gelmemesi"
+   ],
+   "answer": 1,
+   "explanation": "Yerel saat farkı boylamla ilgilidir: 19 boylam × 4 dk = 76 dk. Diğer seçenekler enlem ve yarım küre konumunun sonuçlarıdır."
+  },
+  {
+   "id": "x-cografya-q-002",
+   "subject": "cografya",
+   "topic": "Konum",
+   "text": "Aşağıdakilerden hangisi Türkiye'nin özel konumunun bir sonucudur?",
+   "options": [
+    "Kuzeye gidildikçe gece-gündüz süre farkının artması",
+    "Güneye bakan yamaçların daha fazla güneş alması",
+    "Doğudaki yerlerde güneşin daha erken doğması",
+    "Öğle güneşinin hiçbir zaman tam tepeye gelmemesi",
+    "Kısa mesafelerde iklim ve bitki örtüsünün değişmesi"
+   ],
+   "answer": 4,
+   "explanation": "Kısa mesafede iklim değişimi yükselti ve yer şekli çeşitliliğinden kaynaklanır; bu özel konumdur. Diğerleri enlem veya boylamla ilgili matematik konum sonuçlarıdır."
+  },
+  {
+   "id": "x-cografya-q-003",
+   "subject": "cografya",
+   "topic": "Konum",
+   "text": "Aşağıdaki ülkelerden hangisi Türkiye'nin kara sınırı komşusu değildir?",
+   "options": [
+    "Lübnan",
+    "Gürcistan",
+    "Ermenistan",
+    "Irak",
+    "Suriye"
+   ],
+   "answer": 0,
+   "explanation": "Türkiye'nin kara komşuları Yunanistan, Bulgaristan, Gürcistan, Ermenistan, Azerbaycan (Nahçıvan), İran, Irak ve Suriye'dir; Lübnan ile kara sınırı yoktur."
+  },
+  {
+   "id": "x-cografya-q-004",
+   "subject": "cografya",
+   "topic": "Konum",
+   "text": "Türkiye ile ilgili aşağıdaki bilgilerden hangileri matematik konumla açıklanabilir?\nI. Kuzeye gidildikçe gece ile gündüz arasındaki süre farkının artması\nII. Güneye bakan yamaçların daha çok ısınması\nIII. Ortalama yükseltinin doğudan batıya doğru azalması",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 2,
+   "explanation": "I ve II enlem ile kuzey yarım kürede bulunmanın sonucudur. Yükseltinin doğudan batıya azalması ise yer şekilleriyle ilgili özel konum özelliğidir."
+  },
+  {
+   "id": "x-cografya-q-005",
+   "subject": "cografya",
+   "topic": "Konum",
+   "text": "Iğdır'da yerel saat 12.00 iken Gökçeada'da yerel saat kaçtır? (İki yer arasında 19 boylam fark olduğu kabul edilecektir.)",
+   "options": [
+    "10.44",
+    "11.16",
+    "11.24",
+    "12.36",
+    "13.16"
+   ],
+   "answer": 0,
+   "explanation": "19 × 4 = 76 dakika; batıdaki Gökçeada'nın yerel saati 1 saat 16 dakika geridedir: 12.00 − 1.16 = 10.44."
+  },
+  {
+   "id": "x-cografya-q-006",
+   "subject": "cografya",
+   "topic": "Konum",
+   "text": "Türkiye'nin en kuzey noktası aşağıdakilerden hangisidir?",
+   "options": [
+    "Kırklareli İğneada",
+    "Sinop İnceburun",
+    "Artvin Hopa",
+    "Kastamonu İnebolu",
+    "Bartın Amasra"
+   ],
+   "answer": 1,
+   "explanation": "Türkiye'nin en kuzey ucu Sinop'taki İnceburun'dur."
+  },
+  {
+   "id": "x-cografya-q-007",
+   "subject": "cografya",
+   "topic": "Konum",
+   "text": "Türkiye'nin kara sınırı en uzun olan komşusu aşağıdakilerden hangisidir?",
+   "options": [
+    "İran",
+    "Irak",
+    "Bulgaristan",
+    "Suriye",
+    "Gürcistan"
+   ],
+   "answer": 3,
+   "explanation": "En uzun kara sınırı Suriye ile, en kısası Azerbaycan'a bağlı Nahçıvan iledir."
+  },
+  {
+   "id": "x-cografya-q-008",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "text": "Aşağıdaki göllerden hangisi heyelan set gölü değildir?",
+   "options": [
+    "Tortum",
+    "Salda",
+    "Abant",
+    "Yedigöller",
+    "Sera"
+   ],
+   "answer": 1,
+   "explanation": "Salda Gölü karstik bir göldür. Tortum, Abant, Yedigöller ve Sera heyelan set gölleridir."
+  },
+  {
+   "id": "x-cografya-q-009",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "text": "Nevşehir çevresindeki peri bacalarının oluşumunda aşağıdakilerden hangisi temel etkendir?",
+   "options": [
+    "Buzulların aşındırması",
+    "Kalkerli arazide çözünme",
+    "Dalgaların aşındırması",
+    "Kırılma sonucu horst oluşumu",
+    "Volkanik tüflerin yağmur ve sel sularıyla aşınması"
+   ],
+   "answer": 4,
+   "explanation": "Peri bacaları, volkanik tüflerin yüzey ve sel sularıyla farklı hızlarda aşınması sonucu oluşmuştur."
+  },
+  {
+   "id": "x-cografya-q-010",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "text": "Ege kıyılarında dağların kıyıya dik uzanmasının sonuçları arasında aşağıdakilerden hangisi yer almaz?",
+   "options": [
+    "Boyuna kıyı tipinin görülmesi",
+    "Kıyı uzunluğunun fazla olması",
+    "Deniz etkisinin iç kesimlere kadar sokulması",
+    "Kıyıdan iç kesimlere ulaşımın kolay olması",
+    "Doğal limanların çok olması"
+   ],
+   "answer": 0,
+   "explanation": "Dağların kıyıya dik uzandığı Ege'de enine kıyı tipi görülür; boyuna kıyı Karadeniz ve Akdeniz'e özgüdür."
+  },
+  {
+   "id": "x-cografya-q-011",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "text": "I. Bafra Ovası\nII. Çarşamba Ovası\nIII. Konya Ovası\nYukarıdaki ovalardan hangileri delta ovasıdır?",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 2,
+   "explanation": "Bafra Kızılırmak'ın, Çarşamba Yeşilırmak'ın deltasıdır. Konya Ovası tektonik kökenli bir ovadır."
+  },
+  {
+   "id": "x-cografya-q-012",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "text": "Aşağıdaki dağlardan hangisi volkanik kökenli değildir?",
+   "options": [
+    "Uludağ",
+    "Erciyes",
+    "Hasan",
+    "Nemrut",
+    "Süphan"
+   ],
+   "answer": 0,
+   "explanation": "Erciyes, Hasan, Nemrut ve Süphan volkanik dağlardır; Uludağ volkanik değildir."
+  },
+  {
+   "id": "x-cografya-q-013",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "text": "Van Gölü oluşumu bakımından aşağıdaki göl türlerinden hangisine girer?",
+   "options": [
+    "Karstik göl",
+    "Volkanik set gölü",
+    "Heyelan set gölü",
+    "Kıyı set gölü",
+    "Buzul gölü"
+   ],
+   "answer": 1,
+   "explanation": "Van Gölü, Nemrut Dağı'nın lavlarının çanağın önünü kapatmasıyla oluşmuş volkanik set gölüdür."
+  },
+  {
+   "id": "x-cografya-q-014",
+   "subject": "cografya",
+   "topic": "Yer Şekilleri",
+   "text": "Aşağıdakilerden hangisi karstik bir yer şekli değildir?",
+   "options": [
+    "Lapya",
+    "Dolin",
+    "Moren",
+    "Polye",
+    "Traverten"
+   ],
+   "answer": 2,
+   "explanation": "Moren buzulların biriktirdiği malzemedir; diğerleri kalkerli arazilerde çözünmeyle oluşan karstik şekillerdir."
+  },
+  {
+   "id": "x-cografya-q-015",
+   "subject": "cografya",
+   "topic": "İklim",
+   "text": "Maki aşağıdaki iklim tiplerinden hangisinin doğal bitki örtüsüdür?",
+   "options": [
+    "Karadeniz iklimi",
+    "Karasal iklim",
+    "Tundra iklimi",
+    "Akdeniz iklimi",
+    "Muson iklimi"
+   ],
+   "answer": 3,
+   "explanation": "Maki, yaz kuraklığına uyum sağlamış bodur çalılardan oluşur ve Akdeniz ikliminin tipik bitki örtüsüdür."
+  },
+  {
+   "id": "x-cografya-q-016",
+   "subject": "cografya",
+   "topic": "İklim",
+   "text": "I. Rize\nII. Antalya\nIII. Konya\nYukarıdaki illerden hangilerinde her mevsim yağışlı bir iklim görülür?",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 0,
+   "explanation": "Her mevsim yağışlı iklim Karadeniz iklimidir (Rize). Antalya'da yaz kurak (Akdeniz), Konya'da yaz kurak (karasal) geçer."
+  },
+  {
+   "id": "x-cografya-q-017",
+   "subject": "cografya",
+   "topic": "İklim",
+   "text": "İç Anadolu'da ilkbahar sonu ve yaz başında görülen kırkikindi yağmurları hangi yağış tipine örnektir?",
+   "options": [
+    "Orografik (yamaç) yağış",
+    "Cephesel yağış",
+    "Muson yağışı",
+    "Fön yağışı",
+    "Konveksiyonel (yükselim) yağış"
+   ],
+   "answer": 4,
+   "explanation": "Isınan havanın yükselip soğumasıyla oluşan bu sağanaklar konveksiyonel yağıştır."
+  },
+  {
+   "id": "x-cografya-q-018",
+   "subject": "cografya",
+   "topic": "İklim",
+   "text": "Marmara Bölgesi'nde ılık ve nemli havayla birlikte kar erimesine ve deniz fırtınalarına yol açan güneybatı rüzgârı hangisidir?",
+   "options": [
+    "Poyraz",
+    "Karayel",
+    "Yıldız",
+    "Keşişleme",
+    "Lodos"
+   ],
+   "answer": 4,
+   "explanation": "Lodos güneybatıdan eser; poyraz kuzeydoğudan, karayel kuzeybatıdan, yıldız kuzeyden, keşişleme güneydoğudan eser."
+  },
+  {
+   "id": "x-cografya-q-019",
+   "subject": "cografya",
+   "topic": "İklim",
+   "text": "Aşağıdakilerden hangisi Akdeniz ikliminin özelliklerinden biri değildir?",
+   "options": [
+    "Yağışın en çok yaz mevsiminde düşmesi",
+    "Yazların sıcak ve kurak geçmesi",
+    "Kışların ılık geçmesi",
+    "Doğal bitki örtüsünün maki olması",
+    "Yağışların daha çok kışın düşmesi"
+   ],
+   "answer": 0,
+   "explanation": "Akdeniz ikliminde yazlar kuraktır; yağış en çok kış mevsiminde düşer."
+  },
+  {
+   "id": "x-cografya-q-020",
+   "subject": "cografya",
+   "topic": "İklim",
+   "text": "Karadeniz kıyılarında bol yamaç yağışı görülmesinin temel nedeni aşağıdakilerden hangisidir?",
+   "options": [
+    "Ortalama yükseltinin az olması",
+    "Dağların kıyıya paralel uzanması",
+    "Kıyıların girintili-çıkıntılı olması",
+    "Güney rüzgârlarının etkili olması",
+    "Karasallığın yüksek olması"
+   ],
+   "answer": 1,
+   "explanation": "Denizden gelen nemli hava kıyıya paralel dağlara çarpıp yükselir ve yamaç yağışı bırakır."
+  },
+  {
+   "id": "x-cografya-q-021",
+   "subject": "cografya",
+   "topic": "İklim",
+   "text": "Bir alanda maki, nemcil orman ve bozkırın bir arada görülmesi aşağıdaki bölgelerden hangisi için en tipiktir?",
+   "options": [
+    "Doğu Anadolu",
+    "Güneydoğu Anadolu",
+    "Marmara",
+    "İç Anadolu",
+    "Doğu Karadeniz"
+   ],
+   "answer": 2,
+   "explanation": "Marmara'da geçiş iklimi görülür; Akdeniz, Karadeniz ve karasal iklim özellikleri bir arada bulunduğundan bitki örtüsü de çeşitlidir."
+  },
+  {
+   "id": "x-cografya-q-022",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "text": "Cumhuriyet döneminde ilk genel nüfus sayımı hangi yıl yapılmıştır?",
+   "options": [
+    "1923",
+    "1924",
+    "1927",
+    "1935",
+    "1950"
+   ],
+   "answer": 2,
+   "explanation": "Cumhuriyet'in ilk nüfus sayımı 1927'de yapılmış, 1935'ten itibaren beş yılda bir tekrarlanmıştır."
+  },
+  {
+   "id": "x-cografya-q-023",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "text": "Karadeniz Bölgesi'nde dağınık yerleşmenin yaygın olmasının nedenleri arasında aşağıdakilerden hangisi yer almaz?",
+   "options": [
+    "Arazinin engebeli olması",
+    "Su kaynaklarının bol ve yaygın olması",
+    "Tarım alanlarının küçük ve dağınık parçalar hâlinde olması",
+    "Su kaynaklarının az olması nedeniyle yerleşmelerin kaynak çevresinde toplanması",
+    "Her mevsim yağış alınması"
+   ],
+   "answer": 3,
+   "explanation": "Su kaynağı çevresinde toplanma toplu yerleşmenin nedenidir ve daha çok İç Anadolu için geçerlidir."
+  },
+  {
+   "id": "x-cografya-q-024",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "text": "Toplam nüfusun tarım alanlarına bölünmesiyle elde edilen yoğunluk türü hangisidir?",
+   "options": [
+    "Aritmetik nüfus yoğunluğu",
+    "Tarımsal nüfus yoğunluğu",
+    "Nüfus artış hızı",
+    "Fizyolojik nüfus yoğunluğu",
+    "Kentleşme oranı"
+   ],
+   "answer": 3,
+   "explanation": "Fizyolojik yoğunluk toplam nüfus / tarım alanıdır; tarımsal yoğunlukta pay yalnızca tarımla uğraşan nüfustur."
+  },
+  {
+   "id": "x-cografya-q-025",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "text": "Türkiye'de nüfus artış hızının en düşük olduğu 1940-1945 döneminin temel nedeni aşağıdakilerden hangisidir?",
+   "options": [
+    "Kurtuluş Savaşı'nın yol açtığı kayıplar",
+    "Nüfus mübadelesi",
+    "Aile planlaması politikalarının uygulanması",
+    "Avrupa'ya yoğun işçi göçü",
+    "II. Dünya Savaşı nedeniyle erkek nüfusun uzun süre silah altında tutulması"
+   ],
+   "answer": 4,
+   "explanation": "Türkiye savaşa girmese de seferberlik nedeniyle erkek nüfus askerde tutuldu ve doğumlar azaldı."
+  },
+  {
+   "id": "x-cografya-q-026",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "text": "I. Kom\nII. Yayla\nIII. Dalyan\nYukarıdaki geçici yerleşmelerden hangileri balıkçılıkla ilgilidir?",
+   "options": [
+    "Yalnız I",
+    "Yalnız III",
+    "I ve II",
+    "I ve III",
+    "II ve III"
+   ],
+   "answer": 1,
+   "explanation": "Dalyan balıkçılıkla ilgili bir yerleşmedir. Kom ve yayla ise hayvancılığa bağlı geçici yerleşmelerdir."
+  },
+  {
+   "id": "x-cografya-q-027",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "text": "Türkiye'de 2007 yılından itibaren nüfusun her yıl belirlenmesini sağlayan sistem hangisidir?",
+   "options": [
+    "Genel nüfus sayımı",
+    "Adrese Dayalı Nüfus Kayıt Sistemi",
+    "Örnekleme anketi",
+    "Hane halkı işgücü anketi",
+    "Tapu kayıt sistemi"
+   ],
+   "answer": 1,
+   "explanation": "2007'de başlayan ADNKS ile nüfus, kişilerin yerleşim yeri adreslerine göre yıllık olarak belirlenir."
+  },
+  {
+   "id": "x-cografya-q-028",
+   "subject": "cografya",
+   "topic": "Nüfus ve Yerleşme",
+   "text": "Aşağıdaki bölgelerden hangisinde aritmetik nüfus yoğunluğu en azdır?",
+   "options": [
+    "Marmara",
+    "Ege",
+    "Doğu Anadolu",
+    "Akdeniz",
+    "Güneydoğu Anadolu"
+   ],
+   "answer": 2,
+   "explanation": "Doğu Anadolu yüzölçümü en büyük bölgedir; yükselti, engebe ve sert iklim nedeniyle nüfus yoğunluğu en azdır."
+  },
+  {
+   "id": "x-cografya-q-029",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "text": "Türkiye'de çay üretiminde ilk sırada yer alan il aşağıdakilerden hangisidir?",
+   "options": [
+    "Rize",
+    "Trabzon",
+    "Artvin",
+    "Giresun",
+    "Ordu"
+   ],
+   "answer": 0,
+   "explanation": "Çay Doğu Karadeniz'de yetişir ve üretimde Rize açık farkla ilk sıradadır."
+  },
+  {
+   "id": "x-cografya-q-030",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "text": "Aşağıdaki tarım ürünlerinden hangisi Akdeniz Bölgesi'nin kıyı kesimlerinde yaygın olarak yetiştirilenler arasında değildir?",
+   "options": [
+    "Muz",
+    "Turunçgil",
+    "Fındık",
+    "Seracılık sebzeleri",
+    "Pamuk"
+   ],
+   "answer": 2,
+   "explanation": "Fındık Karadeniz kıyılarına özgüdür. Muz, turunçgil, sera sebzeleri ve pamuk (Çukurova) Akdeniz'de yaygındır."
+  },
+  {
+   "id": "x-cografya-q-031",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "text": "Doğu Anadolu'da büyükbaş hayvancılığın gelişmiş olmasının temel nedeni aşağıdakilerden hangisidir?",
+   "options": [
+    "Kışların ılık geçmesi",
+    "Tarım alanlarının geniş olması",
+    "Bozkırların yaygın olması",
+    "Yaz yağışlarıyla yeşeren gür çayırların bulunması",
+    "Nüfusun yoğun olması"
+   ],
+   "answer": 3,
+   "explanation": "Doğu Anadolu'nun yüksek kesimlerinde yaz yağışlarıyla gür dağ çayırları oluşur ve büyükbaş hayvancılık için uygun mera sağlar."
+  },
+  {
+   "id": "x-cografya-q-032",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "text": "Ürün ve öne çıktığı il eşleştirmelerinden hangileri doğrudur?\nI. Haşhaş - Afyonkarahisar\nII. Kayısı - Rize\nIII. Gül - Isparta",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "I ve III",
+    "II ve III"
+   ],
+   "answer": 3,
+   "explanation": "Haşhaş Afyonkarahisar'da, gül (gül yağı) Isparta'da öne çıkar. Kayısı üretiminde öne çıkan il Malatya'dır."
+  },
+  {
+   "id": "x-cografya-q-033",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "text": "İç Anadolu'da nadas uygulamasının yaygın olmasının temel nedeni aşağıdakilerden hangisidir?",
+   "options": [
+    "Yağışın az olması",
+    "Toprakların çok verimli olması",
+    "Arazinin engebeli olması",
+    "Nüfusun fazla olması",
+    "Yer altı sularının yüzeye yakın olması"
+   ],
+   "answer": 0,
+   "explanation": "Yağışın az olduğu yerlerde toprak bir yıl dinlendirilerek nem biriktirmesi sağlanır."
+  },
+  {
+   "id": "x-cografya-q-034",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "text": "Toroslar çevresinde kıl keçisi yetiştiriciliğinin yaygın olması aşağıdakilerden hangisiyle açıklanabilir?",
+   "options": [
+    "Gür çayırların bulunması",
+    "Engebeli arazide maki örtüsünün yaygın olması",
+    "Bozkırın yaygın olması",
+    "Kışların uzun ve sert geçmesi",
+    "Sulama olanaklarının fazla olması"
+   ],
+   "answer": 1,
+   "explanation": "Kıl keçisi engebeli arazilere ve maki çalılarıyla beslenmeye uyumludur."
+  },
+  {
+   "id": "x-cografya-q-035",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "text": "Şanlıurfa'nın son yıllarda pamuk üretiminde ilk sıraya yükselmesinde en etkili gelişme aşağıdakilerden hangisidir?",
+   "options": [
+    "Yağış miktarının artması",
+    "Seracılığın yaygınlaşması",
+    "Nadas alanlarının genişlemesi",
+    "Mera alanlarının artması",
+    "GAP kapsamında sulama olanaklarının artması"
+   ],
+   "answer": 4,
+   "explanation": "Harran Ovası başta olmak üzere GAP sulamaları pamuk üretimini büyük ölçüde artırmıştır."
+  },
+  {
+   "id": "x-cografya-q-036",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "text": "Türkiye'de ayçiçeği üretiminin en yoğun olduğu yöre aşağıdakilerden hangisidir?",
+   "options": [
+    "Çukurova",
+    "Doğu Karadeniz",
+    "Erzurum-Kars Platosu",
+    "Trakya",
+    "Göller Yöresi"
+   ],
+   "answer": 3,
+   "explanation": "Ayçiçeği en çok Trakya'da (Tekirdağ, Edirne, Kırklareli) yetiştirilir."
+  },
+  {
+   "id": "x-cografya-q-037",
+   "subject": "cografya",
+   "topic": "Tarım",
+   "text": "Türkiye'de deniz balıkçılığının en çok Karadeniz'de yapılmasının temel nedeni aşağıdakilerden hangisidir?",
+   "options": [
+    "Denizin tuzluluğunun çok yüksek olması",
+    "Kıyıların girintili-çıkıntılı olması",
+    "Kıta sahanlığının çok geniş olması",
+    "Denizin her yıl donması",
+    "Akarsuların taşıdığı besinlerle denizin plankton bakımından zengin olması"
+   ],
+   "answer": 4,
+   "explanation": "Karadeniz'e dökülen akarsuların getirdiği besinler planktonu, plankton da balık varlığını artırır."
+  },
+  {
+   "id": "x-cografya-q-038",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "text": "Aşağıdakilerden hangisi bor madeninin çıkarıldığı yerlerden biri değildir?",
+   "options": [
+    "Bigadiç",
+    "Divriği",
+    "Emet",
+    "Kırka",
+    "Kestelek"
+   ],
+   "answer": 1,
+   "explanation": "Divriği (Sivas) demir madeniyle bilinir. Bigadiç, Emet, Kırka ve Kestelek bor yataklarıdır."
+  },
+  {
+   "id": "x-cografya-q-039",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "text": "Seydişehir'de alüminyum tesisi kurulmasında aşağıdakilerden hangisi belirleyici olmuştur?",
+   "options": [
+    "Taşkömürü havzasına yakınlık",
+    "Büyük bir limana sahip olması",
+    "Yakınında boksit yataklarının bulunması",
+    "Nüfusun çok kalabalık olması",
+    "Jeotermal kaynakların bulunması"
+   ],
+   "answer": 2,
+   "explanation": "Alüminyumun hammaddesi boksittir; Seydişehir ve Akseki çevresinde boksit yatakları bulunur."
+  },
+  {
+   "id": "x-cografya-q-040",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "text": "Yer ve maden eşleştirmelerinden hangileri doğrudur?\nI. Murgul - Bakır\nII. Guleman - Krom\nIII. Divriği - Demir",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 4,
+   "explanation": "Murgul (Artvin) bakır, Guleman (Elazığ) krom, Divriği (Sivas) demir yataklarıyla bilinir; üç eşleştirme de doğrudur."
+  },
+  {
+   "id": "x-cografya-q-041",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "text": "Aşağıdaki santrallerden hangisi linyitle çalışan bir termik santral değildir?",
+   "options": [
+    "Keban",
+    "Afşin-Elbistan",
+    "Soma",
+    "Yatağan",
+    "Seyitömer"
+   ],
+   "answer": 0,
+   "explanation": "Keban, Fırat üzerinde kurulmuş bir hidroelektrik santralidir; diğerleri linyit yataklarına kurulmuş termik santrallerdir."
+  },
+  {
+   "id": "x-cografya-q-042",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "text": "Türkiye'de ilk petrol aşağıdaki yerlerin hangisinde bulunmuştur?",
+   "options": [
+    "Raman Dağı (Batman)",
+    "Gabar Dağı (Şırnak)",
+    "Hamitabat (Kırklareli)",
+    "Kızıldere (Denizli)",
+    "Kırıkkale"
+   ],
+   "answer": 0,
+   "explanation": "İlk petrol 1940'ta Batman'daki Raman Dağı'nda bulunmuştur."
+  },
+  {
+   "id": "x-cografya-q-043",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "text": "Türkiye'nin ilk jeotermal elektrik santrali hangi ilde kurulmuştur?",
+   "options": [
+    "Aydın",
+    "Denizli",
+    "Afyonkarahisar",
+    "Kütahya",
+    "Manisa"
+   ],
+   "answer": 1,
+   "explanation": "İlk jeotermal santral 1984'te Denizli'nin Sarayköy ilçesindeki Kızıldere'de kurulmuştur."
+  },
+  {
+   "id": "x-cografya-q-044",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "text": "Karabük Demir-Çelik Fabrikası'nın kuruluş yeri seçiminde aşağıdakilerden hangisi en etkili olmuştur?",
+   "options": [
+    "Demir cevherinin hemen yanında çıkarılması",
+    "Büyük bir tüketim merkezinde bulunması",
+    "Zonguldak taşkömürü havzasına yakın olması",
+    "Boksit yataklarına yakınlığı",
+    "Jeotermal enerji kaynaklarının varlığı"
+   ],
+   "answer": 2,
+   "explanation": "Demir-çelik üretiminde yoğun yakıt gerektiğinden fabrika taşkömürü havzasına yakın kurulmuş, cevher ise Divriği'den taşınmıştır."
+  },
+  {
+   "id": "x-cografya-q-045",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "text": "Türkiye'nin ilk nükleer santrali hangi ilde inşa edilmektedir?",
+   "options": [
+    "Sinop",
+    "Kırklareli",
+    "İzmir",
+    "Mersin",
+    "Samsun"
+   ],
+   "answer": 3,
+   "explanation": "Türkiye'nin ilk nükleer santrali Mersin'in Gülnar ilçesindeki Akkuyu'da inşa edilmektedir."
+  },
+  {
+   "id": "x-cografya-q-046",
+   "subject": "cografya",
+   "topic": "Maden ve Enerji",
+   "text": "Taşkömürünün Türkiye'de çıkarıldığı tek havza aşağıdakilerden hangisidir?",
+   "options": [
+    "Soma havzası",
+    "Afşin-Elbistan havzası",
+    "Tunçbilek havzası",
+    "Ergene havzası",
+    "Zonguldak havzası"
+   ],
+   "answer": 4,
+   "explanation": "Taşkömürü yalnızca Zonguldak havzasında (Zonguldak, Bartın-Amasra) çıkarılır; diğerleri linyit sahalarıdır ya da kömür havzası değildir."
+  },
+  {
+   "id": "x-cografya-q-047",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "text": "Cumhuriyet döneminde 1926 yılında ilk şeker fabrikaları aşağıdaki yerlerin hangisinde kurulmuştur?",
+   "options": [
+    "Eskişehir ve Turhal",
+    "Uşak ve Alpullu",
+    "Konya ve Kayseri",
+    "Adapazarı ve Bursa",
+    "Ankara ve Afyonkarahisar"
+   ],
+   "answer": 1,
+   "explanation": "İlk şeker fabrikaları 1926'da Uşak ve Kırklareli'nin Alpullu beldesinde açılmıştır."
+  },
+  {
+   "id": "x-cografya-q-048",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "text": "Aşağıdaki geçit ve bulunduğu dağ eşleştirmelerinden hangisi yanlıştır?",
+   "options": [
+    "Zigana - Kuzey Anadolu Dağları",
+    "Kop - Kuzey Anadolu Dağları",
+    "Gülek - Kuzey Anadolu Dağları",
+    "Belen - Amanos Dağları",
+    "Sertavul - Toroslar"
+   ],
+   "answer": 2,
+   "explanation": "Gülek Geçidi Toroslar üzerindedir ve Çukurova'yı İç Anadolu'ya bağlar."
+  },
+  {
+   "id": "x-cografya-q-049",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "text": "Marmara Bölgesi'nde sanayinin yoğunlaşmasında aşağıdakilerden hangileri etkili olmuştur?\nI. Sermaye birikiminin fazla olması\nII. Ulaşım ve liman olanaklarının gelişmiş olması\nIII. Tüketici nüfusun kalabalık olması",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 4,
+   "explanation": "Sermaye, ulaşım-liman olanakları ve büyük pazar Marmara'da sanayinin toplanmasını sağlayan başlıca etkenlerdir."
+  },
+  {
+   "id": "x-cografya-q-050",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "text": "Aşağıdakilerden hangisi bir kış turizmi merkezi değildir?",
+   "options": [
+    "Uludağ",
+    "Palandöken",
+    "Erciyes",
+    "Kartalkaya",
+    "Pamukkale"
+   ],
+   "answer": 4,
+   "explanation": "Pamukkale traverten terasları ve termal sularıyla bilinir; diğerleri kayak merkezleridir."
+  },
+  {
+   "id": "x-cografya-q-051",
+   "subject": "cografya",
+   "topic": "Sanayi",
+   "text": "Türkiye'nin ilk yüksek hızlı tren seferi aşağıdaki hatların hangisinde başlamıştır?",
+   "options": [
+    "Ankara-Eskişehir",
+    "Ankara-Konya",
+    "İstanbul-Ankara",
+    "Ankara-Sivas",
+    "İstanbul-Edirne"
+   ],
+   "answer": 0,
+   "explanation": "İlk hızlı tren hattı 2009'da Ankara-Eskişehir arasında hizmete girmiştir."
+  },
+  {
+   "id": "x-cografya-q-052",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "text": "Karadeniz kıyılarında kıyı ile iç kesimler arasında ulaşımın zor olmasının temel nedeni aşağıdakilerden hangisidir?",
+   "options": [
+    "Kıyıların girintili-çıkıntılı olması",
+    "Akarsuların ulaşıma elverişli olması",
+    "Nüfusun az olması",
+    "Dağların kıyıya paralel uzanması",
+    "Yağışın az olması"
+   ],
+   "answer": 3,
+   "explanation": "Kıyıya paralel dağlar iç kesimlerle bağlantıyı geçitlere (Zigana, Kop vb.) bağımlı kılar."
+  },
+  {
+   "id": "x-cografya-q-053",
+   "subject": "cografya",
+   "topic": "Ulaşım/Turizm",
+   "text": "İstanbul Boğazı üzerinde inşa edilen ilk köprü aşağıdakilerden hangisidir?",
+   "options": [
+    "Fatih Sultan Mehmet Köprüsü",
+    "Yavuz Sultan Selim Köprüsü",
+    "15 Temmuz Şehitler Köprüsü",
+    "Osmangazi Köprüsü",
+    "1915 Çanakkale Köprüsü"
+   ],
+   "answer": 2,
+   "explanation": "Boğaziçi Köprüsü adıyla 1973'te açılan köprü bugün 15 Temmuz Şehitler Köprüsü adını taşır."
+  },
+  {
+   "id": "x-cografya-q-054",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "text": "Türkiye'nin yedi coğrafi bölgesi hangi yıl toplanan Birinci Coğrafya Kongresi'nde belirlenmiştir?",
+   "options": [
+    "1923",
+    "1933",
+    "1938",
+    "1941",
+    "1950"
+   ],
+   "answer": 3,
+   "explanation": "Bölgeler 1941'de Ankara'da toplanan Birinci Coğrafya Kongresi'nde 7 bölge ve 21 bölüm olarak belirlenmiştir."
+  },
+  {
+   "id": "x-cografya-q-055",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "text": "Yüzölçümü en küçük coğrafi bölge aşağıdakilerden hangisidir?",
+   "options": [
+    "Marmara",
+    "Ege",
+    "Akdeniz",
+    "Güneydoğu Anadolu",
+    "Karadeniz"
+   ],
+   "answer": 3,
+   "explanation": "Güneydoğu Anadolu en küçük, Marmara ise en küçük ikinci bölgedir."
+  },
+  {
+   "id": "x-cografya-q-056",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "text": "Aşağıdaki illerden hangisi GAP kapsamındaki iller arasında yer almaz?",
+   "options": [
+    "Adıyaman",
+    "Kilis",
+    "Batman",
+    "Şırnak",
+    "Malatya"
+   ],
+   "answer": 4,
+   "explanation": "GAP; Adıyaman, Batman, Diyarbakır, Gaziantep, Kilis, Mardin, Siirt, Şanlıurfa ve Şırnak'ı kapsar."
+  },
+  {
+   "id": "x-cografya-q-057",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "text": "Aşağıdakilerden hangisi Doğu Anadolu Bölgesi'nin özelliklerinden biri değildir?",
+   "options": [
+    "Zeytin yetiştiriciliğinin yaygın olması",
+    "Ortalama yükseltinin en fazla olması",
+    "Nüfus yoğunluğunun en az olması",
+    "Büyükbaş hayvancılığın gelişmiş olması",
+    "Kışların uzun ve sert geçmesi"
+   ],
+   "answer": 0,
+   "explanation": "Zeytin kışları ılık geçen Ege, Marmara ve Akdeniz kıyılarında yetişir; Doğu Anadolu'nun sert iklimi buna uygun değildir."
+  },
+  {
+   "id": "x-cografya-q-058",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "text": "Ege Bölgesi ile ilgili aşağıdaki ifadelerden hangileri doğrudur?\nI. Dağlar genellikle kıyıya dik uzanır.\nII. Jeotermal enerji potansiyeli yüksektir.\nIII. Taşkömürü üretiminde ilk sıradadır.",
+   "options": [
+    "Yalnız I",
+    "Yalnız II",
+    "I ve II",
+    "II ve III",
+    "I, II ve III"
+   ],
+   "answer": 2,
+   "explanation": "Ege'de horst-graben yapısıyla dağlar kıyıya diktir ve jeotermal kaynaklar zengindir. Taşkömürü yalnızca Zonguldak havzasında çıkarılır."
+  },
+  {
+   "id": "x-cografya-q-059",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "text": "Her mevsim yağış alan, dağınık yerleşmenin yaygın olduğu, fındık ve çay tarımının öne çıktığı bölge aşağıdakilerden hangisidir?",
+   "options": [
+    "Marmara",
+    "Karadeniz",
+    "Ege",
+    "Akdeniz",
+    "Doğu Anadolu"
+   ],
+   "answer": 1,
+   "explanation": "Bu özelliklerin tamamı Karadeniz Bölgesi'ne aittir."
+  },
+  {
+   "id": "x-cografya-q-060",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "text": "Aşağıdaki bölüm ve bağlı olduğu bölge eşleştirmelerinden hangisi yanlıştır?",
+   "options": [
+    "Ergene Bölümü - Marmara Bölgesi",
+    "Yukarı Sakarya Bölümü - İç Anadolu Bölgesi",
+    "Adana Bölümü - Ege Bölgesi",
+    "Hakkari Bölümü - Doğu Anadolu Bölgesi",
+    "Dicle Bölümü - Güneydoğu Anadolu Bölgesi"
+   ],
+   "answer": 2,
+   "explanation": "Adana Bölümü, Antalya Bölümü ile birlikte Akdeniz Bölgesi'ne aittir."
+  },
+  {
+   "id": "x-cografya-q-061",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "text": "Teke ve Taşeli platoları ile Göller Yöresi aşağıdaki bölgelerden hangisinde yer alır?",
+   "options": [
+    "Ege",
+    "İç Anadolu",
+    "Güneydoğu Anadolu",
+    "Akdeniz",
+    "Doğu Anadolu"
+   ],
+   "answer": 3,
+   "explanation": "Teke ve Taşeli karstik platoları ile Göller Yöresi Akdeniz Bölgesi'ndedir."
+  },
+  {
+   "id": "x-cografya-q-062",
+   "subject": "cografya",
+   "topic": "Bölgeler",
+   "text": "Yazları en sıcak geçen, nüfus artış hızının yüksek olduğu ve petrol ile fosfat çıkarılan bölge aşağıdakilerden hangisidir?",
+   "options": [
+    "İç Anadolu",
+    "Akdeniz",
+    "Doğu Anadolu",
+    "Ege",
+    "Güneydoğu Anadolu"
+   ],
+   "answer": 4,
+   "explanation": "Batman-Adıyaman petrolü ve Mazıdağı fosfatı Güneydoğu Anadolu'dadır; bölgede yazlar çok sıcak, nüfus artış hızı yüksektir."
+  },
+  {
+   "id": "x-cografya-q-063",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "text": "Heyelanların en sık Karadeniz Bölgesi'nde görülmesinin nedenleri arasında aşağıdakilerden hangisi yer almaz?",
+   "options": [
+    "Eğimin fazla olması",
+    "Yaz kuraklığının uzun sürmesi",
+    "Yağışın bol olması",
+    "Killi toprakların yaygın olması",
+    "Kar erimeleriyle toprağın suya doygun hâle gelmesi"
+   ],
+   "answer": 1,
+   "explanation": "Karadeniz her mevsim yağışlıdır; heyelanlar bol yağış, eğim ve killi zeminle ilgilidir. Yaz kuraklığı bölge için geçerli değildir."
+  },
+  {
+   "id": "x-cografya-q-064",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "text": "17 Ağustos 1999 Gölcük depremi aşağıdaki fay hatlarından hangisi üzerinde meydana gelmiştir?",
+   "options": [
+    "Kuzey Anadolu Fay Hattı",
+    "Doğu Anadolu Fay Hattı",
+    "Ölü Deniz Fay Hattı",
+    "Batı Anadolu graben sistemi",
+    "Toros fay zonu"
+   ],
+   "answer": 0,
+   "explanation": "1999 Marmara depremi Kuzey Anadolu Fayı'nın batı kesiminde gerçekleşmiştir."
+  },
+  {
+   "id": "x-cografya-q-065",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "text": "Aşağıdakilerden hangisi erozyonu önlemeye yönelik bir uygulama değildir?",
+   "options": [
+    "Ağaçlandırma yapılması",
+    "Eğimli arazilerde taraçalama yapılması",
+    "Mera alanlarında otlatmanın düzenlenmesi",
+    "Eğime paralel sürüm yapılması",
+    "Rüzgâr perdeleri oluşturulması"
+   ],
+   "answer": 3,
+   "explanation": "Eğime paralel sürüm suyun yüzeyde hızla akmasına yol açarak erozyonu artırır; doğru olan eğime dik sürümdür."
+  },
+  {
+   "id": "x-cografya-q-066",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "text": "Türkiye'nin ilk milli parkı aşağıdakilerden hangisidir?",
+   "options": [
+    "Uludağ",
+    "Kuşcenneti (Manyas)",
+    "Göreme",
+    "Olimpos Beydağları",
+    "Yozgat Çamlığı"
+   ],
+   "answer": 4,
+   "explanation": "Türkiye'nin ilk milli parkı 1958'de ilan edilen Yozgat Çamlığı Milli Parkı'dır."
+  },
+  {
+   "id": "x-cografya-q-067",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "text": "Orman yangınlarının Akdeniz ve Ege kıyılarında daha sık görülmesinde aşağıdakilerden hangileri etkilidir?\nI. Yazların sıcak ve kurak geçmesi\nII. Yaz yağışlarının fazla olması\nIII. Reçineli kızılçam ormanlarının yaygın olması",
+   "options": [
+    "Yalnız I",
+    "Yalnız III",
+    "I ve II",
+    "I ve III",
+    "I, II ve III"
+   ],
+   "answer": 3,
+   "explanation": "Yaz kuraklığı ve kolay tutuşan kızılçam ormanları yangın riskini artırır. Bu kıyılarda yazlar kurak geçtiğinden II yanlıştır."
+  },
+  {
+   "id": "x-cografya-q-068",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "text": "Aşağıdaki illerin hangisinde çığ tehlikesi en fazladır?",
+   "options": [
+    "Şanlıurfa",
+    "Hakkari",
+    "Edirne",
+    "İzmir",
+    "Konya"
+   ],
+   "answer": 1,
+   "explanation": "Çığ; yüksek, eğimli ve bol kar alan yerlerde görülür. Hakkari bu koşulları en çok taşıyan ildir."
+  },
+  {
+   "id": "x-cografya-q-069",
+   "subject": "cografya",
+   "topic": "Doğal Afetler ve Çevre",
+   "text": "6 Şubat 2023'te Kahramanmaraş merkezli meydana gelen depremler hangi fay hattıyla ilişkilidir?",
+   "options": [
+    "Kuzey Anadolu Fay Hattı",
+    "Batı Anadolu graben sistemi",
+    "Doğu Anadolu Fay Hattı",
+    "Kuzey Ege fay zonu",
+    "Tuz Gölü Fayı"
+   ],
+   "answer": 2,
+   "explanation": "Pazarcık ve Elbistan merkezli depremler Doğu Anadolu Fay Zonu üzerinde gerçekleşmiştir."
+  }
+ ]
+}

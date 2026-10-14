@@ -1,0 +1,1526 @@
+{
+ "cards": [
+  {
+   "id": "x-turkce-c-001",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "front": "Gerçek (temel) anlam nedir?",
+   "back": "Sözcüğün akla gelen ilk ve en yaygın anlamıdır. Örnek: \"Ağacın dalı rüzgârda kırıldı.\" (dal: ağacın gövdesinden çıkan kol)"
+  },
+  {
+   "id": "x-turkce-c-002",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "front": "Yan anlam nedir?",
+   "back": "Sözcüğün temel anlamıyla ilgisini koruyarak benzetme yoluyla kazandığı yeni anlamdır. Örnek: masanın ayağı, dağın eteği, kapının kolu."
+  },
+  {
+   "id": "x-turkce-c-003",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "front": "Mecaz anlam nedir?",
+   "back": "Sözcüğün temel anlamından tamamen uzaklaşarak kazandığı anlamdır. Örnek: \"Bize çok soğuk davrandı.\" (soğuk: sevimsiz, ilgisiz), \"Kalbi kırıldı.\""
+  },
+  {
+   "id": "x-turkce-c-004",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "front": "Terim anlam nedir?",
+   "back": "Bir bilim, sanat, spor ya da meslek dalına özgü kavramı karşılayan anlamdır. Örnek: \"Üçgenin iç açıları toplamı 180 derecedir.\" (açı: matematik), \"Oyunun ikinci perdesi\" (perde: tiyatro)."
+  },
+  {
+   "id": "x-turkce-c-005",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "front": "Deyim aktarması (ad aktarması / mecazımürsel) nedir?",
+   "back": "Benzetme amacı olmadan, parça-bütün, iç-dış, yer-insan, eser-sanatçı gibi ilgilerle bir sözcüğün başka bir sözcük yerine kullanılmasıdır. Örnek: \"Sobayı yaktık.\" (sobadaki odunu), \"Bütün okul törene katıldı.\" (öğrenciler), \"Yunus Emre'yi okudum.\" (şiirlerini)"
+  },
+  {
+   "id": "x-turkce-c-006",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "front": "Kişileştirme (teşhis) nedir?",
+   "back": "İnsan dışındaki varlıklara insana özgü özellikler yüklemektir. Örnek: \"Rüzgâr bütün gece pencerelerde ağladı.\" Varlık konuşturuluyorsa buna intak (konuşturma) denir."
+  },
+  {
+   "id": "x-turkce-c-007",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "front": "Somut ve soyut anlam arasındaki fark nedir?",
+   "back": "Somut: beş duyudan en az biriyle algılanabilen varlıklar (masa, ses, koku). Soyut: yalnızca zihinde var olan kavramlar (sevgi, umut, korku). Soyut bir kavrama somut özellik vermeye somutlaştırma denir: \"Umutlarım yıkıldı.\""
+  },
+  {
+   "id": "x-turkce-c-008",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "front": "Dolaylama nedir?",
+   "back": "Bir kavramı tek sözcük yerine onu tanıtan birden çok sözcükle anlatmaktır. Örnek: \"aslan\" yerine \"ormanlar kralı\", \"Ankara\" yerine \"Türkiye'nin başkenti\"."
+  },
+  {
+   "id": "x-turkce-c-009",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "front": "Neden-sonuç cümlesi nedir, nasıl anlaşılır?",
+   "back": "Bir yargının gerçekleşme nedeninin de verildiği cümledir. \"-dığı için, -den, çünkü, -diğinden, bu yüzden\" gibi ifadelerle kurulur. Örnek: \"Yağmur yağdığı için maç ertelendi.\" Sonuç, nedenin doğal bir ürünüdür; kimse onu amaçlamamıştır."
+  },
+  {
+   "id": "x-turkce-c-010",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "front": "Amaç-sonuç cümlesi nedir? Neden-sonuçtan nasıl ayrılır?",
+   "back": "Bir eylemin hangi amaçla yapıldığını bildiren cümledir; \"için, diye, -mek üzere, amacıyla\" ile kurulur. Örnek: \"Sınavı kazanmak için gece gündüz çalıştı.\" Ayırt etme yolu: \"için\" yerine \"amacıyla\" getirilebiliyorsa amaç, \"-den dolayı\" getirilebiliyorsa neden vardır."
+  },
+  {
+   "id": "x-turkce-c-011",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "front": "Koşul-sonuç cümlesi nedir?",
+   "back": "Bir yargının gerçekleşmesinin bir şarta bağlandığı cümledir; \"-se/-sa, -dikçe, -meden, yeter ki\" gibi ifadelerle kurulur. Örnek: \"Düzenli çalışırsan başarırsın.\""
+  },
+  {
+   "id": "x-turkce-c-012",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "front": "Öznel ve nesnel yargı arasındaki fark nedir?",
+   "back": "Nesnel yargı kanıtlanabilir, kişiden kişiye değişmez: \"Ankara, Türkiye'nin başkentidir.\" Öznel yargı kişisel görüş, duygu ve beğeni içerir, kanıtlanamaz: \"Ankara'nın sonbaharı insanı dinlendirir.\" İpuçları: güzel, etkileyici, bence, en iyi gibi değerlendirme sözcükleri."
+  },
+  {
+   "id": "x-turkce-c-013",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "front": "Örtülü (örtük) anlam nedir?",
+   "back": "Cümlede açıkça söylenmeyen ama ifadeden çıkarılabilen anlamdır. \"de/da, bile, yine, artık\" gibi sözcükler örtülü anlam doğurur. Örnek: \"Bu toplantıya Ali de geç kaldı.\" → Ali'den başka geç kalanlar da vardır."
+  },
+  {
+   "id": "x-turkce-c-014",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "front": "Ön yargı, tahmin ve varsayım cümleleri nasıl ayırt edilir?",
+   "back": "Ön yargı: bir şey hakkında denemeden, bilmeden peşin hüküm vermek (\"Filmi izlemedim ama sıkıcı olduğu belli.\"). Tahmin: bir bilgiye dayanarak olasılık belirtmek (\"Bulutlara bakılırsa yağmur yağacak.\"). Varsayım: bir durumu gerçekmiş gibi kabul etmek (\"Diyelim ki sınavı kazandın.\")."
+  },
+  {
+   "id": "x-turkce-c-015",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "front": "Karşılaştırma cümlesi nedir?",
+   "back": "İki ya da daha çok varlık, kavram veya durum arasındaki benzerlik ya da farkı ortaya koyan cümledir; \"daha, en, kadar, göre, -den ... -e\" gibi ifadeler kullanılır. Örnek: \"Bu yılki hasat, geçen yılkinden daha bereketli.\""
+  },
+  {
+   "id": "x-turkce-c-016",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "front": "Paragrafta ana düşünce sorusu nasıl çözülür?",
+   "back": "Ana düşünce yazarın okura vermek istediği temel iletidir; çoğunlukla giriş ya da sonuç cümlesindedir. Paragrafın tamamını kapsayan, yargı bildiren seçeneği seç; yalnızca bir ayrıntıyı anlatan (dar) ya da paragrafta olmayan bilgiyi içeren (geniş) seçenekleri ele."
+  },
+  {
+   "id": "x-turkce-c-017",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "front": "\"Değinilmemiştir / çıkarılamaz\" sorularında izlenecek strateji nedir?",
+   "back": "Her seçeneği tek tek paragrafta ara ve bulduğunu işaretle. Paragrafta karşılığı olmayan, ancak konuyla ilgili gibi görünen seçenek doğru cevaptır. Kendi bilgini değil, yalnızca metni ölçüt al."
+  },
+  {
+   "id": "x-turkce-c-018",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "front": "Paragrafın giriş cümlesi hangi özellikleri taşır?",
+   "back": "Genel bir yargı bildirir ve tek başına anlaşılır. \"Bu, şu, o, böyle\" gibi önceki bir cümleye gönderme yapan sözcüklerle ya da \"ama, çünkü, bu nedenle, üstelik, ayrıca\" gibi bağlayıcı ifadelerle başlamaz."
+  },
+  {
+   "id": "x-turkce-c-019",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "front": "Akışı bozan cümle nasıl bulunur?",
+   "back": "Her cümleyi bir öncesi ve bir sonrasıyla birlikte oku. Konunun dışına çıkan, anlatımın yönünü değiştiren ya da paragrafın ana düşüncesine hizmet etmeyen cümle akışı bozar. Cümle çıkarıldığında paragraf daha tutarlı oluyorsa doğru cevabı bulmuşsundur."
+  },
+  {
+   "id": "x-turkce-c-020",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "front": "Anlatım biçimleri nelerdir?",
+   "back": "Açıklama: bilgi vermek, öğretmek. Tartışma: karşı görüşü çürütüp kendi görüşünü kanıtlamaya çalışmak. Öyküleme: olayı zaman, yer ve kişilerle anlatmak (eylem bildiren fiiller). Betimleme: bir varlığı duyulara seslenerek sözcüklerle resmetmek."
+  },
+  {
+   "id": "x-turkce-c-021",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "front": "Düşünceyi geliştirme yolları nelerdir?",
+   "back": "Tanımlama (\"... budur\"), örneklendirme, karşılaştırma (iki şeyin benzerlik ve farkı), tanık gösterme (bir uzmanın ya da ünlünün sözüne başvurma), sayısal verilerden yararlanma, benzetme. Soruda paragrafa hâkim olan yolu ara."
+  },
+  {
+   "id": "x-turkce-c-022",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Büyük ünlü uyumu nedir?",
+   "back": "Türkçe bir sözcükte ilk hecedeki ünlü kalınsa (a, ı, o, u) sonraki ünlüler de kalın; inceyse (e, i, ö, ü) sonrakiler de ince olur. Örnek: çocuklar, evlerimiz. Uymayan Türkçe sözcükler: anne, elma, kardeş, hangi. -ken, -leyin, -yor, -ki, -mtırak ekleri bu uyuma girmez: gelirken, akşamleyin, okuyor."
+  },
+  {
+   "id": "x-turkce-c-023",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Küçük ünlü uyumu nedir?",
+   "back": "Düz ünlülerden (a, e, ı, i) sonra düz ünlüler gelir; yuvarlak ünlülerden (o, ö, u, ü) sonra ya düz-geniş (a, e) ya da dar-yuvarlak (u, ü) ünlüler gelir. Örnek: okullar, gözlük. Uymayan: yağmur, kavun (a'dan sonra u)."
+  },
+  {
+   "id": "x-turkce-c-024",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Ünsüz benzeşmesi (sertleşmesi) nedir?",
+   "back": "Sert ünsüzlerle (f, s, t, k, ç, ş, h, p) biten sözcüklere c, d, g ile başlayan bir ek gelince bu ünsüzler ç, t, k olur. Örnek: kitap-da → kitapta, çiçek-ci → çiçekçi, git-di → gitti, ağaç-cık → ağaççık.",
+   "mnemonic": "FıSTıKÇı ŞaHaP (f, s, t, k, ç, ş, h, p sert ünsüzler)"
+  },
+  {
+   "id": "x-turkce-c-025",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Ünsüz yumuşaması nedir?",
+   "back": "Sonu p, ç, t, k ile biten sözcüklere ünlüyle başlayan bir ek gelince bu ünsüzler b, c, d, g/ğ olur. Örnek: kitap-ı → kitabı, ağaç-a → ağaca, kanat-ı → kanadı, ayak-ı → ayağı, renk-i → rengi. Çoğu tek heceli sözcük yumuşamaz (top-u → topu, süt-ü → sütü); özel adlarda yumuşama yazıda gösterilmez (Mehmet'e, Zonguldak'a)."
+  },
+  {
+   "id": "x-turkce-c-026",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Ünlü düşmesi nedir?",
+   "back": "İkinci hecesinde dar ünlü (ı, i, u, ü) bulunan bazı iki heceli sözcüklere ünlüyle başlayan bir ek gelince bu ünlü düşer: ağız-ı → ağzı, burun-u → burnu, oğul-u → oğlu, akıl-ı → aklı. Birleşik sözcüklerde de görülür: kayın + ana → kaynana, pazar + ertesi → pazartesi."
+  },
+  {
+   "id": "x-turkce-c-027",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Ünlü daralması nedir?",
+   "back": "Sonu a, e ile biten fiillere -yor eki gelince a → ı/u, e → i/ü olur: başla-yor → başlıyor, bekle-yor → bekliyor, ara-yor → arıyor. \"Demek\" ve \"yemek\" fiillerinde y ile başlayan eklerde de görülür: diyor, diyen, yiyecek, yiyerek. Ancak \"deyince\" biçiminde daralma olmaz."
+  },
+  {
+   "id": "x-turkce-c-028",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Ünsüz türemesi (ikizleşme) nedir?",
+   "back": "Arapça kökenli bazı tek heceli sözcüklere ünlüyle başlayan bir ek ya da \"etmek, olmak\" yardımcı fiili gelince son ünsüz ikizleşir: his-i → hissi, af-ı → affı, hak-ı → hakkı, his + etmek → hissetmek, af + olmak → affolmak."
+  },
+  {
+   "id": "x-turkce-c-029",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Kaynaştırma ünsüzleri hangileridir?",
+   "back": "Ünlüyle biten bir sözcüğe ünlüyle başlayan bir ek gelince iki ünlü yan yana gelmesin diye araya y, ş, s, n girer. Örnek: kapı-y-a, iki-ş-er, oda-s-ı, kapı-n-ın."
+  },
+  {
+   "id": "x-turkce-c-030",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Ünsüz düşmesi nedir?",
+   "back": "Sonu k ile biten bazı sözcüklere -cik, -cek, -msi gibi ekler gelince k düşer: küçük-cük → küçücük, ufak-cık → ufacık, sıcak-cık → sıcacık, yumuşak-cık → yumuşacık, büyük-cek → büyücek."
+  },
+  {
+   "id": "x-turkce-c-031",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Ünlü türemesi hangi sözcüklerde görülür?",
+   "back": "Bazı pekiştirmelerde ve kalıplaşmış sözcüklerde araya bir ünlü girer: güp-e-gündüz, düp-e-düz, sap-a-sağlam, yap-a-yalnız, tıp-a-tıp."
+  },
+  {
+   "id": "x-turkce-c-032",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "front": "Ulama nedir?",
+   "back": "Ünsüzle biten bir sözcükten sonra ünlüyle başlayan bir sözcük gelince, ilk sözcüğün son ünsüzünün okunuşta ikinci sözcüğün ilk hecesine bağlanmasıdır. Örnek: \"Akşam oldu.\" → ak-şa-mol-du. Ulama yalnızca söyleyişte olur, yazıya yansımaz."
+  },
+  {
+   "id": "x-turkce-c-033",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Bağlaç olan \"de/da\" ile hâl eki olan \"-de/-da\" nasıl ayırt edilir ve yazılır?",
+   "back": "Bağlaç olan de/da her zaman ayrı yazılır, ünsüz benzeşmesine uğramaz (asla ta/te olmaz): \"Kitap da aldım.\", \"Sen de gel.\" Bulunma eki -de/-da/-te/-ta bitişik yazılır: \"Evde kaldım.\", \"Saat üçte.\" Pratik yol: cümleden çıkarınca anlam bozulmuyorsa bağlaçtır."
+  },
+  {
+   "id": "x-turkce-c-034",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Bağlaç olan \"ki\" ile ek olan \"-ki\" nasıl yazılır?",
+   "back": "Bağlaç olan ki ayrı yazılır: \"Duydum ki gelmişsin.\", \"Öyle yorulmuş ki...\" Aitlik ve sıfat yapan -ki eki bitişik yazılır: evdeki, yarınki, seninki. Kalıplaşmış bitişikler: belki, çünkü, sanki, oysaki, mademki, hâlbuki, meğerki."
+  },
+  {
+   "id": "x-turkce-c-035",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Soru eki \"mı/mi\" nasıl yazılır?",
+   "back": "Soru eki her zaman ayrı yazılır ama ünlü uyumuna uyar; kendisinden sonra gelen ekler soru ekine bitişik yazılır: \"Geldin mi?\", \"Gelecek misin?\", \"Okulda mıymış?\""
+  },
+  {
+   "id": "x-turkce-c-036",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Sayıların yazımında temel kurallar nelerdir?",
+   "back": "Sayılar ayrı yazılır: on beş, iki yüz elli. Sıra sayıları rakamla yazılırken ya nokta ya da kesme ile ek kullanılır: 3. veya 3'üncü (ikisi birlikte kullanılmaz: \"3.'üncü\" yanlış). Üleştirme sayıları rakamla yazılmaz: ikişer, beşer. Para tutarları (çek, senet vb.) bitişik yazılabilir."
+  },
+  {
+   "id": "x-turkce-c-037",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Birleşik sözcükler ne zaman bitişik yazılır?",
+   "back": "Anlam kayması olanlar bitişik yazılır: hanımeli, aslanağzı, kuşburnu, ayakkabı. Ses düşmesi ya da türemesi olanlar bitişik yazılır: kaynana, pazartesi, kaybolmak, sabretmek, hissetmek. \"Etmek, olmak\" ile kurulan ve ses olayı bulunmayanlar ayrı yazılır: yardım etmek, mutlu olmak."
+  },
+  {
+   "id": "x-turkce-c-038",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Kesme işareti özel adlarda nasıl kullanılır? Kurum adlarında durum nedir?",
+   "back": "Özel adlara getirilen çekim ekleri kesmeyle ayrılır: Ankara'ya, Atatürk'ün, Van Gölü'nde. Kurum, kuruluş, kurul ve iş yeri adlarına getirilen ekler kesmeyle ayrılmaz: Türk Dil Kurumuna, Millî Eğitim Bakanlığından."
+  },
+  {
+   "id": "x-turkce-c-039",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Büyük harf kullanımında yer adları ve tarihlerle ilgili kurallar nelerdir?",
+   "back": "Yer adlarında tür bildiren sözcükler de büyük harfle başlar: Van Gölü, Ağrı Dağı, Marmara Denizi. Ay ve gün adları belirli bir tarih bildiriyorsa büyük harfle yazılır: 29 Ekim 1923 Pazartesi. Tarih bildirmiyorsa küçük yazılır: \"Her pazartesi toplantı var.\""
+  },
+  {
+   "id": "x-turkce-c-040",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Kısaltmalara ekler nasıl getirilir?",
+   "back": "Büyük harfli kısaltmalara ekler kesmeyle ve kısaltmanın okunuşuna göre getirilir: TBMM'ye (te-be-me-me), TDK'nin (te-de-ke), NATO'ya. Ölçü birimi kısaltmalarına ekler, kısaltmanın tam okunuşuna göre getirilir: 5 km'den (kilometreden), 3 kg'a (kilograma)."
+  },
+  {
+   "id": "x-turkce-c-041",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Pekiştirmeler ve ikilemeler nasıl yazılır?",
+   "back": "Pekiştirmeli sözcükler bitişik yazılır: masmavi, yemyeşil, sapasağlam, büsbütün. İkilemeler ayrı ve aralarına virgül konmadan yazılır: yavaş yavaş, eğri büğrü, çoluk çocuk."
+  },
+  {
+   "id": "x-turkce-c-042",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "\"Bir\", \"her\" ve \"hiç\" ile kurulan sözcüklerden hangileri bitişik yazılır?",
+   "back": "Bitişik: birçok, birkaç, biraz, birtakım, birbiri, herhangi, herkes, hiçbir, hiçbiri. Ayrı: bir şey, her şey, her biri, her zaman, hiç kimse, hiçbir şey (hiçbir bitişik, şey ayrı)."
+  },
+  {
+   "id": "x-turkce-c-043",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "front": "Sık yanlış yazılan bazı sözcüklerin doğru yazımı nedir?",
+   "back": "yalnız (yanlış: yanlız), yanlış (yanılmak kökünden; yanlız değil), herkes (herkez değil), şoför, orijinal, sürpriz, egzoz, kılavuz, tıraş, makine."
+  },
+  {
+   "id": "x-turkce-c-044",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Nokta (.) hangi durumlarda kullanılır?",
+   "back": "Tamamlanmış cümlenin sonunda; bazı kısaltmaların sonunda (Dr., vb.); rakamla yazılan sıra sayılarında (3. sınıf); saat ve dakika arasında (14.30); gün, ay ve yılı rakamla gösterirken (14.10.2026)."
+  },
+  {
+   "id": "x-turkce-c-045",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Virgül (,) hangi durumlarda kullanılır?",
+   "back": "Eş görevli sözcük ve sözcük gruplarını ayırmak için (elma, armut ve erik); sıralı cümleleri ayırmak için (Eve geldi, yemeğini yedi.); hitaplardan sonra (Ali, buraya gel.); ara sözleri ayırmak için; uzun cümlelerde yüklemden uzaktaki özneyi belirtmek için. İkilemelerin arasına virgül konmaz."
+  },
+  {
+   "id": "x-turkce-c-046",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Noktalı virgül (;) hangi durumlarda kullanılır?",
+   "back": "Virgülle ayrılmış eş görevli sözcük gruplarını birbirinden ayırmak için: \"Pazardan elma, armut; kasaptan kıyma, pirzola aldım.\" Ögeleri arasında virgül bulunan sıralı cümleleri ayırmak için de kullanılır."
+  },
+  {
+   "id": "x-turkce-c-047",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "İki nokta (:) hangi durumlarda kullanılır?",
+   "back": "Kendisinden sonra örnek ya da açıklama verilecek ifadenin sonunda: \"Çantada şunlar vardı: kalem, defter, silgi.\"; doğrudan aktarılacak sözden önce: \"Babam şöyle derdi: \"...\"\"; sözlük ve ansiklopedi maddelerinde madde başından sonra."
+  },
+  {
+   "id": "x-turkce-c-048",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Üç nokta (...) hangi durumlarda kullanılır?",
+   "back": "Tamamlanmamış cümlelerin sonunda; sayılarak bitirilmeyen örneklerin sonunda; söylenmek istenmeyen ya da açıkça yazılmak istenmeyen sözlerin yerine; alıntılarda atlanan bölümü göstermek için (...)."
+  },
+  {
+   "id": "x-turkce-c-049",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Soru işareti (?) ne zaman konur, ne zaman konmaz?",
+   "back": "Soru bildiren cümle ve sözlerin sonuna konur: \"Yarın gelecek misin?\" Bilinmeyen ya da kesin olmayan bilgileri belirtmek için ayraç içinde kullanılır: \"Yunus Emre (1240?-1320)\". Soru sözcüğü bulunsa da soru anlamı taşımayan cümlelere konmaz: \"Kimin geldiğini bilmiyorum.\""
+  },
+  {
+   "id": "x-turkce-c-050",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Ünlem işareti (!) hangi durumlarda kullanılır?",
+   "back": "Sevinç, kıvanç, acı, korku, şaşkınlık gibi duyguları anlatan cümlelerin sonunda: \"Ne güzel bir gün!\"; seslenme ve uyarı sözlerinden sonra: \"Ey yolcu!\"; alay, küçümseme ya da kesin olmama anlamı katmak için ayraç içinde: \"Çok akıllı (!) biri.\""
+  },
+  {
+   "id": "x-turkce-c-051",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Kısa çizgi (-) hangi durumlarda kullanılır?",
+   "back": "Satır sonunda bölünen sözcüğün hece sınırında; \"ara, arası\" anlamı vermek için (Ankara-İstanbul seferleri, 1914-1918); dil bilgisinde ekleri ve kökleri göstermek için (-lık, gel-)."
+  },
+  {
+   "id": "x-turkce-c-052",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Tırnak işareti (\" \") hangi durumlarda kullanılır? Tırnaktan sonra gelen ekler nasıl yazılır?",
+   "back": "Başkasından aynen aktarılan sözleri, özellikle vurgulanmak istenen sözleri ve cümle içinde eser adlarını göstermek için kullanılır. Tırnak işaretinden sonra gelen ekler kesmeyle ayrılmaz: Ömer Seyfettin'in \"Kaşağı\"sını okudun mu?"
+  },
+  {
+   "id": "x-turkce-c-053",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Ayraç (parantez) hangi durumlarda kullanılır?",
+   "back": "Cümlenin anlamını tamamlayan ek açıklamaları göstermek için: \"Kaşgarlı Mahmut (11. yüzyıl)...\"; tiyatro metinlerinde konuşanın hareketlerini belirtmek için; şüphe (?) ve alay (!) bildiren işaretleri içine almak için."
+  },
+  {
+   "id": "x-turkce-c-054",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "front": "Uzun çizgi (—) ne için kullanılır?",
+   "back": "Yazıda konuşmaları göstermek için satır başında kullanılır: \"— Nereye gidiyorsun? — Okula.\" Ayrıca ara sözleri ayırmak için virgül yerine kullanılabilir."
+  },
+  {
+   "id": "x-turkce-c-055",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "front": "İsimler (adlar) nasıl sınıflandırılır?",
+   "back": "Varlıklara verilişine göre: özel ad (Ankara, Ayşe) / cins (tür) adı (şehir, kız). Sayılarına göre: tekil (kitap), çoğul (kitaplar), topluluk adı (ordu, sürü, orman). Niteliğine göre: somut (masa) / soyut (sevgi)."
+  },
+  {
+   "id": "x-turkce-c-056",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "front": "Sıfat (ön ad) nedir? Türleri nelerdir?",
+   "back": "İsimlerin önüne gelerek onları niteleyen ya da belirten sözcüktür. Niteleme sıfatı: kırmızı elma. Belirtme sıfatları: işaret (bu ev), sayı (üç kitap, ikinci kat, ikişer elma), belgisiz (bazı insanlar), soru (hangi kitap?). Nitelediği isim düşerse sıfat adlaşır: \"Gençler geldi.\""
+  },
+  {
+   "id": "x-turkce-c-057",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "front": "Zamir (adıl) nedir? Sıfattan nasıl ayrılır?",
+   "back": "İsmin yerini tutan sözcüktür: kişi (ben, sen, o), işaret (bu, şu), belgisiz (biri, herkes, birkaçı), soru (kim, ne), dönüşlülük (kendi). Ayırt etme: Kendinden sonra bir isim varsa sıfat (\"Bu kitap güzel.\"), ismin yerine geçiyorsa zamirdir (\"Bunu okudum.\")."
+  },
+  {
+   "id": "x-turkce-c-058",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "front": "Zarf (belirteç) nedir? Türleri nelerdir?",
+   "back": "Fiilleri, fiilimsileri, sıfatları ya da başka zarfları niteleyen sözcüktür. Durum (hızlı koştu), zaman (yarın gel), yer-yön (içeri gir; ek alırsa isim olur: içeriye), miktar (çok güzel), soru (nasıl geldin?)."
+  },
+  {
+   "id": "x-turkce-c-059",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "front": "Edat (ilgeç) nedir? Örnekleri nelerdir?",
+   "back": "Tek başına anlamı olmayan, kendinden önceki sözcükle birlikte anlam ilgisi kuran sözcüktür: gibi, kadar, için, ile, göre, dolayı, beri, karşı, rağmen, doğru. Örnek: \"Senin gibi\", \"Akşama kadar\"."
+  },
+  {
+   "id": "x-turkce-c-060",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "front": "\"ile\" sözcüğü ne zaman bağlaç, ne zaman edattır?",
+   "back": "Yerine \"ve\" getirilebiliyorsa bağlaçtır: \"Ali ile Ayşe geldi.\" (Ali ve Ayşe). Getirilemiyorsa araç, birliktelik ya da durum bildiren edattır: \"Otobüsle geldi.\", \"Sevinçle koştu.\""
+  },
+  {
+   "id": "x-turkce-c-061",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "front": "Bağlaç ve ünlem nedir?",
+   "back": "Bağlaç: sözcükleri, söz öbeklerini ya da cümleleri anlamca bağlayan sözcük (ve, ama, fakat, çünkü, de, ki, hem... hem, ya... ya). Ünlem: duyguları, seslenmeyi ya da doğa seslerini anlatan sözcük (ah, eyvah, hey, of)."
+  },
+  {
+   "id": "x-turkce-c-062",
+   "subject": "turkce",
+   "topic": "Yapı Bilgisi",
+   "front": "Yapı bakımından sözcükler: basit, türemiş, birleşik nasıl ayırt edilir?",
+   "back": "Basit: yalnız kökten ya da kök + çekim ekinden oluşur (kitap, kitaplar, evde). Türemiş: köke yapım eki gelmiştir (gözlük, gözlükçü, sevgi). Birleşik: iki ya da daha fazla sözcükten oluşur (ayakkabı, hanımeli, cumartesi)."
+  },
+  {
+   "id": "x-turkce-c-063",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "front": "Fiilimsiler (eylemsiler) nelerdir? Ekleri nelerdir?",
+   "back": "İsim-fiil (ad eylem): -ma, -ış, -mak (okuma, gidiş, yazmak). Sıfat-fiil (ortaç): -an, -ası, -maz, -ar, -dık, -acak, -mış (okuduğum kitap, gelecek gün). Zarf-fiil (bağ-eylem): -ıp, -arak, -madan, -ınca, -dıkça, -alı, -ken, -casına (gelince, koşarak).",
+   "mnemonic": "Sıfat-fiil ekleri: \"Anası mazar dıkacakmış\" (-an, -ası, -maz, -ar, -dık, -acak, -mış)"
+  },
+  {
+   "id": "x-turkce-c-064",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "front": "Yüklem nedir? Cümle çözümlemesi nereden başlar?",
+   "back": "Cümlede iş, oluş, hareket ya da durum bildiren temel ögedir; çekimli bir fiil ya da ek fiil almış bir isim soylu sözcük olabilir. Ögeler bulunurken önce yüklem belirlenir, öteki ögeler yükleme soru sorularak bulunur."
+  },
+  {
+   "id": "x-turkce-c-065",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "front": "Özne nedir? Gerçek, sözde ve gizli özne nasıl ayrılır?",
+   "back": "Yüklemdeki işi yapan ya da oluşa uğrayandır; yükleme \"kim, ne\" sorusuyla bulunur. Gerçek özne: \"Ali kapıyı açtı.\" Sözde özne: edilgen fiilli cümlelerde işten etkilenen: \"Kapı açıldı.\" Gizli özne: çekim ekinden anlaşılan: \"Geldim.\" (ben)"
+  },
+  {
+   "id": "x-turkce-c-066",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "front": "Belirtili ve belirtisiz nesne nasıl ayırt edilir?",
+   "back": "Nesne, yüklemin bildirdiği işten etkilenen ögedir. Belirtili nesne -ı/-i hâl ekini alır, \"neyi, kimi\" sorusuna cevap verir: \"Kitabı okudum.\" Belirtisiz nesne ek almaz, \"ne\" sorusuna cevap verir: \"Kitap okudum.\""
+  },
+  {
+   "id": "x-turkce-c-067",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "front": "Dolaylı tümleç (yer tamlayıcısı) nedir?",
+   "back": "Yönelme (-e), bulunma (-de) ya da ayrılma (-den) hâl eki almış ve yüklemi yer-yön bakımından tamamlayan ögedir. \"Nereye, nerede, nereden, kime, kimde, kimden\" sorularıyla bulunur: \"Okula gitti.\", \"İstanbul'dan döndü.\""
+  },
+  {
+   "id": "x-turkce-c-068",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "front": "Zarf tümleci nedir?",
+   "back": "Yüklemi zaman, durum, miktar, yön, neden ya da koşul bakımından tamamlayan ögedir. \"Ne zaman, nasıl, ne kadar, niçin, ne diye\" sorularıyla bulunur: \"Dün akşam geldi.\", \"Hızlı koştu.\""
+  },
+  {
+   "id": "x-turkce-c-069",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "front": "Cümleler hangi ölçütlere göre sınıflandırılır?",
+   "back": "Yüklemin türüne göre: fiil cümlesi / isim cümlesi. Yüklemin yerine göre: kurallı (yüklem sonda) / devrik. Anlamına göre: olumlu, olumsuz, soru, ünlem. Yapısına göre: basit, birleşik, sıralı, bağlı."
+  },
+  {
+   "id": "x-turkce-c-070",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "front": "Birleşik cümle türleri nelerdir?",
+   "back": "Girişik birleşik: fiilimsi içeren (\"Okuduğum kitap çok güzeldi.\"). Şartlı birleşik: şart (-se) ekli yan cümle içeren (\"Çalışırsan kazanırsın.\"). Ki'li birleşik: ki bağlacıyla kurulan (\"Duydum ki gelmişsin.\"). İç içe birleşik: içinde alıntı cümle bulunan (\"Annem 'Erken gel.' dedi.\")."
+  },
+  {
+   "id": "x-turkce-c-071",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "front": "Etken ve edilgen cümle; geçişli ve geçişsiz fiil nedir?",
+   "back": "Etken cümlede özne bellidir (\"Annem çorbayı pişirdi.\"), edilgen cümlede işi yapan belli değildir ve sözde özne bulunur (\"Çorba pişirildi.\"). Geçişli fiil nesne alabilir (okumak), geçişsiz fiil nesne alamaz (uyumak, gelmek)."
+  },
+  {
+   "id": "x-turkce-c-072",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "front": "Gereksiz sözcük kullanımından kaynaklanan anlatım bozukluğu nedir?",
+   "back": "Aynı anlamı karşılayan iki sözcüğün birlikte kullanılmasıdır. Örnek: \"geri iade etti\" (iade zaten geri vermek), \"yaklaşık yirmi kadar\", \"kısa bir özet\", \"en son karar\". Düzeltme: gereksiz sözcüğü çıkar."
+  },
+  {
+   "id": "x-turkce-c-073",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "front": "Anlamca çelişen sözcüklerin kullanımı nasıl bir bozukluktur?",
+   "back": "Kesinlik ile olasılık gibi birbiriyle çelişen anlamların aynı cümlede kullanılmasıdır. Örnek: \"Yarın kesinlikle gelebilirim.\" (kesinlikle - olasılık), \"Galiba mutlaka kazanacak.\" Düzeltme: \"Yarın kesinlikle geleceğim.\""
+  },
+  {
+   "id": "x-turkce-c-074",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "front": "Sözcüğün yanlış anlamda kullanılmasına örnek nedir?",
+   "back": "\"Fiyatlar ucuzladı.\" cümlesi bozuktur; çünkü fiyat ucuzlamaz, düşer; ucuzlayan maldır. Doğrusu: \"Fiyatlar düştü.\" ya da \"Sebzeler ucuzladı.\""
+  },
+  {
+   "id": "x-turkce-c-075",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "front": "Özne-yüklem uyumsuzluğu nedir?",
+   "back": "Öznenin kişi ve sayı bakımından yüklemle uyuşmamasıdır. Örnek: \"Kardeşim ve ben her sabah koşuya çıkarlar.\" → \"çıkarız\" (1. çoğul kişi). Farklı kişilerden oluşan öznede yüklem; 1. kişi varsa \"biz\", yoksa 2. kişi varsa \"siz\" kişisine göre çekimlenir."
+  },
+  {
+   "id": "x-turkce-c-076",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "front": "Ortak öge kullanımından doğan bozukluk nedir?",
+   "back": "Bağlaçla birleştirilen cümlelerde ortak kullanılan ögenin her yüklemin istediği hâl ekine uymamasıdır. Örnek: \"Bu kente hem hayranım hem de çok seviyorum.\" → kente hayranım, kenti seviyorum. Düzeltme: \"Bu kente hayranım, onu çok da seviyorum.\""
+  },
+  {
+   "id": "x-turkce-c-077",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "front": "Tamlama yanlışlarına örnek nedir?",
+   "back": "\"Kendi ve ailesinin geleceği\" yanlıştır; \"kendi\" zamiri tamlayan eki almadan bağlaçla bağlanmıştır. Doğrusu: \"Kendisinin ve ailesinin geleceği\"."
+  },
+  {
+   "id": "x-turkce-c-078",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "front": "Sözcüğün yanlış yerde kullanılmasına örnek nedir?",
+   "back": "Sözcük, nitelemediği bir ögenin yanına konunca anlam kayar. Örnek: \"Sıcak bir bardak çay içtim.\" (sıcak olan bardak gibi anlaşılıyor) → \"Bir bardak sıcak çay içtim.\""
+  },
+  {
+   "id": "x-turkce-c-079",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "front": "Anlam belirsizliği (iyelik eki kaynaklı) nasıl giderilir?",
+   "back": "\"Kardeşini dün parkta gördüm.\" cümlesinde kardeşin \"senin\" mi \"onun\" mu olduğu belli değildir. Belirsizlik, cümleye \"senin\" ya da \"onun\" getirilerek ya da gerekli yerde virgül kullanılarak giderilir."
+  },
+  {
+   "id": "x-turkce-c-080",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "front": "Sözel mantık sorusuna nasıl başlanır?",
+   "back": "Önce bütün bilgileri kısaltmalarla not et ve bir tablo ya da şema kur. Kesin bilgilerle (\"C üçüncü sıradadır\") başla, sonra bitişiklik ve sıralama bilgilerini, en son da olumsuz (\"... değildir\") bilgileri uygula."
+  },
+  {
+   "id": "x-turkce-c-081",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "front": "\"Kesinlikle doğrudur\", \"doğru olabilir\" ve \"kesinlikle yanlıştır\" ifadeleri ne anlama gelir?",
+   "back": "Kesinlikle doğru: koşulları sağlayan tüm düzenlerde geçerlidir. Doğru olabilir: en az bir düzende geçerlidir. Kesinlikle yanlış: hiçbir düzende geçerli değildir. Tek bir karşı örnek, \"kesinlikle doğru\" iddiasını çürütmeye yeter."
+  },
+  {
+   "id": "x-turkce-c-082",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "front": "Sıralama sorularında \"hemen önce\" ile \"önce\" arasındaki fark nedir?",
+   "back": "\"A, B'den hemen önce\" ise A ile B bitişiktir ve AB bir blok olarak yerleştirilir. \"A, B'den önce\" ise arada başka kişiler olabilir; yalnızca sıra ilişkisi bilinir."
+  },
+  {
+   "id": "x-turkce-c-083",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "front": "\"A varsa B de vardır\" biçimindeki koşul bilgisinden ne çıkarılır?",
+   "back": "A gerçekleşmişse B kesinlikle gerçekleşmiştir. B gerçekleşmemişse A da gerçekleşmemiştir. Ancak A gerçekleşmemişse B hakkında kesin bir şey söylenemez; B gerçekleşmişse de A için kesin yargıya varılamaz."
+  },
+  {
+   "id": "x-turkce-c-084",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "front": "Eşleştirme soruları nasıl çözülür?",
+   "back": "Kişileri satırlara, özellikleri sütunlara yaz. \"Değildir\" bilgileri için ilgili kutulara ✗ koy; bir satırda ya da sütunda tek boş kutu kalırsa orası kesin eşleşmedir (✓). Her yeni ✓ aynı satır ve sütundaki diğer kutuları kapatır."
+  }
+ ],
+ "questions": [
+  {
+   "id": "x-turkce-q-001",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "text": "Aşağıdaki cümlelerin hangisinde \"sıcak\" sözcüğü mecaz anlamda kullanılmıştır?",
+   "options": [
+    "Kapının önüne bir tas sıcak çorba bıraktılar.",
+    "Yeni komşularımız bize ilk günden çok sıcak davrandı.",
+    "Bugün hava mevsim normallerinin üzerinde sıcak olacakmış.",
+    "Elini sıcak sudan çabuk çek, yanacaksın.",
+    "Sabah fırından sıcak ekmek aldım."
+   ],
+   "answer": 1,
+   "explanation": "B'de \"sıcak\" sözcüğü \"samimi, içten\" anlamında kullanılmıştır, yani temel anlamından uzaklaşmıştır. Öteki cümlelerde sözcük sıcaklık derecesini, yani gerçek anlamını bildirir."
+  },
+  {
+   "id": "x-turkce-q-002",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "text": "Aşağıdaki cümlelerin hangisinde ad aktarması (deyim aktarması) yapılmıştır?",
+   "options": [
+    "Bütün sınıf öğretmenin esprisine kahkahayla güldü.",
+    "Bahçedeki güller nisan sonunda açmaya başladı.",
+    "Yoğun kar yağışı köy yollarını kapattı.",
+    "Rüzgâr pencereleri hırçınca dövüyordu.",
+    "Akşam yemeğinde ızgara balık yedik."
+   ],
+   "answer": 0,
+   "explanation": "A'da \"sınıf\" sözcüğü sınıftaki öğrencileri karşılamaktadır; bu, yer-insan ilgisine dayanan bir ad aktarmasıdır. D'deki kullanım ad aktarması değil, kişileştirmedir."
+  },
+  {
+   "id": "x-turkce-q-003",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "text": "Aşağıdaki cümlelerin hangisinde \"kök\" sözcüğü terim anlamıyla kullanılmıştır?",
+   "options": [
+    "Bu anlaşmazlığın kökü çok eskilere dayanıyor.",
+    "Çınarın kökü toprağın metrelerce derinine inmişti.",
+    "Verilen sözcükleri köklerine ve eklerine ayırınız.",
+    "Bu aile kasabanın en köklü ailelerinden biridir.",
+    "Bahçedeki yabani otları kökünden söktük."
+   ],
+   "answer": 2,
+   "explanation": "C'de \"kök\" dil bilgisine özgü bir kavramı (sözcüğün eklerden arındırılmış en küçük anlamlı parçası) karşıladığı için terim anlamlıdır. A ve D'de mecaz, B ve E'de gerçek anlam vardır."
+  },
+  {
+   "id": "x-turkce-q-004",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "text": "Aşağıdaki cümlelerin hangisinde zıt anlamlı sözcükler bir arada kullanılmıştır?",
+   "options": [
+    "Uzun yolculuktan sonra yorgun ve bitkin hâlde eve döndü.",
+    "Ak saçlı dedesi her akşam kapıda onu beklerdi.",
+    "Kitabı okuyup bitirince arkadaşına verdi.",
+    "İyi günde de kötü günde de hep yanımızda oldu.",
+    "Yaşlı adam bastonuna dayanarak yürüyordu."
+   ],
+   "answer": 3,
+   "explanation": "D'de \"iyi\" ve \"kötü\" sözcükleri zıt anlamlıdır. A'daki \"yorgun\" ve \"bitkin\" ise yakın anlamlıdır."
+  },
+  {
+   "id": "x-turkce-q-005",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "text": "Aşağıdaki cümlelerin hangisinde yansıma (doğa seslerinden türemiş) bir sözcük kullanılmıştır?",
+   "options": [
+    "Çocuklar teneffüste bahçede koşturuyordu.",
+    "Annesi ona sevgiyle gülümsedi.",
+    "Kuşlar akşamüstü dallara kondu.",
+    "Yağmur sabaha kadar durmadan yağdı.",
+    "Derenin şırıltısı vadinin öbür ucundan bile duyuluyordu."
+   ],
+   "answer": 4,
+   "explanation": "E'deki \"şırıltı\", suyun çıkardığı sesin taklidinden (şırıl) türemiş bir yansıma sözcüktür. Öteki cümlelerde yansıma sözcük yoktur."
+  },
+  {
+   "id": "x-turkce-q-006",
+   "subject": "turkce",
+   "topic": "Sözcükte Anlam",
+   "text": "Aşağıdaki cümlelerin hangisinde \"açmak\" sözcüğü \"bir konuyu konuşmaya başlamak\" anlamında kullanılmıştır?",
+   "options": [
+    "Toplantıda kimse bu meseleyi açmaya cesaret edemedi.",
+    "Pencereyi açıp derin bir nefes aldı.",
+    "Bahar gelince erik ağaçları çiçek açtı.",
+    "Mahallede yeni bir kırtasiye dükkânı açtılar.",
+    "Duvarlara sürülen beyaz boya odayı biraz açmış."
+   ],
+   "answer": 0,
+   "explanation": "A'da \"meseleyi açmak\" söz konusu meseleyi konuşmaya başlamak anlamındadır. Öteki cümlelerde sözcük sırasıyla kapalı bir şeyi aralamak, çiçeklenmek, iş yeri kurmak ve rengi açıklaştırmak anlamlarında kullanılmıştır."
+  },
+  {
+   "id": "x-turkce-q-007",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "text": "Aşağıdaki cümlelerin hangisinde amaç-sonuç ilişkisi vardır?",
+   "options": [
+    "Yollar buz tuttuğu için okullar tatil edildi.",
+    "Yeni ürünleri tanıtmak üzere bir fuar düzenlendi.",
+    "Erken yatarsan sabah dinç uyanırsın.",
+    "Gürültüden dolayı dersi dinleyemedik.",
+    "Kitabı bitirince arkadaşına geri verdi."
+   ],
+   "answer": 1,
+   "explanation": "B'de fuarın düzenlenme amacı \"yeni ürünleri tanıtmak üzere\" ifadesiyle bildirilmiştir. A ve D'de neden-sonuç, C'de koşul-sonuç, E'de zaman ilişkisi vardır."
+  },
+  {
+   "id": "x-turkce-q-008",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "text": "Aşağıdakilerden hangisi nesnel bir yargıdır?",
+   "options": [
+    "Bu romanın en etkileyici bölümü son sayfalarıdır.",
+    "Sabah kahvaltısı günün en keyifli öğünüdür.",
+    "Yazarın son kitabı üç bölümden oluşuyor.",
+    "Şairin yalın dili okuru ilk dizeden yakalıyor.",
+    "Bu şehir sonbaharda çok daha güzel görünür."
+   ],
+   "answer": 2,
+   "explanation": "C'deki yargı, kitaba bakılarak doğrulanabileceği için nesneldir. Öteki seçeneklerdeki \"etkileyici, keyifli, yakalıyor, güzel\" gibi değerlendirmeler kişiden kişiye değişir."
+  },
+  {
+   "id": "x-turkce-q-009",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "text": "\"Bu yıl da kütüphaneye yeni kitap alınmadı.\" cümlesinden aşağıdakilerin hangisi çıkarılabilir?",
+   "options": [
+    "Kütüphanedeki kitapların çoğu eskimiştir.",
+    "Kütüphane bu yıl okurlara kapalıdır.",
+    "Okurlar kütüphaneyi yeterince kullanmamaktadır.",
+    "Gelecek yıl kütüphaneye yeni kitap alınacaktır.",
+    "Daha önce de kütüphaneye yeni kitap alınmadığı olmuştur."
+   ],
+   "answer": 4,
+   "explanation": "\"de\" bağlacı, aynı durumun daha önce de yaşandığı örtülü anlamını taşır. Öteki seçeneklerdeki yargılar cümlede yer almaz ve cümleden çıkarılamaz."
+  },
+  {
+   "id": "x-turkce-q-010",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "text": "Aşağıdaki cümlelerin hangisinde ön yargı vardır?",
+   "options": [
+    "Bu yazarın kitaplarını hiç okumadım ama hepsinin sıkıcı olduğundan eminim.",
+    "Filmi izledikten sonra kitabını da okumaya karar verdim.",
+    "Gökyüzüne bakılırsa yarın yağmur yağacak.",
+    "Bu lokantanın yemeklerini denedim, bence biraz tuzlu.",
+    "Diyelim ki sınavı kazandın, hangi şehri seçerdin?"
+   ],
+   "answer": 0,
+   "explanation": "A'da kişi kitapları okumadan onlar hakkında kesin bir yargıya varmıştır; bu ön yargıdır. C'de tahmin, D'de deneyime dayalı öznel değerlendirme, E'de varsayım vardır."
+  },
+  {
+   "id": "x-turkce-q-011",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "text": "\"Ne kadar uğraştıysa da bu işin altından kalkamadı.\" cümlesine anlamca en yakın cümle hangisidir?",
+   "options": [
+    "Bu işi başarmak için hiç uğraşmadı.",
+    "Biraz daha uğraşsaydı bu işi başarırdı.",
+    "Bu işi başardı ama çok yoruldu.",
+    "Çok uğraşmasına karşın bu işi başaramadı.",
+    "Bu işi başarmak için başkalarından yardım istedi."
+   ],
+   "answer": 3,
+   "explanation": "Verilen cümle, gösterilen çabaya rağmen başarısız olunduğunu anlatır; \"altından kalkamamak\" başaramamak demektir. D bu anlamı aynen karşılar."
+  },
+  {
+   "id": "x-turkce-q-012",
+   "subject": "turkce",
+   "topic": "Cümlede Anlam",
+   "text": "Aşağıdaki cümlelerin hangisinde \"için\" sözcüğü neden-sonuç ilişkisi kurmuştur?",
+   "options": [
+    "Ödevini yetiştirmek için erkenden kalktı.",
+    "Seni görmek için buraya kadar geldim.",
+    "Kardeşine hediye almak için çarşıya gitti.",
+    "Sağlıklı kalmak için her gün yürüyor.",
+    "Çok yorulduğu için toplantıya katılamadı."
+   ],
+   "answer": 4,
+   "explanation": "E'de \"için\" yerine \"-den dolayı\" getirilebilir (yorgunluktan dolayı); toplantıya katılamamak bir amaç değil, yorgunluğun sonucudur. Öteki seçeneklerde \"için\" amaç bildirir."
+  },
+  {
+   "id": "x-turkce-q-013",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "text": "Bir kenti tanımak için müzelerini gezmek, meydanlarında fotoğraf çekmek yetmez. Asıl tanışma, o kentin sabah erkenden açılan fırınlarında, ara sokaklarındaki küçük dükkânlarında, otobüs duraklarında birbirine yol tarif eden insanlarında gerçekleşir. Rehber kitaplar bize kentin vitrinini gösterir; gündelik yaşam ise onun asıl yüzünü.\n\nBu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
+   "options": [
+    "Bir kenti gerçekten tanımak, onun gündelik yaşamına tanık olmakla mümkündür.",
+    "Müzeler, bir kentin tarihini öğrenmenin en kısa yoludur.",
+    "Rehber kitaplar gezginleri çoğu zaman yanıltır.",
+    "Küçük dükkânlar büyük kentlerde giderek azalmaktadır.",
+    "Kentlerde yaşayan insanlar yabancılara karşı yardımseverdir."
+   ],
+   "answer": 0,
+   "explanation": "Parça, kentin asıl yüzünün müzelerde değil gündelik yaşamda görüleceğini vurgular. B, C, D ve E ya parçada yer almaz ya da yalnızca bir ayrıntıyı abartır."
+  },
+  {
+   "id": "x-turkce-q-014",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "text": "Kuraklığa dayanıklı bitkiler, yapraklarının yüzeyini küçülterek su kaybını azaltır. Bazıları köklerini metrelerce derine salarak yer altındaki nemi arar; bazıları ise gövdelerinde su depolar. Kimi türler de günün en sıcak saatlerinde gözeneklerini kapatarak buharlaşmayı önler.\n\nBu parçada kuraklığa dayanıklı bitkilerle ilgili aşağıdakilerden hangisine değinilmemiştir?",
+   "options": [
+    "Yaprak yüzeylerini küçülttüklerine",
+    "Derinlere uzanan kökler geliştirdiklerine",
+    "Gövdelerinde su biriktirdiklerine",
+    "Tohumlarını rüzgârla uzaklara taşıdıklarına",
+    "Sıcak saatlerde gözeneklerini kapattıklarına"
+   ],
+   "answer": 3,
+   "explanation": "Parçada tohumların rüzgârla taşınmasından söz edilmemiştir. Öteki seçeneklerin her biri parçadaki bir cümleyle karşılanır."
+  },
+  {
+   "id": "x-turkce-q-015",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "text": "(I) Kitap okuma alışkanlığı çoğunlukla çocuklukta kazanılır. (II) Kitaplarla çevrili bir evde büyüyen, anne babasını okurken gören çocuk okumayı doğal bir etkinlik olarak benimser. (III) Matbaanın icadı, kitapların çoğaltılmasını büyük ölçüde kolaylaştırmıştır. (IV) Bu yüzden çocuğuna okuma sevgisi aşılamak isteyen ailelerin önce kendilerinin okur olması gerekir. (V) Çünkü öğüt vermek, örnek olmanın yerini hiçbir zaman tutamaz.\n\nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+   "options": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V"
+   ],
+   "answer": 2,
+   "explanation": "Parça okuma alışkanlığının ailede, örnek olunarak kazanıldığını anlatır. III. cümle matbaanın tarihsel etkisine geçerek konunun dışına çıkar."
+  },
+  {
+   "id": "x-turkce-q-016",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "text": "Aşağıdaki cümlelerden hangisi bir paragrafın giriş cümlesi olabilir?",
+   "options": [
+    "Bu nedenle uzmanlar öğle saatlerinde güneşe çıkılmamasını öneriyor.",
+    "Üstelik bu durum yalnızca yaşlıları değil gençleri de etkiliyor.",
+    "Onun bu konudaki görüşleri de zamanla değişti.",
+    "Çünkü insanlar sorunları çoğu zaman görmezden gelmeyi seçiyor.",
+    "Dil, bir toplumun kültürel belleğini kuşaktan kuşağa taşıyan en güçlü araçtır."
+   ],
+   "answer": 4,
+   "explanation": "E genel bir yargı bildirir ve önceki bir cümleye bağlı değildir. A, B ve D bağlayıcı ifadelerle (bu nedenle, üstelik, çünkü), C ise gönderim sözcüğüyle (onun, bu) başladığı için giriş cümlesi olamaz."
+  },
+  {
+   "id": "x-turkce-q-017",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "text": "Sabahın ilk ışıkları kıyıdaki beyaz evlerin camlarına vuruyordu. Limanda, boyaları yer yer dökülmüş mavi tekneler hafif dalgalarla sallanıyor; iskeleye yayılan balık ve yosun kokusu, martıların çığlıklarına karışıyordu.\n\nBu parçanın anlatımıyla ilgili aşağıdakilerden hangisi söylenebilir?",
+   "options": [
+    "Bir olay, başından sonuna zaman sırasıyla aktarılmıştır.",
+    "Görme, işitme ve koklama duyularına seslenen ayrıntılarla bir görüntü çizilmiştir.",
+    "Karşıt bir görüş çürütülmeye çalışılmıştır.",
+    "Bir düşünce sayısal verilerle kanıtlanmıştır.",
+    "Bir kavram tanımlanarak açıklanmıştır."
+   ],
+   "answer": 1,
+   "explanation": "Parçada renkler (beyaz, mavi), sesler (martı çığlıkları) ve kokular (balık, yosun) aracılığıyla bir liman görüntüsü çizilmiştir; bu betimlemedir. Parçada gelişen bir olay, tartışma, sayısal veri ya da tanım yoktur."
+  },
+  {
+   "id": "x-turkce-q-018",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "text": "Başarının yalnızca yetenekle değil, sabırla da ilgili olduğu sık sık dile getirilir. Yıllarını laboratuvarda geçirmiş bir bilim insanı bunu şöyle anlatır: \"Buluşlarımın çoğunu zekâma değil, vazgeçmeyişime borçluyum.\"\n\nBu parçada düşünceyi geliştirmek için aşağıdakilerden hangisine başvurulmuştur?",
+   "options": [
+    "Tanımlama",
+    "Karşılaştırma",
+    "Sayısal verilerden yararlanma",
+    "Benzetme",
+    "Tanık gösterme"
+   ],
+   "answer": 4,
+   "explanation": "Yazar, savunduğu düşünceyi güçlendirmek için bir bilim insanının sözünü aktarmıştır; bu tanık göstermedir."
+  },
+  {
+   "id": "x-turkce-q-019",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "text": "Eskiden bir mektubun yerine ulaşması haftalar sürerdi. Bu yüzden insanlar yazdıklarını defalarca düşünür, her cümleyi özenle seçerdi. Bugün ise iletiler saniyeler içinde gidiyor; ama hız arttıkça yazdıklarımız üzerinde düşünme süremiz de kısalıyor.\n\nBu parçadan aşağıdakilerin hangisi çıkarılabilir?",
+   "options": [
+    "Mektup yazmak günümüzde tamamen terk edilmiştir.",
+    "Eskiden insanlar birbirleriyle daha az yazışırdı.",
+    "Hızlı iletişim, insan ilişkilerini güçlendirmiştir.",
+    "İletişim hızlandıkça yazılanlara gösterilen özen azalmıştır.",
+    "Haftalarca beklemek insanları sabırsızlaştırırdı."
+   ],
+   "answer": 3,
+   "explanation": "Parça, eskiden cümlelerin özenle seçildiğini, bugün ise hız arttıkça yazılanlar üzerinde daha az düşünüldüğünü söyler; D buradan çıkar. Öteki seçenekler parçada dayanağı olmayan yargılardır."
+  },
+  {
+   "id": "x-turkce-q-020",
+   "subject": "turkce",
+   "topic": "Paragraf",
+   "text": "Kalabalık bir sınıfta öğretmen her öğrenciye aynı ölçüde zaman ayıramaz. Oysa öğrencilerin öğrenme hızları birbirinden farklıdır. ---- Bu nedenle sınıf mevcutlarının azaltılması, eğitimde niteliği artıracak ilk adımlardan biri olarak görülmektedir.\n\nBu parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+   "options": [
+    "Öğretmenlik, sabır isteyen bir meslektir.",
+    "Bu durumda bazı öğrenciler geride kalırken bazıları da sıkılıp derse ilgisini yitirir.",
+    "Ders kitapları her yıl yeniden gözden geçirilmektedir.",
+    "Okul binalarının çoğu kent merkezlerinde bulunur.",
+    "Öğrenciler teneffüslerde bahçede oyun oynamayı sever."
+   ],
+   "answer": 1,
+   "explanation": "Boşluktan önce sorun (farklı öğrenme hızları), sonra \"bu nedenle\" ile çözüm gelmektedir; aradaki cümle sorunun sonucunu göstermelidir. B bu bağlantıyı kurar."
+  },
+  {
+   "id": "x-turkce-q-021",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "text": "Aşağıdaki cümlelerin hangisinde ünsüz yumuşaması vardır?",
+   "options": [
+    "Kitabın kapağı biraz yırtılmış.",
+    "Topu bahçenin öbür ucuna attı.",
+    "Saçını kısa kestirmiş.",
+    "Sütü ocakta unutmuş.",
+    "Gece yarısı eve döndü."
+   ],
+   "answer": 0,
+   "explanation": "A'da kitap-ın → kitabın (p → b) ve kapak-ı → kapağı (k → ğ) yumuşaması vardır. B, C ve D'deki \"top, saç, süt\" tek heceli olduğu için yumuşamamıştır."
+  },
+  {
+   "id": "x-turkce-q-022",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "text": "Aşağıdaki cümlelerin hangisinde ünlü düşmesine uğramış bir sözcük yoktur?",
+   "options": [
+    "Hayretten ağzını açamadı.",
+    "Oğlunu her sabah okula kendisi götürüyor.",
+    "Kolunu masaya dayayıp düşündü.",
+    "Burnunu kapının kenarına çarptı.",
+    "Bu kez aklını başına topladı."
+   ],
+   "answer": 2,
+   "explanation": "C'deki \"kol-u-nu\" sözcüğünde düşme yoktur. Öteki seçeneklerde ağız → ağzı, oğul → oğlu, burun → burnu, akıl → aklı biçiminde ünlü düşmesi vardır."
+  },
+  {
+   "id": "x-turkce-q-023",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "text": "Aşağıdaki cümlelerin hangisinde ünsüz benzeşmesi vardır?",
+   "options": [
+    "Kitaplığı baştan sona yeniden düzenledi.",
+    "Odadaki herkes sessizce bekliyordu.",
+    "Gözlerini kapayıp derin bir nefes aldı.",
+    "Doğum gününde çiçekçiden bir demet gül aldı.",
+    "Yazın denizde yüzmeyi severdi."
+   ],
+   "answer": 3,
+   "explanation": "D'de \"çiçek\" sözcüğüne gelen -ci eki, sert ünsüz k'nin etkisiyle -çi olmuştur (çiçekçi). Öteki seçeneklerde sert ünsüzden sonra c, d, g ile başlayan bir ek yoktur."
+  },
+  {
+   "id": "x-turkce-q-024",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "text": "Aşağıdaki sözcüklerden hangisi büyük ünlü uyumuna uymaz?",
+   "options": [
+    "çocuklar",
+    "gözlükçü",
+    "kapılar",
+    "evlerimiz",
+    "kardeş"
+   ],
+   "answer": 4,
+   "explanation": "\"kardeş\" sözcüğünde kalın a'dan sonra ince e gelmiştir; Türkçe kökenli olduğu hâlde uyuma uymaz. Öteki sözcüklerde ünlülerin hepsi ya kalın ya da incedir."
+  },
+  {
+   "id": "x-turkce-q-025",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "text": "Aşağıdaki cümlelerin hangisinde ünlü daralması vardır?",
+   "options": [
+    "Annem kapıda bizi bekliyor.",
+    "Ne dediğini tam anlayamadım.",
+    "Yemeğini bitirince dışarı çıktı.",
+    "O böyle deyince herkes güldü.",
+    "Arkadaşını aramayı unuttu."
+   ],
+   "answer": 0,
+   "explanation": "A'da bekle- fiiline -yor eki gelince e ünlüsü i'ye daralmıştır (bekliyor). D'de -ince eki daralmaya yol açmaz (deyince); öteki seçeneklerde de daralma yoktur."
+  },
+  {
+   "id": "x-turkce-q-026",
+   "subject": "turkce",
+   "topic": "Ses Bilgisi",
+   "text": "Aşağıdaki cümlelerin hangisinde \"ş\" kaynaştırma ünsüzü kullanılmıştır?",
+   "options": [
+    "Kapıyı yavaşça kapattı.",
+    "Odasını akşama kadar topladı.",
+    "Öğrencilere altışar kalem dağıtıldı.",
+    "Bahçenin kapısı açık kalmış.",
+    "Suyunu bir dikişte içti."
+   ],
+   "answer": 2,
+   "explanation": "C'de \"altı\" sayısına üleştirme eki -er gelirken araya ş girmiştir (altı-ş-ar). A ve E'de y, B'de s, D'de n kaynaştırma ünsüzü vardır."
+  },
+  {
+   "id": "x-turkce-q-027",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "text": "Aşağıdaki cümlelerin hangisinde \"de\"nin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+   "options": [
+    "Bu akşam biz de sinemaya gideceğiz.",
+    "Kitabını masanın üstünde unutmuşsun.",
+    "Ahmet'te bu soruyu çözemedi.",
+    "Kardeşim de ben de çok yorulduk.",
+    "Toplantı saat üçte başlayacak."
+   ],
+   "answer": 2,
+   "explanation": "C'deki \"de\" bağlaçtır, ayrı yazılmalı ve benzeşmeye uğramamalıdır: \"Ahmet de bu soruyu çözemedi.\" B ve E'deki -de/-te bulunma ekidir ve doğru yazılmıştır."
+  },
+  {
+   "id": "x-turkce-q-028",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "text": "Aşağıdaki cümlelerin hangisinde \"ki\"nin yazımı yanlıştır?",
+   "options": [
+    "Duydum ki yeni bir eve taşınmışsınız.",
+    "Yarınki toplantıya herkes katılacak.",
+    "Belki akşam size uğrarız.",
+    "Öyle yorulmuşum ki hemen uyumuşum.",
+    "Bahçede ki çiçekler kuraklıktan soldu."
+   ],
+   "answer": 4,
+   "explanation": "E'deki -ki, \"bahçedeki\" sözcüğünü sıfat yapan ektir ve bitişik yazılmalıdır. A ve D'deki ki bağlaçtır (ayrı), B'deki ek (bitişik), C'deki \"belki\" kalıplaşmıştır."
+  },
+  {
+   "id": "x-turkce-q-029",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "text": "Aşağıdaki cümlelerin hangisinde kesme işaretinin kullanımı yanlıştır?",
+   "options": [
+    "Yarın sabah erkenden İzmir'e gidiyoruz.",
+    "Toplantı 15.30'da başlayacak.",
+    "Yunus Emre'nin şiirlerini yeniden okudum.",
+    "Türk Dil Kurumu'nun yeni sözlüğü yayımlandı.",
+    "TBMM'de yeni yasa teklifi görüşülüyor."
+   ],
+   "answer": 3,
+   "explanation": "Kurum ve kuruluş adlarına gelen ekler kesmeyle ayrılmaz: \"Türk Dil Kurumunun\". Öteki seçeneklerde kesme işareti kurala uygun kullanılmıştır."
+  },
+  {
+   "id": "x-turkce-q-030",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "text": "Aşağıdaki cümlelerin hangisinde yazımı yanlış olan bir sözcük vardır?",
+   "options": [
+    "Bahçeye hanımeli ve aslanağzı diktik.",
+    "Herşeyi zamanında yapmaya özen gösterir.",
+    "Küçük çocuk kalabalıkta kayboldu.",
+    "Pazartesi günü önemli bir toplantı var.",
+    "Annem bize birçok hediye getirdi."
+   ],
+   "answer": 1,
+   "explanation": "\"Her şey\" ayrı yazılır. A'daki bitki adları anlam kayması nedeniyle, C'deki \"kayboldu\" ünlü düşmesi nedeniyle bitişiktir; \"pazartesi\" ve \"birçok\" da bitişik yazılır."
+  },
+  {
+   "id": "x-turkce-q-031",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "text": "Aşağıdaki cümlelerin hangisinde büyük harflerin kullanımıyla ilgili bir yanlışlık vardır?",
+   "options": [
+    "Tatilde Van gölü kıyısındaki bir köyde kaldık.",
+    "Cumhuriyet 29 Ekim 1923'te ilan edildi.",
+    "Ağrı Dağı'na tırmanmak en büyük hayalim.",
+    "Babam her pazartesi işe erkenden çıkar.",
+    "Bu yaz Karadeniz'i baştan sona gezeceğiz."
+   ],
+   "answer": 0,
+   "explanation": "Yer adlarında tür bildiren sözcük de büyük harfle yazılır: \"Van Gölü\". D'deki \"pazartesi\" belirli bir tarih bildirmediği için küçük harfle yazılmıştır ve doğrudur."
+  },
+  {
+   "id": "x-turkce-q-032",
+   "subject": "turkce",
+   "topic": "Yazım Kuralları",
+   "text": "Aşağıdaki cümlelerin hangisinde sayıların yazımıyla ilgili bir yanlışlık vardır?",
+   "options": [
+    "Öğrencilere ikişer kitap verildi.",
+    "Koşuda 5'inci olarak bitirdi.",
+    "Sınıfın 3.'üncü sırasında oturuyor.",
+    "Kardeşim bu yıl on beş yaşına girdi.",
+    "XX. yüzyılda bilimde büyük ilerlemeler oldu."
+   ],
+   "answer": 2,
+   "explanation": "Rakamla yazılan sıra sayılarında nokta ile kesmeli ek birlikte kullanılmaz; \"3. sırada\" ya da \"3'üncü sırada\" yazılmalıdır. Öteki seçenekler kurala uygundur."
+  },
+  {
+   "id": "x-turkce-q-033",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "text": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) doğru kullanılmıştır?",
+   "options": [
+    "Pazardan elma, armut; kasaptan kıyma, pirzola aldım.",
+    "Yarın; erkenden yola çıkacağız.",
+    "Ali; Ayşe ve Can bu akşam bize geldi.",
+    "Sabah; kahvaltı yapmadan evden çıktı.",
+    "Toplantıya; müdür de katıldı."
+   ],
+   "answer": 0,
+   "explanation": "A'da noktalı virgül, kendi içinde virgülle ayrılmış iki eş görevli grubu birbirinden ayırmıştır. Öteki seçeneklerde böyle bir gereklilik yoktur; işaret ögeleri yersiz biçimde bölmektedir."
+  },
+  {
+   "id": "x-turkce-q-034",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "text": "Aşağıdaki cümlelerin hangisinde iki nokta (:) yanlış kullanılmıştır?",
+   "options": [
+    "Çantasından şunları çıkardı: kalem, defter, silgi.",
+    "Babam her zaman şöyle der: \"Dürüstlük her şeyden önce gelir.\"",
+    "Kardeşim: okuldan çok yorgun geldi.",
+    "Başarının sırrı belliydi: düzenli çalışmak.",
+    "Toplantıda iki konu ele alındı: bütçe ve personel."
+   ],
+   "answer": 2,
+   "explanation": "C'de iki noktadan sonra bir örnek ya da açıklama gelmemiştir; işaret özneyle yüklemi yersiz biçimde ayırmıştır. Öteki seçeneklerde iki nokta açıklama, örnek ya da aktarma sözden önce kullanılmıştır."
+  },
+  {
+   "id": "x-turkce-q-035",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "text": "Aşağıdaki cümlelerin hangisinde virgülün kullanımıyla ilgili bir yanlışlık vardır?",
+   "options": [
+    "Ali, buraya gelir misin?",
+    "Yaşlı adam yavaş, yavaş yürümeye başladı.",
+    "Eve geldi, yemeğini yedi, hemen yattı.",
+    "Kırmızı, mavi ve sarı balonlar aldık.",
+    "İstanbul, Ankara, İzmir gibi büyük kentlerde trafik yoğundur."
+   ],
+   "answer": 1,
+   "explanation": "İkilemelerin arasına virgül konmaz: \"yavaş yavaş\". A'da hitaptan sonra, C'de sıralı cümleler arasında, D ve E'de eş görevli sözcükler arasında virgül doğru kullanılmıştır."
+  },
+  {
+   "id": "x-turkce-q-036",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "text": "Aşağıdaki cümlelerin hangisinde soru işaretinin kullanımı yanlıştır?",
+   "options": [
+    "Bu akşam bize gelecek misin?",
+    "Yunus Emre (1240?-1320) Anadolu'da yaşamış bir halk şairidir.",
+    "Hangi kitabı okuyorsun?",
+    "Kimin aradığını bilmiyorum?",
+    "Yarın hava güzel olur mu?"
+   ],
+   "answer": 3,
+   "explanation": "D'de \"kimin\" soru sözcüğü bulunsa da cümle soru anlamı taşımaz, bir bildirimdir; sonuna nokta konmalıdır. B'deki ayraç içi soru işareti doğum tarihinin kesin olmadığını gösterir."
+  },
+  {
+   "id": "x-turkce-q-037",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "text": "Aşağıdaki cümlelerin hangisinde ünlem işareti yanlış kullanılmıştır?",
+   "options": [
+    "Yarın okula gidecek misin!",
+    "Ey yolcu! Biraz dinlen, sonra yola koyul.",
+    "Eyvah! Treni kaçırdık.",
+    "Ne güzel bir manzara!",
+    "Kendini çok akıllı (!) sanıyor."
+   ],
+   "answer": 0,
+   "explanation": "A bir soru cümlesidir; sonuna soru işareti konmalıdır. B'de seslenmeden sonra, C ve D'de duygu bildiren sözlerde, E'de alay anlamı katmak için ünlem doğru kullanılmıştır."
+  },
+  {
+   "id": "x-turkce-q-038",
+   "subject": "turkce",
+   "topic": "Noktalama",
+   "text": "Aşağıdaki cümlelerin hangisinde kısa çizgi (-) yanlış kullanılmıştır?",
+   "options": [
+    "Ankara-İstanbul seferleri kar nedeniyle iptal edildi.",
+    "Toplantı 2025-2026 öğretim yılının başında yapıldı.",
+    "\"-lık\" eki isimden isim yapar.",
+    "Türk-Alman ilişkileri toplantının ana gündemiydi.",
+    "Bu konuyu yarın-öğleden sonra konuşalım."
+   ],
+   "answer": 4,
+   "explanation": "E'de iki sözcük arasında \"ara, arası\" ilgisi yoktur; kısa çizgi yersizdir. A, B ve D'de \"arası\" anlamı, C'de ek gösterme işlevi vardır."
+  },
+  {
+   "id": "x-turkce-q-039",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "text": "Aşağıdaki cümlelerin hangisinde \"bu\" sözcüğü zamir olarak kullanılmıştır?",
+   "options": [
+    "Bu kitabı daha önce de okumuştum.",
+    "Bunu kimseye söylememeni istiyorum.",
+    "Bu sokakta yıllardır oturuyorlar.",
+    "Bu akşam sinemaya gidelim mi?",
+    "Bu çocuk yaşına göre çok olgun."
+   ],
+   "answer": 1,
+   "explanation": "B'de \"bu\", hâl eki alarak (bunu) bir ismin yerini tutmuştur; zamirdir. Öteki seçeneklerde \"bu\" kendinden sonraki ismi (kitap, sokak, akşam, çocuk) belirten işaret sıfatıdır."
+  },
+  {
+   "id": "x-turkce-q-040",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "text": "Aşağıdaki cümlelerin hangisinde \"güzel\" sözcüğü zarf olarak kullanılmıştır?",
+   "options": [
+    "Tatilde güzel bir hafta geçirdik.",
+    "Güzeller her zaman ilgi görmez.",
+    "Bahçedeki güzel çiçekleri suladı.",
+    "Bu şarkıyı çok güzel söyledi.",
+    "Yeni evleri gerçekten çok güzeldi."
+   ],
+   "answer": 3,
+   "explanation": "D'de \"güzel\" sözcüğü \"söyledi\" fiilini durum yönünden nitelemektedir; zarftır. A ve C'de sıfat, B'de adlaşmış sıfat (isim), E'de ek fiil almış isim soylu yüklemdir."
+  },
+  {
+   "id": "x-turkce-q-041",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "text": "Aşağıdaki cümlelerin hangisinde \"ile\" bağlaç görevinde kullanılmıştır?",
+   "options": [
+    "Kurşun kalemle yazmayı sever.",
+    "Arabayla İzmir'e gittiler.",
+    "Büyük bir sevinçle haberi verdi.",
+    "Makasla kâğıdı ikiye kesti.",
+    "Babası ile annesi bugün köye gitti."
+   ],
+   "answer": 4,
+   "explanation": "E'de \"ile\" yerine \"ve\" getirilebilir (babası ve annesi); bu nedenle bağlaçtır. Öteki seçeneklerde araç ya da durum bildiren edattır."
+  },
+  {
+   "id": "x-turkce-q-042",
+   "subject": "turkce",
+   "topic": "Yapı Bilgisi",
+   "text": "Aşağıdaki sözcüklerden hangisi yapı bakımından türemiştir?",
+   "options": [
+    "kitaplar",
+    "evde",
+    "gözlük",
+    "ayakkabı",
+    "kalemi"
+   ],
+   "answer": 2,
+   "explanation": "\"gözlük\" sözcüğü, \"göz\" köküne -lük yapım eki getirilerek türetilmiştir. \"kitaplar, evde, kalemi\" yalnız çekim eki aldığı için basit, \"ayakkabı\" ise birleşiktir."
+  },
+  {
+   "id": "x-turkce-q-043",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "text": "Aşağıdaki cümlelerin hangisinde sıfat-fiil (ortaç) vardır?",
+   "options": [
+    "Eve gelince seni hemen arayacağım.",
+    "Yüzmeyi çocukluğundan beri seviyor.",
+    "Okuduğum kitabı sana da vereceğim.",
+    "Koşarak otobüse son anda yetişti.",
+    "Okumak insanın ufkunu genişletir."
+   ],
+   "answer": 2,
+   "explanation": "C'deki \"okuduğum\" sözcüğü -dık ekiyle türemiş ve \"kitap\" ismini nitelemiştir; sıfat-fiildir. A ve D'de zarf-fiil (gelince, koşarak), B ve E'de isim-fiil (yüzme, okumak) vardır."
+  },
+  {
+   "id": "x-turkce-q-044",
+   "subject": "turkce",
+   "topic": "Sözcük Türleri",
+   "text": "Aşağıdaki cümlelerin hangisinde edat (ilgeç) kullanılmamıştır?",
+   "options": [
+    "Annem ve babam yarın sabah gelecek.",
+    "Senin için her şeyi göze alırım.",
+    "Akşama kadar onu bekledik.",
+    "Ağabeyi gibi o da çok çalışkandı.",
+    "Yağmura rağmen maç oynandı."
+   ],
+   "answer": 0,
+   "explanation": "A'da \"ve\" bağlaçtır, \"yarın sabah\" ise zarftır; cümlede edat yoktur. Öteki seçeneklerde \"için, kadar, gibi, rağmen\" edatları kullanılmıştır."
+  },
+  {
+   "id": "x-turkce-q-045",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "text": "\"Dün akşam arkadaşlarım bize geldi.\" cümlesinin ögeleri sırasıyla aşağıdakilerin hangisinde verilmiştir?",
+   "options": [
+    "Zarf tümleci - özne - dolaylı tümleç - yüklem",
+    "Özne - zarf tümleci - dolaylı tümleç - yüklem",
+    "Zarf tümleci - nesne - dolaylı tümleç - yüklem",
+    "Zarf tümleci - özne - zarf tümleci - yüklem",
+    "Özne - özne - dolaylı tümleç - yüklem"
+   ],
+   "answer": 0,
+   "explanation": "\"Dün akşam\" ne zaman sorusuna (zarf tümleci), \"arkadaşlarım\" kim sorusuna (özne), \"bize\" kime sorusuna (dolaylı tümleç) cevap verir; \"geldi\" yüklemdir."
+  },
+  {
+   "id": "x-turkce-q-046",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "text": "Aşağıdaki cümlelerin hangisinde belirtili nesne vardır?",
+   "options": [
+    "Ödevini akşam yemeğinden önce bitirdi.",
+    "Kardeşim her sabah bir bardak süt içer.",
+    "Annem pazardan taze meyve aldı.",
+    "Çocuklar akşama kadar parkta oynadı.",
+    "Babam bize yeni kitaplar getirdi."
+   ],
+   "answer": 0,
+   "explanation": "A'da \"ödevini\" sözcüğü -i hâl ekini almış ve \"neyi\" sorusuna cevap vermiştir; belirtili nesnedir. B, C ve E'deki nesneler eksiz olduğu için belirtisizdir; D'de nesne yoktur."
+  },
+  {
+   "id": "x-turkce-q-047",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "text": "Aşağıdakilerden hangisi edilgen (sözde özneli) bir cümledir?",
+   "options": [
+    "Çocuklar bahçede koşuyor.",
+    "Annem çorbayı kısık ateşte pişirdi.",
+    "Ali bu sabah okula erken geldi.",
+    "Mektuplar dün öğleden sonra postaya verildi.",
+    "Kedi kâsedeki sütü içti."
+   ],
+   "answer": 3,
+   "explanation": "D'deki \"verildi\" yüklemi edilgen çatılıdır; işi yapan belli değildir, \"mektuplar\" sözde öznedir. Öteki cümlelerde işi yapan özne bellidir."
+  },
+  {
+   "id": "x-turkce-q-048",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "text": "Aşağıdakilerden hangisi yapısı bakımından şartlı birleşik cümledir?",
+   "options": [
+    "Eve geldi ve hemen yattı.",
+    "Erken kalkarsan otobüsü kaçırmazsın.",
+    "Hava çok soğuktu, herkes içeri girdi.",
+    "Kitap okumayı çok severim.",
+    "Yarın mutlaka bize gel."
+   ],
+   "answer": 1,
+   "explanation": "B'de \"Erken kalkarsan\" şart ekli yan cümle, \"otobüsü kaçırmazsın\" temel cümledir. A bağlı, C sıralı, D girişik birleşik (okuma isim-fiili), E basit cümledir."
+  },
+  {
+   "id": "x-turkce-q-049",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "text": "Aşağıdakilerden hangisi isim cümlesidir?",
+   "options": [
+    "Akşam yemekten sonra erkenden uyudu.",
+    "Yarın hep birlikte sinemaya gideceğiz.",
+    "Kapıyı yavaşça kapattı.",
+    "Okula koşarak geldi.",
+    "Bu kitabın yazarı ünlü bir gazeteciydi."
+   ],
+   "answer": 4,
+   "explanation": "E'nin yüklemi \"gazeteciydi\", ek fiil almış bir isimdir; bu yüzden isim cümlesidir. Öteki cümlelerin yüklemleri çekimli fiildir."
+  },
+  {
+   "id": "x-turkce-q-050",
+   "subject": "turkce",
+   "topic": "Cümlenin Ögeleri",
+   "text": "\"Arkadaşım İstanbul'dan dün akşam döndü.\" cümlesinde \"İstanbul'dan\" sözcüğü hangi ögedir?",
+   "options": [
+    "Özne",
+    "Nesne",
+    "Zarf tümleci",
+    "Dolaylı tümleç",
+    "Yüklem"
+   ],
+   "answer": 3,
+   "explanation": "\"İstanbul'dan\" ayrılma hâl ekini almış ve yükleme sorulan \"nereden\" sorusuna cevap vermiştir; dolaylı tümleçtir."
+  },
+  {
+   "id": "x-turkce-q-051",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "text": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan bir anlatım bozukluğu vardır?",
+   "options": [
+    "Kütüphaneden aldığı kitapları zamanında teslim etti.",
+    "Toplantıda yaklaşık olarak elli kadar kişi vardı.",
+    "Yazar, yeni romanında bir köy öğretmeninin hayatını anlatıyor.",
+    "Bu sabah yola erken çıktık.",
+    "Çocuklar bahçede top oynuyor."
+   ],
+   "answer": 1,
+   "explanation": "B'de \"yaklaşık olarak\" ve \"kadar\" aynı anlamı (tahmini sayı) karşılar; ikisinden biri gereksizdir. Öteki cümlelerde bozukluk yoktur."
+  },
+  {
+   "id": "x-turkce-q-052",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "text": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyumsuzluğundan kaynaklanan bir anlatım bozukluğu vardır?",
+   "options": [
+    "Ben ve kardeşim bu yaz köye gideceğiz.",
+    "Sen ve arkadaşların bu işi kolayca başarırsınız.",
+    "Biz ve onlar yıllarca aynı okulda okuduk.",
+    "Siz ve ben bu konuyu yarın yeniden konuşuruz.",
+    "Kardeşim ve ben her sabah koşuya çıkarlar."
+   ],
+   "answer": 4,
+   "explanation": "E'de özne \"kardeşim ve ben\" olduğu için yüklem birinci çoğul kişiyle çekimlenmelidir: \"çıkarız\". Öteki cümlelerde yüklem özneye uygundur."
+  },
+  {
+   "id": "x-turkce-q-053",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "text": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
+   "options": [
+    "Annesini hem çok seviyor hem de ona güveniyor.",
+    "Sınava iyi hazırlandı ve yüksek bir puan aldı.",
+    "Bu kente hem hayranım hem de çok seviyorum.",
+    "Konuşmacı, dinleyicilerin sorularını sabırla yanıtladı.",
+    "Kitabı okuyup arkadaşına verdi."
+   ],
+   "answer": 2,
+   "explanation": "C'de \"kente\" ortak öge olarak kullanılmış ama \"seviyorum\" yüklemi \"kenti\" biçimini ister; nesne eksikliği vardır. A'da ikinci yüklemin istediği öge (\"ona\") ayrıca verildiği için bozukluk yoktur."
+  },
+  {
+   "id": "x-turkce-q-054",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "text": "Aşağıdaki cümlelerin hangisinde anlamca çelişen sözcüklerin kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+   "options": [
+    "Bu kitabı mutlaka okumalısın.",
+    "Yarın büyük olasılıkla yağmur yağacak.",
+    "Galiba toplantı haftaya ertelenmiş.",
+    "Yarınki maça kesinlikle gelebilirim.",
+    "Hiç kuşkusuz bu yılın en başarılı öğrencisi oydu."
+   ],
+   "answer": 3,
+   "explanation": "D'de \"kesinlikle\" kesinlik, \"gelebilirim\" ise olasılık bildirir; ikisi bir arada kullanılamaz. Doğrusu: \"Yarınki maça kesinlikle geleceğim.\""
+  },
+  {
+   "id": "x-turkce-q-055",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "text": "Aşağıdaki cümlelerin hangisinde bir sözcüğün yanlış anlamda kullanılmasından kaynaklanan anlatım bozukluğu vardır?",
+   "options": [
+    "Bayramdan sonra sebze fiyatları ucuzladı.",
+    "Hasat mevsiminde domates ucuzlar.",
+    "Kışın akaryakıt fiyatları yükseldi.",
+    "Mağazadaki indirim herkesi sevindirdi.",
+    "Bu yıl meyve üretimi geçen yıla göre arttı."
+   ],
+   "answer": 0,
+   "explanation": "Fiyat ucuzlamaz, düşer; ucuzlayan maldır. A'da \"fiyatları ucuzladı\" yerine \"fiyatları düştü\" denmelidir. B'de ucuzlayan domates olduğu için kullanım doğrudur."
+  },
+  {
+   "id": "x-turkce-q-056",
+   "subject": "turkce",
+   "topic": "Anlatım Bozukluğu",
+   "text": "Aşağıdaki cümlelerin hangisinde tamlama yanlışından kaynaklanan bir anlatım bozukluğu vardır?",
+   "options": [
+    "Onun ve kardeşinin odası aynı kattaydı.",
+    "Kendi ve ailesinin geleceği için gece gündüz çalıştı.",
+    "Türk ve dünya edebiyatından örnekler verdi.",
+    "Okulun ve mahallenin sorunlarını dile getirdi.",
+    "Babasının ve annesinin sözlerini dinledi."
+   ],
+   "answer": 1,
+   "explanation": "B'de \"kendi\" zamiri tamlayan eki almadan bağlaçla bağlanmıştır; \"kendisinin ve ailesinin geleceği\" olmalıdır. Öteki seçeneklerde tamlayanların her biri gerekli eki almıştır."
+  },
+  {
+   "id": "x-turkce-q-057",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "text": "A, B, C, D ve E adlı beş arkadaş, yan yana dizilmiş beş sandalyeye soldan sağa doğru oturmuştur.\n- C ortadaki sandalyede oturmaktadır.\n- A, C'nin hemen solunda oturmaktadır.\n- D, E'nin hemen solunda oturmaktadır.\n\nBuna göre en solda kim oturmaktadır?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "answer": 1,
+   "explanation": "C 3., A 2. sandalyededir. D ile E'nin bitişik oturabileceği tek yer 4. ve 5. sandalyelerdir (D 4, E 5). Geriye kalan 1. sandalyede B oturur."
+  },
+  {
+   "id": "x-turkce-q-058",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "text": "Bir kitaplığın üstten alta doğru 1, 2, 3 ve 4 numaralı raflarına roman, şiir, deneme ve hikâye kitapları, her rafa bir tür gelecek biçimde yerleştirilmiştir.\n- Roman, şiirin bulunduğu raftan daha üstteki bir raftadır.\n- Deneme 1. rafta değildir.\n- Hikâye 4. raftadır.\n\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+   "options": [
+    "Şiir 2. raftadır.",
+    "Deneme 3. raftadır.",
+    "Şiir 3. raftadır.",
+    "Roman 1. raftadır.",
+    "Deneme, şiirden daha üstteki bir raftadır."
+   ],
+   "answer": 3,
+   "explanation": "Hikâye 4. raftadır; roman, şiir ve deneme 1-3. raflara yerleşir. Deneme 1. rafta olamaz, roman da şiirden üstte olmalıdır; bu yüzden 1. rafa yalnızca roman gelebilir. Şiir ve deneme 2. ile 3. raflarda her iki sırayla da olabilir."
+  },
+  {
+   "id": "x-turkce-q-059",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "text": "Ali, Banu, Cem ve Deniz'in meslekleri doktor, öğretmen, mühendis ve avukat olup her birinin mesleği farklıdır.\n- Ali doktor da avukat da değildir.\n- Banu mühendis değildir.\n- Cem öğretmendir.\n- Deniz doktor değildir.\n\nBuna göre aşağıdakilerden hangisi doğrudur?",
+   "options": [
+    "Ali öğretmendir.",
+    "Deniz doktordur.",
+    "Banu avukattır.",
+    "Cem mühendistir.",
+    "Deniz avukattır."
+   ],
+   "answer": 4,
+   "explanation": "Cem öğretmen olduğundan Ali (doktor ve avukat olamadığı için) mühendistir. Doktor ve avukatlık Banu ile Deniz'e kalır; Deniz doktor olamayacağı için avukat, Banu ise doktordur."
+  },
+  {
+   "id": "x-turkce-q-060",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "text": "Bir öğrenci matematik, Türkçe, tarih, coğrafya ve vatandaşlık derslerine pazartesiden cumaya kadar her gün yalnızca birine çalışmıştır.\n- Tarihe çarşamba günü çalışmıştır.\n- Türkçeye, matematiğe çalıştığı günün hemen ertesi günü çalışmıştır.\n- Coğrafyaya pazartesi günü çalışmamıştır.\n- Vatandaşlığa cuma günü çalışmamıştır.\n\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+   "options": [
+    "Matematiğe pazartesi günü çalışmıştır.",
+    "Coğrafyaya cuma günü çalışmıştır.",
+    "Vatandaşlığa, coğrafyaya çalıştığı günün hemen bir önceki günü çalışmıştır.",
+    "Türkçeye salı günü çalışmıştır.",
+    "Matematiğe perşembe günü çalışmıştır."
+   ],
+   "answer": 2,
+   "explanation": "Matematik-Türkçe ardışık ikilisi ya pazartesi-salı ya da perşembe-cuma günlerine yerleşir. İlk durumda vatandaşlık perşembe, coğrafya cuma; ikinci durumda vatandaşlık pazartesi, coğrafya salıdır. Her iki durumda da vatandaşlık coğrafyadan hemen önceki gündedir."
+  },
+  {
+   "id": "x-turkce-q-061",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "text": "K, L, M ve N adlı dört koşucu bir yarışı, aralarında aynı anda bitiren olmayacak biçimde tamamlamıştır.\n- K, L'den önce bitirmiştir.\n- M, N'den hemen sonra bitirmiştir.\n- L sonuncu olmamıştır.\n\nBuna göre aşağıdakilerden hangisi yanlıştır?",
+   "options": [
+    "K birinci olmuştur.",
+    "L, N'den sonra bitirmiştir.",
+    "L ikinci olmuştur.",
+    "N üçüncü olmuştur.",
+    "M sonuncu olmuştur."
+   ],
+   "answer": 1,
+   "explanation": "N-M ikilisi 1-2. ya da 2-3. sıraya yerleşirse L sonuncu olmak zorunda kalır; bu yüzden N 3., M 4. sıradadır. K, L'den önce olduğu için K 1., L 2. olur. L, N'den önce bitirdiği için B yanlıştır."
+  },
+  {
+   "id": "x-turkce-q-062",
+   "subject": "turkce",
+   "topic": "Sözel Mantık",
+   "text": "Bir okulda satranç, müzik, resim ve tiyatro kulüpleri vardır. Her öğrenci en az iki kulübe üye olmak zorundadır ve şu kurallara uyulmaktadır:\n- Satranç kulübüne üye olan, müzik kulübüne de üye olur.\n- Resim kulübüne üye olan, satranç kulübüne üye olamaz.\n\nElif resim kulübüne üye olduğuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+   "options": [
+    "Elif müzik kulübüne üyedir.",
+    "Elif tiyatro kulübüne üyedir.",
+    "Elif satranç kulübüne üye değildir.",
+    "Elif üç kulübe üyedir.",
+    "Elif müzik ve tiyatro kulüplerinin ikisine de üyedir."
+   ],
+   "answer": 2,
+   "explanation": "Resim kulübüne üye olan satranca üye olamayacağından Elif satranç kulübünde değildir. Elif'in ikinci kulübü müzik ya da tiyatro olabilir, ikisi birden de olabilir; bu yüzden öteki seçenekler kesin değildir."
+  }
+ ]
+}
